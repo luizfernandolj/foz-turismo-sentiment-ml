@@ -1,0 +1,974 @@
+description,sentiment,category,hotel_id,review_posted_at
+ar condicionado bem silencioso,1,Quarto,viale_cataratas,2025-01-19 00:00:00+00:00
+camas boas,1,Quarto,viale_cataratas,2025-01-19 00:00:00+00:00
+"Copa baby bem abandonada, estava suja, não tinha nem uma chaleira elétrica",0,Áreas comuns,viale_cataratas,2025-01-19 00:00:00+00:00
+Hotel com ótima estrutura,1,Experiência,viale_cataratas,2025-01-17 00:00:00+00:00
+camas confortáveis,1,Quarto,viale_cataratas,2025-01-17 00:00:00+00:00
+"café da manhã, organização",1,Café da manhã,viale_cataratas,2024-05-30 00:00:00+00:00
+"café da manhã, organização e limpeza",1,Café da manhã,viale_cataratas,2024-05-30 00:00:00+00:00
+Bom custo benefício.,1,Experiência,viale_cataratas,2024-11-12 00:00:00+00:00
+os quartos são bem confortáveis,1,Quarto,viale_cataratas,2024-11-12 00:00:00+00:00
+mas um pouco barulhentos,0,Quarto,viale_cataratas,2024-11-12 00:00:00+00:00
+Tem um ótimo custo benefício,1,Experiência,viale_cataratas,2024-11-12 00:00:00+00:00
+Nos quartos não há cômoda ou gavetas para guarda de roupas.,0,Quarto,viale_cataratas,2025-04-07 12:35:05+00:00
+"Essa sauna a vapor umidifica todo o subsolo e os poços dos elevadores, que cheiram a umidade.",0,Áreas comuns,viale_cataratas,2025-04-07 12:35:05+00:00
+Na sauna a vapor o cheiro de podridão (bactérias e fungos) é insuportável e faz mal à saúde.,0,Áreas comuns,viale_cataratas,2025-04-07 12:35:05+00:00
+"As duchas da sauna estão com uma população de bactérias e fungos, inclusive a ""Legionella pneumophila"".",0,Áreas comuns,viale_cataratas,2025-04-07 12:35:05+00:00
+Nada de assistir ao Netflix ou outro streaming do seu celular. Você só fica com os poucos canais de tv.,0,Experiência,viale_cataratas,2025-04-07 12:35:05+00:00
+"No check-out às 12h, eles encerram sua conta à meia-noite anterior.",0,Atendimento da equipe,viale_cataratas,2025-04-07 12:35:05+00:00
+"Então, você fica desde o horário que acorda até a hora de sair sem possibilidade de consumo de bar, enquanto aguarda a hora de saída... É mole?",0,Experiência,viale_cataratas,2025-04-07 12:35:05+00:00
+café da manhã e jantas ótimos,1,Café da manhã,viale_cataratas,2025-05-05 13:23:18+00:00
+"Grande, arejado, relativamente novo.",1,Quarto,viale_cataratas,2024-01-13 00:57:58+00:00
+Comida do restaurante excelente,1,Restaurante/Bar,viale_cataratas,2025-01-17 00:00:00+00:00
+atendimento dos funcionários,1,Atendimento da equipe,viale_cataratas,2025-01-17 00:00:00+00:00
+Sugiro a troca dos colchões que achamos muito duros.,0,Quarto,viale_cataratas,2024-09-08 17:35:59+00:00
+Outro ponto negativo é o barulho.,0,Quarto,viale_cataratas,2024-09-08 17:35:59+00:00
+Passamos sete noites e foi difícil ter uma noite de sono sem perturbação por barulho.,0,Quarto,viale_cataratas,2024-09-08 17:35:59+00:00
+"Hóspedes conversando, crianças correndo pelos corredores e móveis sendo arrastados até altas horas ou muito cedo.",0,Quarto,viale_cataratas,2024-09-08 17:35:59+00:00
+"Também sugiro alguma melhoria para abafar a batida das portas dos quartos (toda vez que alguém entrava ou saía dos quartos próximos, era um transtorno o barulho das batidas).",0,Quarto,viale_cataratas,2024-09-08 17:35:59+00:00
+O cardápio era quase igual  todos os dias. Precisa variar mais.,0,Restaurante/Bar,viale_cataratas,2024-09-08 17:35:59+00:00
+Talvez ter umas duas ou três opções bem elaboradas a la carte fosse melhor do que um self service repetitivo.,0,Restaurante/Bar,viale_cataratas,2024-09-08 17:35:59+00:00
+O ponto positivo é a simpatia e gentileza dos funcionários.,1,Atendimento da equipe,viale_cataratas,2024-09-08 17:35:59+00:00
+Excelente custo x benefício.,1,Experiência,viale_cataratas,2024-11-12 00:00:00+00:00
+com estacionamento,1,Áreas comuns,viale_cataratas,2024-11-12 00:00:00+00:00
+No cafe da manha peguei um xícara que estava com batom,0,Café da manhã,viale_cataratas,2025-01-17 00:00:00+00:00
+área da piscina super agradável,1,Áreas comuns,viale_cataratas,2024-03-25 00:36:09+00:00
+quartos confortáveis,1,Quarto,viale_cataratas,2024-03-25 00:36:09+00:00
+não honraram nossa reserva de quartos com as camas selecionadas,0,Atendimento da equipe,viale_cataratas,2024-03-25 00:36:09+00:00
+"Café da manhã excelente, muito recheado.",1,Café da manhã,viale_cataratas,2024-09-02 02:00:40+00:00
+espaço dos quartos e do hotel,1,Quarto,viale_cataratas,2025-07-22 00:00:00+00:00
+"após o check out, precisamos nos dirigir pessoalmente duas vezes até a recepção apenas para que alguém apertasse um botão que permitíssemos sair com o carro",0,Atendimento da equipe,viale_cataratas,2025-07-22 00:00:00+00:00
+Sensacional. Nota 9 de 10,1,Experiência,viale_cataratas,2025-07-22 00:00:00+00:00
+Muito confortável,1,Quarto,viale_cataratas,2025-07-15 00:00:00+00:00
+ótimo restaurante porém caro,0,Restaurante/Bar,viale_cataratas,2025-07-15 00:00:00+00:00
+Funcionarios muito bons e atendimento rápido sempre que precisei,1,Atendimento da equipe,viale_cataratas,2025-07-15 00:00:00+00:00
+Excelente café da manhã,1,Café da manhã,viale_cataratas,2025-07-15 00:00:00+00:00
+Café da manhã bem variado,1,Café da manhã,viale_cataratas,2025-07-14 00:00:00+00:00
+Delicioso,1,Café da manhã,viale_cataratas,2025-07-14 00:00:00+00:00
+limpo,1,Quarto,viale_cataratas,2025-07-13 00:00:00+00:00
+funcionários educados e prestativos,1,Atendimento da equipe,viale_cataratas,2025-07-13 00:00:00+00:00
+Viale Cataratas tem quartos espaçosos e confortáveis!,1,Quarto,viale_cataratas,2025-07-06 00:00:00+00:00
+Camas e travesseiros muito bons!,1,Quarto,viale_cataratas,2025-07-06 00:00:00+00:00
+Restaurante muito bom!,1,Restaurante/Bar,viale_cataratas,2025-07-06 00:00:00+00:00
+Bar com excelentes cervejas e empanadas!,1,Restaurante/Bar,viale_cataratas,2025-07-06 00:00:00+00:00
+Funcionárias atenciosos e prestativos!!!,1,Atendimento da equipe,viale_cataratas,2025-07-06 00:00:00+00:00
+limpeza,1,Quarto,viale_cataratas,2025-06-23 00:00:00+00:00
+roupa de cama boa,1,Quarto,viale_cataratas,2025-06-23 00:00:00+00:00
+São 2 abajurs com luz fortissima e 1 luz de teto com abajur. Precisava de um dimer para baixar esta luz.,0,Quarto,viale_cataratas,2025-06-23 00:00:00+00:00
+A cústica é ruim ouvimos as pessoas e televisão do quarto ao lado.,0,Quarto,viale_cataratas,2025-06-23 00:00:00+00:00
+A variedade é grande mais os iténs não tem qualidade.,0,Café da manhã,viale_cataratas,2025-06-23 00:00:00+00:00
+"Pães salgados e doces sempre duros, pão de queijo sempre bem frio. Não tem um simples queijinho Minas.",0,Café da manhã,viale_cataratas,2025-06-23 00:00:00+00:00
+"A opção de comida não nos agradou, faltou criatividadee opções, inclusive para quem não toma vinho.",0,Restaurante/Bar,viale_cataratas,2025-06-23 00:00:00+00:00
+Caro e não tinha nada de atrativo para chamar atenção.,0,Restaurante/Bar,viale_cataratas,2025-06-23 00:00:00+00:00
+Cama ótima.,1,Quarto,viale_cataratas,2025-06-20 00:00:00+00:00
+Café da manhã com inúmeras opções.,1,Café da manhã,viale_cataratas,2025-06-20 00:00:00+00:00
+Funcionários muito atenciosos (em qualquer ambiente do hotel).,1,Atendimento da equipe,viale_cataratas,2025-06-20 00:00:00+00:00
+Vale muito mais a estadia no Viale do que em alguns Resorts 5 estrelas da região!,1,Experiência,viale_cataratas,2025-06-20 00:00:00+00:00
+Excelente custo benefício.,1,Experiência,viale_cataratas,2024-10-19 00:00:00+00:00
+Quartos grandes,1,Quarto,viale_cataratas,2024-10-19 00:00:00+00:00
+limpos,1,Quarto,viale_cataratas,2024-10-19 00:00:00+00:00
+boa piscina,1,Áreas comuns,viale_cataratas,2024-10-19 00:00:00+00:00
+saunas seca e à vapor,1,Áreas comuns,viale_cataratas,2024-10-19 00:00:00+00:00
+Necessita troca enxoval que está desgastado ( toalhas).,0,Quarto,viale_cataratas,2024-10-10 00:00:00+00:00
+Gostamos do conforto,1,Experiência,viale_cataratas,2024-05-04 16:47:39+00:00
+"Gostamos do conforto, piscina",1,Áreas comuns,viale_cataratas,2024-05-04 16:47:39+00:00
+buffet de jantar estava mais ou menos mas caro,0,Restaurante/Bar,viale_cataratas,2024-05-04 16:47:39+00:00
+Os funcionários foram sempre muito atenciosos,1,Atendimento da equipe,viale_cataratas,2024-05-04 16:47:39+00:00
+piscina gelada,0,Áreas comuns,viale_cataratas,2025-04-22 00:00:00+00:00
+queriam cobrar pois meu filho estava cadastrado no meu quarto e nós não tínhamos jantar incluído,0,Restaurante/Bar,viale_cataratas,2025-04-22 00:00:00+00:00
+Equipe bem atenciosa!,1,Atendimento da equipe,viale_cataratas,2025-03-05 00:00:00+00:00
+Café da manhã muito bom.,1,Café da manhã,viale_cataratas,2025-03-05 00:00:00+00:00
+"Preços do hotel (almoço/janta frigobar elevados, acabamos chamando tele todas as noites (estávamos sem carro, mas com motirista “particular” que foi muito útil, vale esse conforto.",0,Restaurante/Bar,viale_cataratas,2025-03-05 00:00:00+00:00
+"Deixo apenas a informação dos preciso do hotel, que achei elevado (Heineken 20, água 1,5L 18,00, por exemplo, jantar, na promoção, 106,00).",0,Restaurante/Bar,viale_cataratas,2025-03-05 00:00:00+00:00
+"Quarto sem nenhum isolamento  acústico,  incomoda bastante  principalmente  de manhã  se quiser  ficar um pouco  mais na cama.",0,Quarto,viale_cataratas,2024-09-30 00:00:00+00:00
+Ar condicionado necessitando de manutenção urgente,0,Quarto,viale_cataratas,2024-09-13 00:00:00+00:00
+Trocamos de quarto pois o ar não funcionava,0,Quarto,viale_cataratas,2024-09-13 00:00:00+00:00
+E o outro quarto também com ar condicionado ruim,0,Quarto,viale_cataratas,2024-09-13 00:00:00+00:00
+o café  da manhã  excelente,1,Café da manhã,viale_cataratas,2024-12-07 14:29:35+00:00
+iluminação do quarto excelente,1,Quarto,viale_cataratas,2024-07-15 00:10:48+00:00
+limpeza ok,1,Quarto,viale_cataratas,2024-07-15 00:10:48+00:00
+quarto com tamanho  ideal,1,Quarto,viale_cataratas,2024-07-15 00:10:48+00:00
+Restaurante bom.,1,Restaurante/Bar,viale_cataratas,2025-05-31 00:00:00+00:00
+Café da manhã ótimo.,1,Café da manhã,viale_cataratas,2025-05-31 00:00:00+00:00
+Limpeza ruim.,0,Quarto,viale_cataratas,2025-05-31 00:00:00+00:00
+"Tive que procurar brinquedos da minha filha pelo quarto, embaixo da estava muito empoeirado.",0,Quarto,viale_cataratas,2025-05-31 00:00:00+00:00
+"Toalhas com cheiro ruim, pareciam mal lavadas.",0,Quarto,viale_cataratas,2025-05-31 00:00:00+00:00
+Roupa de cama muito antiga e estragada.,0,Quarto,viale_cataratas,2025-05-31 00:00:00+00:00
+O atendimento no chek-in foi muito bom como sempre.,1,Atendimento da equipe,viale_cataratas,2024-11-20 00:00:00+00:00
+O serviço de camareira tb.,1,Atendimento da equipe,viale_cataratas,2024-11-20 00:00:00+00:00
+As acomodações com boas qualidades de limpeza/higiene/conforto,1,Quarto,viale_cataratas,2024-11-20 00:00:00+00:00
+As acomodações com boas qualidades de limpeza/higiene/conforto,1,Quarto,viale_cataratas,2024-11-20 00:00:00+00:00
+"porém sua iluminação é um pouco deficiente, principalmente para pessoas idosas.",0,Quarto,viale_cataratas,2024-11-20 00:00:00+00:00
+O atendimento na parte do restaurante tb foi muito bom (desde o café da manhã [bastante diversidade e boa qualidade],1,Restaurante/Bar,viale_cataratas,2024-11-20 00:00:00+00:00
+bastante diversidade,1,Café da manhã,viale_cataratas,2024-11-20 00:00:00+00:00
+boa qualidade,1,Café da manhã,viale_cataratas,2024-11-20 00:00:00+00:00
+tb pela receptividade dos auxiliares q compõe a equipe,1,Atendimento da equipe,viale_cataratas,2024-11-20 00:00:00+00:00
+Nas quanto ao atendimento do lobby bar (q tb efetua o atendimento na área da piscina) deixa desejar = demorado,0,Restaurante/Bar,viale_cataratas,2024-11-20 00:00:00+00:00
+"muitas das vezes esquecem de seus pedidos, tendo que questionar por várias vezes o pessoal que presta o atendimento.",0,Restaurante/Bar,viale_cataratas,2024-11-20 00:00:00+00:00
+"eles não se importam com o cliente, não tentam resolver de forma alguma",0,Atendimento da equipe,viale_cataratas,2024-06-17 21:49:56+00:00
+"Atendimento arrogante. Atendimento da recepção , péssimo , a pessoa que fez meu check in foi extremamente arrogante e frio, nada de boas vindas, parecia estar favor um favor, e ainda fez um rolo trocando nossos quartos .",0,Atendimento da equipe,viale_cataratas,2024-10-30 00:00:00+00:00
+"Café da manhã nota 6, não tinha bacon .",0,Café da manhã,viale_cataratas,2024-10-30 00:00:00+00:00
+"senti falta da recreação para as crianças, principalmente nessa fase de reformas que o hotel esta passando",0,Áreas comuns,viale_cataratas,2024-10-22 00:00:00+00:00
+Equipe de limpeza muito atenciosa e simpatica,1,Atendimento da equipe,viale_cataratas,2024-10-22 00:00:00+00:00
+"Achei alguns precos acima da media, algumas bebidas, como refrigerante lata; os sorvetes do bar da piscina e no jantar",0,Restaurante/Bar,viale_cataratas,2024-10-22 00:00:00+00:00
+"Mas a acústica é terrível. Fiquei em um quarto, no térreo, ao lado da piscina, e ouvia o pessoal conversando no bar (dentro do hotel mesmo) até o fechamento do mesmo, fora as batidas de porta e tal",0,Quarto,viale_cataratas,2024-09-09 00:00:00+00:00
+"Sobre o café da manhã, tem muita variedade",1,Café da manhã,viale_cataratas,2024-09-09 00:00:00+00:00
+"Tem opções sem glúten e sem lactose, inclusive pode pedir ovo preparado diferente à cozinha, como eu pedi meus ovinhos cozidos",1,Café da manhã,viale_cataratas,2024-09-09 00:00:00+00:00
+"Em especial gostaria de destacar e agradecer as meninas da recreação, Karol,  Amanda, Jheny, Thais e Dila, pelo carinho, atenção e cuidado com minha pequena (Heloísa).",1,Atendimento da equipe,viale_cataratas,2024-07-11 00:00:00+00:00
+Mto obrigada meninas vcs são 10.,1,Atendimento da equipe,viale_cataratas,2024-07-11 00:00:00+00:00
+cama macia,1,Quarto,viale_cataratas,2024-07-11 00:00:00+00:00
+a tapioca do café da manhã é mega recheada,1,Café da manhã,viale_cataratas,2024-07-11 00:00:00+00:00
+a moça que faz é mto simpática,1,Atendimento da equipe,viale_cataratas,2024-07-11 00:00:00+00:00
+"Agradeço muito a toda equipe recepção, reserva Tatiana pessoa especial demais, a equipe do restaurante a noite comandada por Andreza, as recreadoras amanda e Cacá e Trup ou melhor a todos a limpeza",1,Atendimento da equipe,viale_cataratas,2024-06-08 00:00:00+00:00
+"Segunda vez no mesmo hotel e só melhorou café da manhã o melhor das galáxias (agora com pão de fermentação natural, produtos sem lactose e glúten, e a diversidade de opções, o melhor)",1,Café da manhã,viale_cataratas,2024-06-08 00:00:00+00:00
+Apenas a noite é pouca luz,0,Quarto,viale_cataratas,2024-06-08 00:00:00+00:00
+as portas precisam sem coladas isolador pois infelizmente os demais hospedas cedo ou tarde passam falando alto e isso é chato!,0,Quarto,viale_cataratas,2024-06-08 00:00:00+00:00
+as camas tem colhões firmes (que eu prefiro),1,Quarto,viale_cataratas,2024-03-23 15:18:09+00:00
+o serviço de arrumação e limpeza são ótimos,1,Quarto,viale_cataratas,2024-03-23 15:18:09+00:00
+"O hotel é muito bom, ótimo custo benefício.",1,Experiência,viale_cataratas,2024-03-20 16:29:02+00:00
+A parte da piscina também foi muito aproveitada.,1,Áreas comuns,viale_cataratas,2024-03-20 16:29:02+00:00
+Quartos limpos,1,Quarto,viale_cataratas,2024-03-14 01:46:17+00:00
+funcionarios educados e gentis,1,Atendimento da equipe,viale_cataratas,2024-03-14 01:46:17+00:00
+café da manhã bem variado,1,Café da manhã,viale_cataratas,2024-03-14 01:46:17+00:00
+quarto limpo,1,Quarto,viale_cataratas,2024-03-14 01:46:17+00:00
+"Tudo lindo, limpo",1,Quarto,viale_cataratas,2024-03-13 10:00:09+00:00
+Um quarto muito espaçoso,1,Quarto,viale_cataratas,2024-03-11 11:16:47+00:00
+cama confortável,1,Quarto,viale_cataratas,2024-03-11 11:16:47+00:00
+O café da manhã muito bem servido,1,Café da manhã,viale_cataratas,2024-03-11 11:16:47+00:00
+Utilizei a academia todos os dias,1,Áreas comuns,viale_cataratas,2024-03-11 11:16:47+00:00
+Somente senti falta de um banco reto na academia para fazer exercícios com peso livre,0,Áreas comuns,viale_cataratas,2024-03-11 11:16:47+00:00
+ótimo custo-benefício,1,Experiência,viale_cataratas,2024-03-11 11:16:47+00:00
+equipe educada e prestativa,1,Atendimento da equipe,viale_cataratas,2024-02-13 21:56:53+00:00
+"O café da manhã é maravilhoso com boa variedades de frutas, pães, bolos e frios.",1,Café da manhã,viale_cataratas,2024-03-16 00:00:00+00:00
+não gostamos das camas e dos travesseiros.,0,Quarto,viale_cataratas,2024-03-16 00:00:00+00:00
+"fomos surpreendidos pela Sra Andressa, um anjo, que nos esperou com um saboroso jantar",1,Restaurante/Bar,viale_cataratas,2024-02-09 04:39:38+00:00
+"nos atendeu com carinho, apreço, cuidado e um sorriso no rosto",1,Atendimento da equipe,viale_cataratas,2024-02-09 04:39:38+00:00
+o barulho de pessoas nos horários de descanso nos aptos,0,Quarto,viale_cataratas,2024-01-23 18:23:24+00:00
+a campainha do apto ao lado era muito forte e me acordava,0,Quarto,viale_cataratas,2024-01-23 18:23:24+00:00
+amplo espaço dos quartos,1,Quarto,viale_cataratas,2024-01-11 23:18:55+00:00
+Quartos aconchegantes e com uma boa acústica,1,Quarto,viale_cataratas,2024-01-11 23:18:55+00:00
+"péssimo atendimento dos funcionários Regis e Adalto que jamais deveriam trabalhar com o público, não têm educação",0,Atendimento da equipe,viale_cataratas,2024-01-11 23:18:55+00:00
+não conseguem resolver tais problemas,0,Atendimento da equipe,viale_cataratas,2024-01-11 23:18:55+00:00
+limpezas boa,1,Quarto,viale_cataratas,2024-01-17 18:19:13+00:00
+Piscina maravilhosa,1,Áreas comuns,viale_cataratas,2024-01-11 00:09:03+00:00
+hotel aconchegante,1,Experiência,viale_cataratas,2024-01-11 00:09:03+00:00
+"Nossa avaliação do quarto achamos meio escuro, faltando iluminação",0,Quarto,viale_cataratas,2025-02-05 00:00:00+00:00
+"mas cama, travesseiros muito confortável",1,Quarto,viale_cataratas,2025-02-05 00:00:00+00:00
+ceia maravilhosa,1,Restaurante/Bar,viale_cataratas,2024-01-02 20:41:46+00:00
+drinks especiais,1,Restaurante/Bar,viale_cataratas,2024-01-02 20:41:46+00:00
+um garçom me desrespeitou na piscina e ainda me ameaçou,0,Áreas comuns,viale_cataratas,2024-01-19 00:00:00+00:00
+Colchão bom,1,Quarto,viale_cataratas,2024-01-24 00:00:00+00:00
+Áreas comuns do hotel muito bonitas.,1,Áreas comuns,viale_cataratas,2024-01-24 00:00:00+00:00
+"café e janta fantásticos, com várias opções",1,Café da manhã,viale_cataratas,2024-01-24 00:00:00+00:00
+"Sr Gerônimo, muito atencioso e cortês",1,Atendimento da equipe,viale_cataratas,2024-10-21 00:00:00+00:00
+"ovos mexidos, não estavam legal nos dois dias pareciam uma plasta",0,Café da manhã,viale_cataratas,2024-10-21 00:00:00+00:00
+pães ótimos,1,Café da manhã,viale_cataratas,2024-10-21 00:00:00+00:00
+café excelente,1,Café da manhã,viale_cataratas,2024-10-21 00:00:00+00:00
+"frutas podem ser melhor apresentadas, mas boas",0,Café da manhã,viale_cataratas,2024-10-21 00:00:00+00:00
+ilha de tapioca  inicia mais tarde,0,Café da manhã,viale_cataratas,2024-10-21 00:00:00+00:00
+ah cadê os queijos?,0,Café da manhã,viale_cataratas,2024-10-21 00:00:00+00:00
+custo beneficio não proporcional,0,Experiência,viale_cataratas,2024-10-21 00:00:00+00:00
+"Destaco o Sr Edivaldo,do restaurante,o qual foi super atencioso para mim e minha esposa nos dando dicas de compras e cuidados ao irmos para as compras no Paraguai",1,Atendimento da equipe,viale_cataratas,2024-07-10 00:00:00+00:00
+Hotel muito limpo e bem cuidado,1,Quarto,viale_cataratas,2024-07-10 00:00:00+00:00
+Ótima hospedagem com preço justo,1,Experiência,viale_cataratas,2024-07-10 00:00:00+00:00
+o hotel era super confortável,1,Quarto,viale_cataratas,2024-10-27 00:00:00+00:00
+quartos e piscina maravilhosos!,1,Áreas comuns,viale_cataratas,2025-01-01 00:00:00+00:00
+Excelente custo benefício.,1,Experiência,viale_cataratas,2024-07-31 00:00:00+00:00
+Pessoal da limpeza dos quartos excelentes e prestativos.,1,Atendimento da equipe,viale_cataratas,2024-07-31 00:00:00+00:00
+Quartos bons só deveria ser mais iluminado.,0,Quarto,viale_cataratas,2024-07-31 00:00:00+00:00
+O café e janta são bons mas eles tiram muito rápido e não repõe as vezes as comidas que acabam.,0,Café da manhã,viale_cataratas,2024-07-31 00:00:00+00:00
+piscina,1,Áreas comuns,viale_cataratas,2024-07-29 00:00:00+00:00
+"Hotel muito bom, com excelente atendimento.",1,Atendimento da equipe,viale_cataratas,2024-07-25 00:00:00+00:00
+O café da manhã com uma variedade muito boa.,1,Café da manhã,viale_cataratas,2024-07-25 00:00:00+00:00
+Dias inesquecíveis. Amamos a experiência! Foram dias incríveis em família.,1,Experiência,viale_cataratas,2024-07-24 00:00:00+00:00
+Limpeza,1,Quarto,viale_cataratas,2024-07-17 00:00:00+00:00
+organização,1,Café da manhã,viale_cataratas,2024-07-17 00:00:00+00:00
+climatizado,1,Quarto,viale_cataratas,2024-07-17 00:00:00+00:00
+"destaque para as monitoras da recreação, Karol, Amanda, Jheny, Dila e Thais, meus filhos adoraram elas",1,Atendimento da equipe,viale_cataratas,2024-07-14 00:00:00+00:00
+Atendimento do restaurante também eu achei excelente!,1,Restaurante/Bar,viale_cataratas,2024-07-01 00:00:00+00:00
+Excelente comida e variedade!,1,Café da manhã,viale_cataratas,2024-07-01 00:00:00+00:00
+Excelente comida e variedade!,1,Café da manhã,viale_cataratas,2024-07-01 00:00:00+00:00
+Pena que quando fomos estava frio e não tivemos coragem de entrar na piscina que apesar de climatizada fora dela fazia muito frio e estava um tempo bem gelado!,0,Áreas comuns,viale_cataratas,2024-07-01 00:00:00+00:00
+limpeza do quarto,1,Quarto,viale_cataratas,2024-06-30 00:00:00+00:00
+comida do hotel,1,Restaurante/Bar,viale_cataratas,2024-06-30 00:00:00+00:00
+Bom atendimento em geral. Recepcionistas super atenciosos e garçons bem atentos!,1,Atendimento da equipe,viale_cataratas,2024-04-01 00:00:00+00:00
+"Ficamos em  quartos conjugado, amplos e confortáveis.",1,Quarto,viale_cataratas,2024-04-01 00:00:00+00:00
+Limpeza ótima.,1,Quarto,viale_cataratas,2024-04-01 00:00:00+00:00
+Escolhemos o regime de café mais jantar. Ambos muito bons.,1,Café da manhã,viale_cataratas,2024-04-01 00:00:00+00:00
+O jantar com variadas comidas e sobremesas.,1,Restaurante/Bar,viale_cataratas,2024-04-01 00:00:00+00:00
+Café da manhã bem variado,1,Café da manhã,viale_cataratas,2024-03-29 00:00:00+00:00
+excelente comida!,1,Café da manhã,viale_cataratas,2024-03-29 00:00:00+00:00
+Experiência agradável.,1,Experiência,viale_cataratas,2024-02-19 00:00:00+00:00
+Quartos confortáveis,1,Quarto,viale_cataratas,2024-02-19 00:00:00+00:00
+Funcionários simpáticos e educados,1,Atendimento da equipe,viale_cataratas,2024-02-19 00:00:00+00:00
+"adoramos tudo, a comida, bebida",1,Restaurante/Bar,viale_cataratas,2024-02-13 00:00:00+00:00
+o atendimento,1,Atendimento da equipe,viale_cataratas,2024-02-13 00:00:00+00:00
+"principalmente a equipe de recreação do hotel, parabéns as tias Beterraba, Amanda e Karol",1,Atendimento da equipe,viale_cataratas,2024-02-13 00:00:00+00:00
+atendimento excelente,1,Atendimento da equipe,viale_cataratas,2024-01-20 00:00:00+00:00
+Excelente atendimento,1,Atendimento da equipe,viale_cataratas,2024-01-20 00:00:00+00:00
+recepção perfeita,1,Atendimento da equipe,viale_cataratas,2024-01-20 00:00:00+00:00
+"deixo já o meu elogio para o funcionário Marcos que nós recebeu na recepção,excelente funcionário ,comunicativo muito eficiente",1,Atendimento da equipe,viale_cataratas,2024-01-20 00:00:00+00:00
+"quarto muito bem organizado ,limpo",1,Quarto,viale_cataratas,2024-01-20 00:00:00+00:00
+Bom custo benefício na terra das cataratas.,1,Experiência,viale_cataratas,2024-03-22 00:00:00+00:00
+bem limpo,1,Quarto,viale_cataratas,2024-03-22 00:00:00+00:00
+bom espaço de banheiro,1,Quarto,viale_cataratas,2024-03-22 00:00:00+00:00
+"Cama confortável, lençóis e toalhas em bom estado.",1,Quarto,viale_cataratas,2024-03-22 00:00:00+00:00
+"O café da manhã tem bastante variedade, não chega a ser excepcional, mas é muito bom.",1,Café da manhã,viale_cataratas,2024-03-22 00:00:00+00:00
+"A moça da tapioca é rápida, eficiente e simpática.",1,Atendimento da equipe,viale_cataratas,2024-03-22 00:00:00+00:00
+"Acredito que a área da piscina pode melhorar, tem manchas e a área das crianças um pouco isolada.",0,Áreas comuns,viale_cataratas,2024-03-22 00:00:00+00:00
+Poderia ter uma música ambiente e o bar porderia ser integrado com o ambiente.,0,Áreas comuns,viale_cataratas,2024-03-22 00:00:00+00:00
+"Mas preferiria que o bar fosse integrado na piscina, pois isso parece que funcionaria melhor no hotel.",0,Áreas comuns,viale_cataratas,2024-03-22 00:00:00+00:00
+"A academia pode melhorar, pois é possível malhar, mas poderia ser renovada e que os vidros pudessem ser limpos pois estão empoeirados e que tivesse uma entrada de ar externo por abertura, para pelo menos uma parte do dia ser arejado e sair o ar viciado de dentro, com suor.",0,Áreas comuns,viale_cataratas,2024-03-22 00:00:00+00:00
+"Recepção foi eficiente porém não é simpática e essa cidade é turística, então poderia melhorar.",0,Atendimento da equipe,viale_cataratas,2024-03-22 00:00:00+00:00
+atendimento rápido e eficiente da recepção,1,Atendimento da equipe,viale_cataratas,2024-02-17 00:00:00+00:00
+apartamentos grandes e confortáveis,1,Quarto,viale_cataratas,2024-02-17 00:00:00+00:00
+limpeza no apto e áreas do hotel cuidadas  com muito zelo,1,Quarto,viale_cataratas,2024-02-17 00:00:00+00:00
+piscina com água limpa e espaço para crianças e adultos,1,Áreas comuns,viale_cataratas,2024-02-17 00:00:00+00:00
+vi equipe de limpeza na piscina em diversos horários,1,Áreas comuns,viale_cataratas,2024-02-17 00:00:00+00:00
+"de resto tudo impecável, inclusive ao pessoal da limpeza, ótimas funcionárias e pessoas maravilhosas e educadas",1,Atendimento da equipe,viale_cataratas,2024-08-22 00:00:00+00:00
+"atendimento excelente desde a entrada até a saída, todos os colaboradores simpáticos e atenciosos",1,Atendimento da equipe,viale_cataratas,2024-08-22 00:00:00+00:00
+tivemos um problema com o ar condicionado que não estava funcionando mas como não utilizamos não comentamos nada,0,Quarto,viale_cataratas,2024-08-22 00:00:00+00:00
+"única coisa que poderia melhorar são tomadas perto das camas que não tem, e a que tinha estava estragada onde a outra ficava na parede longe",0,Quarto,viale_cataratas,2024-08-22 00:00:00+00:00
+"Tem um time muito atento e bom na recepção - especialmente o Rodrigo que nos indicou o cantinho da lasanha ou algo assim, mas também Diego e Bruno andam bem.",1,Atendimento da equipe,viale_cataratas,2024-02-04 00:00:00+00:00
+O espaço da piscina é bastante agradável,1,Áreas comuns,viale_cataratas,2024-02-04 00:00:00+00:00
+Café da manhã muito bem organizado.,1,Café da manhã,viale_cataratas,2024-02-04 00:00:00+00:00
+"Café da manhã com muitas opções, variado e gostoso!",1,Café da manhã,viale_cataratas,2024-12-29 00:00:00+00:00
+Excelente custo benefício!,1,Experiência,viale_cataratas,2024-12-29 00:00:00+00:00
+"Atendimento no bar da piscina era péssimo, esqueciam os pedidos ou demorava muito.",0,Restaurante/Bar,viale_cataratas,2024-12-22 00:00:00+00:00
+"Quarto o ar condicionado não funcionava muito bem, demorava muito para esfriar o quarto.",0,Quarto,viale_cataratas,2024-12-22 00:00:00+00:00
+"cama era razoável, antiga já.",0,Quarto,viale_cataratas,2024-12-22 00:00:00+00:00
+tem muitas opções!,1,Restaurante/Bar,viale_cataratas,2024-06-01 00:00:00+00:00
+a comida é deliciosa,1,Restaurante/Bar,viale_cataratas,2024-06-01 00:00:00+00:00
+cordialidade doas funcionários,1,Atendimento da equipe,viale_cataratas,2024-06-01 00:00:00+00:00
+"Fizemos a reserva e chegando lá pedimos a substituição e não foi autorizado, mesmo informando e mostrando a mensagem do WhatsApp a resposta foi negativa",0,Restaurante/Bar,viale_cataratas,2024-03-09 00:00:00+00:00
+Excelente custo benefício.,1,Experiência,viale_cataratas,2024-02-08 00:00:00+00:00
+uma área de piscina boa.,1,Áreas comuns,viale_cataratas,2024-02-08 00:00:00+00:00
+Uma experiência tranquila voltar depois de um dia de passeios e relaxar na piscina.,1,Experiência,viale_cataratas,2024-02-08 00:00:00+00:00
+Café da manhã variado.,1,Café da manhã,viale_cataratas,2024-02-08 00:00:00+00:00
+Quarto e banheiro espaçosos,1,Quarto,viale_cataratas,2024-01-08 00:00:00+00:00
+piscina grande,1,Áreas comuns,viale_cataratas,2024-01-08 00:00:00+00:00
+Todos muito educados e atenciosos,1,Atendimento da equipe,viale_cataratas,2024-01-08 00:00:00+00:00
+Baita atendimento do funcionário Rodrigo na recepção,1,Atendimento da equipe,viale_cataratas,2024-01-08 00:00:00+00:00
+"me reservaram um quarto barulhento, onde haviam crianças berrando pelos corredores a todo momento.",0,Quarto,viale_cataratas,2024-06-26 00:00:00+00:00
+Queriam me cobrar rolha para que eu terminasse uma garrafa de vinho da noite no bar vazio.,0,Restaurante/Bar,viale_cataratas,2024-06-26 00:00:00+00:00
+Atendimento do pessoal excelente.,1,Atendimento da equipe,viale_cataratas,2025-04-10 00:00:00+00:00
+"Localização, acesso, estacionamento excelente.",1,Áreas comuns,viale_cataratas,2025-04-10 00:00:00+00:00
+"O secador foi substituído, e a linha só foi consertada no último dia de nossa estadia",0,Atendimento da equipe,viale_cataratas,2025-07-18 00:00:00+00:00
+Esse tipo de coisa deixa a qualidade da estadia bem abaixo do que poderia ter sido,0,Experiência,viale_cataratas,2025-07-18 00:00:00+00:00
+Ficamos desconfortáveis e saímos extremamente decepcionados,0,Experiência,viale_cataratas,2025-07-18 00:00:00+00:00
+camas confortáveis com excelente roupa de cama,1,Quarto,viale_cataratas,2025-07-15 00:00:00+00:00
+café da manhã com muitas opções,1,Café da manhã,viale_cataratas,2025-07-15 00:00:00+00:00
+É todo iluminado com luzes brancas ( zero acolhedor),0,Quarto,viale_cataratas,2025-07-15 00:00:00+00:00
+Os quartos são minúsculos,0,Quarto,viale_cataratas,2025-07-15 00:00:00+00:00
+a acústica é péssima,0,Quarto,viale_cataratas,2025-07-15 00:00:00+00:00
+quarto espaçoso,1,Quarto,viale_cataratas,2025-07-14 00:00:00+00:00
+café da manhã muito bom,1,Café da manhã,viale_cataratas,2025-07-14 00:00:00+00:00
+"jantar também, com bastante opção",1,Café da manhã,viale_cataratas,2025-07-14 00:00:00+00:00
+Equipe de recepção pouco cordial ou simpática.,0,Atendimento da equipe,viale_cataratas,2025-06-24 00:00:00+00:00
+"No check in (que foi de madrugada) questionei sobre o welcome drink e disseram que não tinha nada na reserva, que era pra verificar no dia seguinte (somente assim consegui).",0,Atendimento da equipe,viale_cataratas,2025-06-24 00:00:00+00:00
+que inclusive tem bastante variedade,1,Café da manhã,viale_cataratas,2025-06-24 00:00:00+00:00
+sempre com reposição,1,Café da manhã,viale_cataratas,2025-06-24 00:00:00+00:00
+Cama muito confortável,1,Quarto,viale_cataratas,2025-06-24 00:00:00+00:00
+Cobrar estacionamento dos hóspedes é patético… R$ 15 por dia.,0,Áreas comuns,viale_cataratas,2025-06-24 00:00:00+00:00
+Hotel atendeu muito bem as expectativas,1,Experiência,viale_cataratas,2025-06-20 00:00:00+00:00
+"funcionarios bem atenciosos, gentis",1,Atendimento da equipe,viale_cataratas,2025-06-20 00:00:00+00:00
+Café da manhã muito bom,1,Café da manhã,viale_cataratas,2025-06-20 00:00:00+00:00
+Hotel com atendimento excelente m custo benefício,1,Experiência,viale_cataratas,2025-06-17 00:00:00+00:00
+Funcionários atenciosos,1,Atendimento da equipe,viale_cataratas,2025-07-09 00:00:00+00:00
+UH espaçosa,1,Quarto,viale_cataratas,2025-07-09 00:00:00+00:00
+extremamente limpa e cheirosa,1,Quarto,viale_cataratas,2025-07-09 00:00:00+00:00
+enxoval ótimo!!,1,Quarto,viale_cataratas,2025-07-09 00:00:00+00:00
+"Falta janela acústica, pois entra barulho, principalmente se for virado para a piscina.",0,Quarto,viale_cataratas,2025-07-08 00:00:00+00:00
+"As portas tambem não vedam som, fica barulho de pessoas no corredor e batendo portas.",0,Quarto,viale_cataratas,2025-07-08 00:00:00+00:00
+Quarto novo e confortável,1,Quarto,viale_cataratas,2025-06-29 00:00:00+00:00
+O café da manhã e o jantar são simplesmente impecáveis,1,Café da manhã,viale_cataratas,2025-07-28 20:11:16+00:00
+"assim como a estrutura do bar e da piscina, que proporcionam momentos de puro relaxamento",1,Áreas comuns,viale_cataratas,2025-07-28 20:11:16+00:00
+A limpeza também merece destaque: tudo sempre muito bem cuidado.,1,Quarto,viale_cataratas,2025-07-28 20:11:16+00:00
+"Desde o check-in até a saída, todos os funcionários foram extremamente educados, prestativos e atenciosos.",1,Atendimento da equipe,viale_cataratas,2025-07-28 20:08:24+00:00
+"O café da manhã é farto, variado e com produtos frescos, perfeito para começar bem o dia.",1,Café da manhã,viale_cataratas,2025-07-28 20:08:24+00:00
+"E o buffet de jantar merece destaque à parte com pratos bem preparados, saborosos e com ótimas opções.",1,Restaurante/Bar,viale_cataratas,2025-07-28 20:08:24+00:00
+A experiência foi incrível.,1,Experiência,viale_cataratas,2025-07-27 21:17:02+00:00
+Funcionários muito educados,1,Atendimento da equipe,viale_cataratas,2025-07-27 21:17:02+00:00
+o café da manhã é perfeito,1,Café da manhã,viale_cataratas,2025-07-27 21:17:02+00:00
+"A equipe de cozinha foi prestativa ao oferecer opções de alimentos para minha esposa e  filha, que não podem consumir glúten nem lactose.",1,Restaurante/Bar,viale_cataratas,2024-01-14 00:00:00+00:00
+Quarto amplo e confortável.,1,Quarto,viale_cataratas,2024-08-10 18:30:14+00:00
+Quarto amplo e confortável.,1,Quarto,viale_cataratas,2024-08-10 18:30:14+00:00
+"O sono não foi muito tranquilo, porque a acústica do quarto é ruim.",0,Quarto,viale_cataratas,2024-08-10 18:30:14+00:00
+"Não usei a piscina, mas é bonita.",1,Áreas comuns,viale_cataratas,2024-08-10 18:30:14+00:00
+A academia precisa de reparos.,0,Áreas comuns,viale_cataratas,2024-08-10 18:30:14+00:00
+"Café da manhã muito bom, com muitas opções de pães, bolos, frutas, frios, tapioca, etc.",1,Café da manhã,viale_cataratas,2024-08-10 18:30:14+00:00
+"Café da manhã muito bom, com muitas opções de pães, bolos, frutas, frios, tapioca, etc.",1,Café da manhã,viale_cataratas,2024-08-10 18:30:14+00:00
+"Há restaurante disponível, mas o custo do buffet (99,00 por pessoa) não é compatível com a qualidade oferecida.",0,Restaurante/Bar,viale_cataratas,2024-08-10 18:30:14+00:00
+"No geral, tive uma boa experiência.",1,Experiência,viale_cataratas,2024-08-10 18:30:14+00:00
+Iluminação deficiente do quarto,0,Quarto,viale_cataratas,2025-08-11 15:25:36+00:00
+Eu coloco o Hotel em uma categoria 4 estrelas +,1,Experiência,viale_cataratas,2025-08-11 01:09:01+00:00
+Top aconchegante,1,Experiência,viale_cataratas,2025-08-08 15:26:32+00:00
+Quartos amplos,1,Quarto,viale_cataratas,2025-03-01 14:49:53+00:00
+boas camas,1,Quarto,viale_cataratas,2025-03-01 14:49:53+00:00
+O ar condicionado não dava conta à noite!,0,Quarto,viale_cataratas,2025-03-01 14:49:53+00:00
+O serviço na piscina estava diminuto.,0,Áreas comuns,viale_cataratas,2025-03-01 14:49:53+00:00
+"O café da manhã é bom, oferece boas opções para quem gosta de comida salgada pela manhã.",1,Café da manhã,viale_cataratas,2025-03-01 14:49:53+00:00
+A umidade muitas vezes passam para o quarto.,0,Quarto,viale_cataratas,2025-08-17 11:18:14+00:00
+atendimento excelente,1,Atendimento da equipe,viale_cataratas,2025-08-12 18:10:52+00:00
+Estacionamento seguro,1,Áreas comuns,viale_cataratas,2025-08-12 18:10:52+00:00
+Colchão duro.,0,Quarto,viale_cataratas,2025-08-12 00:00:00+00:00
+O colchão duro como pedra.,0,Quarto,viale_cataratas,2025-08-12 00:00:00+00:00
+achei o preço alto para o que eles orferecem,0,Restaurante/Bar,viale_cataratas,2025-08-11 00:00:00+00:00
+"Dizer q esse hotel é 4 estrelas, achei exagero",0,Experiência,viale_cataratas,2025-08-11 00:00:00+00:00
+"pouco armario no quarto para organizar as roupas, principalmente se vc vai pasar muitos dias",0,Quarto,viale_cataratas,2025-08-11 00:00:00+00:00
+o atendimento no check in foi impecável,1,Atendimento da equipe,viale_cataratas,2025-08-05 00:00:00+00:00
+equipe solicita e sempre dispostos a ajudar,1,Atendimento da equipe,viale_cataratas,2025-08-05 00:00:00+00:00
+"Na chegada adorei que tem um funcionário auxiliando com as malas, o pessoal nos ajudou a retirar as malas e levou até o quarto! Ponto super positivo pro hotel, principalmente no meu caso que estava com crianças…",1,Atendimento da equipe,viale_cataratas,2024-07-31 00:00:00+00:00
+"Tem estacionamento na frente do hotel com segurança 24h e também na parte de baixo do hotel, estacionamento fechado…",1,Áreas comuns,viale_cataratas,2024-07-31 00:00:00+00:00
+"Ao entrarmos no quarto o primeiro ponto negativo, o quarto estava com o chão sujo, encontramos uma roupa intima feminina e também um absorvente feminino, desci na recepção informar",0,Quarto,viale_cataratas,2024-07-31 00:00:00+00:00
+"o Supervisor me atendeu, se não me engano o nome era Marcio, foi gentil e atencioso, insistiu em nos dar 04 vales Drinks mesmo eu dizendo que não havia necessidade",1,Atendimento da equipe,viale_cataratas,2024-07-31 00:00:00+00:00
+"consta que a piscina é aquecida, realmente, existe um sistema de aquecimento, mas está longe da agua ser até mesmo morna, quem dirá quente, eram 16h com um sol de 29 graus e meus dois filhos já estavam batendo os dentes de frio. A agua era muito mais fria do que quente.",0,Áreas comuns,viale_cataratas,2024-07-31 00:00:00+00:00
+"Ao voltarmos ao quarto, o mesmo estava super limpo, parabéns ao pessoal da limpeza, o trabalho foi impecável",1,Quarto,viale_cataratas,2024-07-31 00:00:00+00:00
+café da manhã delicioso!,1,Café da manhã,viale_cataratas,2024-07-31 00:00:00+00:00
+Jantar excelente também,1,Restaurante/Bar,viale_cataratas,2024-07-31 00:00:00+00:00
+"Achei um pouco absurdo  cobrarem R$ 10,00 por 200ml de leite, mas acho que isso é um detalhe…",0,Restaurante/Bar,viale_cataratas,2024-07-31 00:00:00+00:00
+"Ponto bem positivo para os garçons, super gente boa! Gostamos de vários",1,Atendimento da equipe,viale_cataratas,2024-07-31 00:00:00+00:00
+café da manhã muito variado,1,Café da manhã,viale_cataratas,2024-05-07 00:00:00+00:00
+Recepção atenciosa especialmente nas pessoas de João e Rodrigo,1,Atendimento da equipe,viale_cataratas,2024-05-07 00:00:00+00:00
+Perfeito. Melhor custo benefício.,1,Experiência,viale_cataratas,2024-01-02 00:00:00+00:00
+o café da manhã bem variado para todos,1,Café da manhã,viale_cataratas,2024-01-02 00:00:00+00:00
+os quartos limpos,1,Quarto,viale_cataratas,2024-01-02 00:00:00+00:00
+o serviço de governança muito rápido,1,Atendimento da equipe,viale_cataratas,2024-01-02 00:00:00+00:00
+O Diego da recepção foi muito atencioso e simpático,1,Atendimento da equipe,viale_cataratas,2024-01-02 00:00:00+00:00
+"Muito tranquilo, lugar muito bom para descansar.",1,Experiência,viale_cataratas,2025-04-18 00:00:00+00:00
+"Excelente hotel, atendeu a todas as expectativas.",1,Experiência,viale_cataratas,2024-03-03 15:42:06+00:00
+Café excelente e completo!,1,Café da manhã,viale_cataratas,2024-03-03 15:42:06+00:00
+"Hotel bem tranquilo, aconchegante e de fácil localização.",1,Experiência,viale_cataratas,2025-08-21 00:00:00+00:00
+Restaurante com comidas deliciosas.,1,Restaurante/Bar,viale_cataratas,2025-08-21 00:00:00+00:00
+"Agradecimento a gerente Andressa, à todos do restaurante tudo muito impecáveis,  da recepcão e da equipe de limpeza.",1,Atendimento da equipe,viale_cataratas,2025-08-21 00:00:00+00:00
+O pessoal de uma maneira geral não são muito amigáveis,0,Atendimento da equipe,viale_cataratas,2024-12-02 19:54:51+00:00
+não fazem questão de te auxiliar,0,Atendimento da equipe,viale_cataratas,2024-12-02 19:54:51+00:00
+a relação custo benefício do hotel não compensa,0,Experiência,viale_cataratas,2024-12-02 19:54:51+00:00
+Muito bonito e aconchegante,1,Experiência,viale_cataratas,2024-07-25 03:09:02+00:00
+funcionários bastante prestativos,1,Atendimento da equipe,viale_cataratas,2024-07-25 03:09:02+00:00
+Café da manhã excelente!,1,Café da manhã,viale_cataratas,2024-07-25 03:09:02+00:00
+"Muito barulho nos quartos, arrastando móveis, gritaria.",0,Quarto,viale_cataratas,2024-07-16 17:22:10+00:00
+"Tivemos que trocar de quarto 3 vezes porque o ar condicionado não funcionava, super sujo, sem manutenção.",0,Quarto,viale_cataratas,2024-07-16 17:22:10+00:00
+"A experiência do check-in com esse indivíduo foi péssima, uma pessoa mal humorada, sem nenhum tipo de carisma, em nenhum momento fez questão de ser educado ou hospitaleiro, fazendo com que a primeira impressão fosse desagradável.",0,Atendimento da equipe,viale_cataratas,2024-04-23 19:18:20+00:00
+"Depois disso meu marido também teve um desacordo com Adalto em relação ao cartão que abre o quarto, ele simplesmente não queria liberar novamente o cartão para consumo pois havíamos perdido o outro cartão!",0,Atendimento da equipe,viale_cataratas,2024-04-23 19:18:20+00:00
+"uma pessoa mal humorada, sem nenhum tipo de carisma, em nenhum momento fez questão de ser educado ou hospitaleiro, fazendo com que a primeira impressão fosse desagradável.",0,Atendimento da equipe,viale_cataratas,2024-04-23 19:18:20+00:00
+"O custo benefício também é bom, pois o hotel tem uma boa área de lazer e se torna uma ótima opção pra quem não puder ficar hospedado nos resorts mais sofisticados.",1,Experiência,viale_cataratas,2024-04-12 02:02:04+00:00
+A comida é boa,1,Restaurante/Bar,viale_cataratas,2024-04-12 02:02:04+00:00
+tem boa variedade,1,Restaurante/Bar,viale_cataratas,2024-04-12 02:02:04+00:00
+gostamos especialmente das opções de sobremesa,1,Restaurante/Bar,viale_cataratas,2024-04-12 02:02:04+00:00
+O quarto que ficamos tinha bom espaço,1,Quarto,viale_cataratas,2024-04-12 02:02:04+00:00
+Um ponto negativo que poderia citar é o atendimento via whatsapp que é bem demorado pra ter resposta,0,Atendimento da equipe,viale_cataratas,2024-04-12 02:02:04+00:00
+"Gostaria de destacar o atendimento da equipe da cozinha, em especial o garçom Diego, bem simpático e atencioso",1,Atendimento da equipe,viale_cataratas,2024-04-12 02:02:04+00:00
+Hotel excelente para famílias com crianças.,1,Experiência,viale_cataratas,2025-01-25 00:00:00+00:00
+o café da manhã e jantar estavam excelentes,1,Café da manhã,viale_cataratas,2025-01-25 00:00:00+00:00
+a piscina é limpa,1,Áreas comuns,viale_cataratas,2025-01-25 00:00:00+00:00
+os funcionários são atenciosos e gentis,1,Atendimento da equipe,viale_cataratas,2025-01-25 00:00:00+00:00
+o quarto era bem confortável,1,Quarto,viale_cataratas,2025-01-25 00:00:00+00:00
+Atendeu muito bem às nossas expectativas.,1,Experiência,viale_cataratas,2025-01-25 00:00:00+00:00
+Quarto bom tamanho,1,Quarto,viale_cataratas,2025-01-15 00:00:00+00:00
+cafe da manha bem variado,1,Café da manhã,viale_cataratas,2025-01-15 00:00:00+00:00
+custo das refeições e lanches altissimo,0,Restaurante/Bar,viale_cataratas,2025-01-15 00:00:00+00:00
+muito barulho dos hospedes,0,Quarto,viale_cataratas,2024-12-16 00:00:00+00:00
+limpeza,1,Quarto,viale_cataratas,2024-03-22 16:52:31+00:00
+Excelência no atendimento,1,Atendimento da equipe,viale_cataratas,2024-03-22 16:52:31+00:00
+muito organizado,1,Experiência,viale_cataratas,2025-09-01 01:00:40+00:00
+café da manhã bom,1,Café da manhã,viale_cataratas,2025-08-31 04:27:56+00:00
+jantar melhor ainda,1,Restaurante/Bar,viale_cataratas,2025-08-31 04:27:56+00:00
+a noite estava super fria,0,Quarto,viale_cataratas,2025-08-28 12:51:39+00:00
+piscina aquecida,1,Áreas comuns,viale_cataratas,2024-06-26 00:00:00+00:00
+sauna,1,Áreas comuns,viale_cataratas,2024-06-26 00:00:00+00:00
+preço das bebidas exagerado,0,Restaurante/Bar,viale_cataratas,2024-05-20 00:00:00+00:00
+Excelente custo-benefício,1,Experiência,viale_cataratas,2024-08-13 00:00:00+00:00
+A piscina é  boa para crianças,1,Áreas comuns,viale_cataratas,2024-01-26 02:40:36+00:00
+"Os funcionários são muitos educados, a Fernanda que faz a tapioca e toda a equipe do café, recepção, manutenção!",1,Atendimento da equipe,viale_cataratas,2025-08-29 00:00:00+00:00
+a cama estava com um lado bem mais baixo que o outro,0,Quarto,viale_cataratas,2025-09-02 00:19:22+00:00
+pouca iluminação,0,Quarto,viale_cataratas,2025-09-02 00:19:22+00:00
+cobertas estavam amareladas,0,Quarto,viale_cataratas,2025-09-02 00:19:22+00:00
+Os funcionários são educados,1,Atendimento da equipe,viale_cataratas,2025-09-02 00:19:22+00:00
+o atendimento é rápido,1,Atendimento da equipe,viale_cataratas,2025-09-02 00:19:22+00:00
+Ambiente tranquilo,1,Experiência,viale_cataratas,2025-09-02 00:19:22+00:00
+das equipes de camareiras que super cuidaram do nosso espaço por sete dias,1,Atendimento da equipe,viale_cataratas,2025-09-01 00:00:00+00:00
+tive que trocar de quarto na primeira noite por conta do barulho dos hóspedes do quarto ao lado,0,Quarto,viale_cataratas,2025-06-05 00:00:00+00:00
+me colocaram num quarto afastado e com ar condicionado com defeito - resultado: dormi passando frio,0,Quarto,viale_cataratas,2025-06-05 00:00:00+00:00
+Me colocaram em um que funcionava o ar condicionado,1,Quarto,viale_cataratas,2025-06-05 00:00:00+00:00
+Funcionários gentis,1,Atendimento da equipe,viale_cataratas,2025-06-05 00:00:00+00:00
+O ar condicionado Velho nem funcionou direito,0,Quarto,viale_cataratas,2025-02-04 00:00:00+00:00
+Quanto muito pequeno para 4 pessoas!!,0,Quarto,viale_cataratas,2025-05-24 00:00:00+00:00
+"Quartos modernos com frigobar, cofre, TV e AR Condicionado, limpos e amplos.",1,Quarto,viale_cataratas,2024-04-29 00:00:00+00:00
+Na entrada você  já percebe a construção e decoração moderna do hotel.,1,Áreas comuns,viale_cataratas,2024-04-29 00:00:00+00:00
+Lobby do hotel grande.,1,Áreas comuns,viale_cataratas,2024-04-29 00:00:00+00:00
+Recepção espaçosa e com atendimento dos colaborados muito eficiente e  ágil.,1,Atendimento da equipe,viale_cataratas,2024-04-29 00:00:00+00:00
+Café da manhã completo com inúmeras variedades de refeições e bebidas.,1,Café da manhã,viale_cataratas,2024-04-29 00:00:00+00:00
+"Quartos modernos com frigobar, cofre, TV e AR Condicionado, limpos e amplos.",1,Quarto,viale_cataratas,2024-04-29 00:00:00+00:00
+"Quartos modernos com frigobar, cofre, TV e AR Condicionado, limpos e amplos.",1,Quarto,viale_cataratas,2024-04-29 00:00:00+00:00
+"Quartos modernos com frigobar, cofre, TV e AR Condicionado, limpos e amplos.",1,Quarto,viale_cataratas,2024-04-29 00:00:00+00:00
+"Quartos modernos com frigobar, cofre, TV e AR Condicionado, limpos e amplos.",1,Quarto,viale_cataratas,2024-04-29 00:00:00+00:00
+Cama de casal enorme!,1,Quarto,viale_cataratas,2024-04-29 00:00:00+00:00
+"Uma observação que me chamou muito a atenção foi o preço de um sorvete Mega Magnun custar R$ 38,00 . Achei abusivo !",0,Restaurante/Bar,viale_cataratas,2024-04-29 00:00:00+00:00
+com uma boa piscina,1,Áreas comuns,viale_cataratas,2024-04-07 00:00:00+00:00
+"peguei com meia pensão na qual a opção era o jantar , muito bom",1,Restaurante/Bar,viale_cataratas,2024-04-07 00:00:00+00:00
+"nos acomodaram em um quarto que estava horrível, sujo, encardido, velho, buraco no chão que eu virei meu pé",0,Quarto,viale_cataratas,2025-09-12 23:42:10+00:00
+"mas também sujo, mal cuidado",0,Quarto,viale_cataratas,2025-09-12 23:42:10+00:00
+"café da manhã muito razoável, café frio, bagunçado",0,Café da manhã,viale_cataratas,2025-09-12 23:42:10+00:00
+Elevadores horríveis,0,Áreas comuns,viale_cataratas,2025-09-12 23:42:10+00:00
+"Quarto bem cuidado, hotel limpo",1,Quarto,viale_cataratas,2024-01-14 00:00:00+00:00
+"Toda equipe do hotel: educados, gentis, simpáticos",1,Atendimento da equipe,viale_cataratas,2024-01-14 00:00:00+00:00
+Jantar muito caro para quem come pouco a noite,0,Restaurante/Bar,viale_cataratas,2024-01-14 00:00:00+00:00
+"Nos colocaram em um quarto sujo, velho, encardido",0,Quarto,viale_cataratas,2025-09-15 00:00:00+00:00
+tinha um buraco no chão de madeira no qual eu virei meu pé,0,Quarto,viale_cataratas,2025-09-15 00:00:00+00:00
+"quarto ""maquiado"" da mesma forma encardido, sujo, vidro do box fosco e cantos grosso de sujeira",0,Quarto,viale_cataratas,2025-09-15 00:00:00+00:00
+Camas e roupas de cama de baixa qualidade,0,Quarto,viale_cataratas,2025-09-15 00:00:00+00:00
+Elevadores ruins,0,Áreas comuns,viale_cataratas,2025-09-15 00:00:00+00:00
+garagem coberta com uma impressão horrível,0,Áreas comuns,viale_cataratas,2025-09-15 00:00:00+00:00
+alimentação é muito boa,1,Restaurante/Bar,viale_cataratas,2025-09-13 00:00:00+00:00
+a piscina não é aquecida e mesmo tendo um dia de 30 graus ela ainda fica gelada,0,Áreas comuns,viale_cataratas,2025-09-13 00:00:00+00:00
+"anteriormente não cobrava estacionamento, agora está sendo cobrado e isso entendo que deveria estar incluso na diária e não pagamento separado",0,Áreas comuns,viale_cataratas,2025-09-13 00:00:00+00:00
+Achei muito ruim cobrarem pelo estacionamento no hotel.,0,Áreas comuns,viale_cataratas,2025-05-16 00:00:00+00:00
+Atendimento muito bom.,1,Atendimento da equipe,viale_cataratas,2025-05-07 00:00:00+00:00
+Café da manhã excelente!,1,Café da manhã,viale_cataratas,2025-05-07 00:00:00+00:00
+Cama muito confortável.,1,Quarto,viale_cataratas,2025-05-07 00:00:00+00:00
+Superou as expectativas.,1,Experiência,viale_cataratas,2025-05-05 00:00:00+00:00
+quartos e banheiros muito limpos e arejados.,1,Quarto,viale_cataratas,2025-05-05 00:00:00+00:00
+Café da manhã excepcional,1,Café da manhã,viale_cataratas,2025-05-05 00:00:00+00:00
+funcionários super educados.,1,Atendimento da equipe,viale_cataratas,2025-05-05 00:00:00+00:00
+Cumpriu com a proposta de ser um hotel confortável com um bom serviço prestado ao hóspede.,1,Experiência,viale_cataratas,2025-09-19 00:00:00+00:00
+Bom custo benefício.,1,Experiência,viale_cataratas,2025-09-19 00:00:00+00:00
+Parabéns para todos os colaboradores.,1,Atendimento da equipe,viale_cataratas,2025-09-22 00:00:00+00:00
+Ar condicionado não funciona direito,0,Quarto,viale_cataratas,2025-09-21 00:00:00+00:00
+cama na foi das melhores,0,Quarto,viale_cataratas,2025-09-21 00:00:00+00:00
+funcionários atenciosos,1,Atendimento da equipe,viale_cataratas,2024-01-07 00:00:00+00:00
+café da manhã de qualidade,1,Café da manhã,viale_cataratas,2024-01-07 00:00:00+00:00
+quartos limpos,1,Quarto,viale_cataratas,2025-01-27 00:00:00+00:00
+jantar delicioso,1,Restaurante/Bar,viale_cataratas,2025-01-27 00:00:00+00:00
+Atendentes do restaurante e a chef muito atenciosos,1,Atendimento da equipe,viale_cataratas,2025-01-27 00:00:00+00:00
+Custo da diária alto para o padrão do hotel.,0,Experiência,viale_cataratas,2024-11-23 00:00:00+00:00
+Tudo muito limpo,1,Quarto,viale_cataratas,2024-03-18 00:00:00+00:00
+silencioso,1,Quarto,viale_cataratas,2024-03-18 00:00:00+00:00
+Ambiente bem familiar,1,Experiência,viale_cataratas,2024-03-18 00:00:00+00:00
+Café da manhã muito bom,1,Café da manhã,viale_cataratas,2024-03-18 00:00:00+00:00
+os quartos também são bem arrumados e limpos,1,Quarto,viale_cataratas,2025-01-20 22:39:41+00:00
+"Atendimento na piscina muito ruim, vc pede algo demora demais p/ chegar, e as vezes vc tem que ir lá buscar. Pouco funcionário trabalhando.",0,Áreas comuns,viale_cataratas,2025-01-20 22:39:41+00:00
+"Na cozinha os pratos também são bem ruins, comida sem gosto, sem sabor.",0,Restaurante/Bar,viale_cataratas,2025-01-20 22:39:41+00:00
+um bom serviço de quarto,1,Atendimento da equipe,viale_cataratas,2024-09-14 22:08:56+00:00
+Camas confortáveis,1,Quarto,viale_cataratas,2024-09-14 22:08:56+00:00
+ar condicionado,1,Quarto,viale_cataratas,2024-09-14 22:08:56+00:00
+O restaurante é impecável e as refeições são muito boas,1,Restaurante/Bar,viale_cataratas,2024-09-14 22:08:56+00:00
+quartos amplos,1,Quarto,viale_cataratas,2024-09-12 13:53:40+00:00
+extremamente aconchegantes,1,Quarto,viale_cataratas,2024-09-12 13:53:40+00:00
+arrumados,1,Quarto,viale_cataratas,2024-09-12 13:53:40+00:00
+Recepção maravilhosa,1,Atendimento da equipe,viale_cataratas,2024-09-12 13:53:40+00:00
+as bebidas alcoólicas e não alcoólicas são extremamente caras,0,Restaurante/Bar,viale_cataratas,2024-09-12 13:53:40+00:00
+pagamos bem mais que deveria,0,Experiência,viale_cataratas,2024-09-12 10:34:17+00:00
+esse hotel não te o minino de organização e responsabilidade não pensa no consumidor,0,Experiência,viale_cataratas,2024-09-12 10:34:17+00:00
+café da manhã fantástico,1,Café da manhã,viale_cataratas,2024-08-21 12:55:44+00:00
+aproveite e experimente a tapioca que é simplesmente maravilhosa,1,Café da manhã,viale_cataratas,2024-08-21 12:55:44+00:00
+quarto confortável,1,Quarto,viale_cataratas,2024-08-20 00:48:30+00:00
+comida de ótima qualidade,1,Restaurante/Bar,viale_cataratas,2024-08-16 20:58:33+00:00
+café da manhã muito bom grande variedade,1,Café da manhã,viale_cataratas,2024-08-16 20:58:33+00:00
+funcionários muito atencioso,1,Atendimento da equipe,viale_cataratas,2024-08-16 20:58:33+00:00
+café da manhã muito bom,1,Café da manhã,viale_cataratas,2024-08-14 15:10:09+00:00
+boas piscinas,1,Áreas comuns,viale_cataratas,2024-07-05 22:26:29+00:00
+"O restaurante servia buffet no almoço até ás 15:00 horas. Um dia nos atrasamos em uma passeio e pedimos para estender o horário por 15 minutos para que a gente pudesse comer, o mesmo foi negado e precisamos nos virar com batatas fritas",0,Restaurante/Bar,viale_cataratas,2025-04-22 00:00:00+00:00
+Ficamos mais de 6 horas sem luz no quarto por um problema das instalações e só resolvido depois de muito insistência. Não deram atenção devida para o caso,0,Quarto,viale_cataratas,2025-04-22 00:00:00+00:00
+Eu achei o atendimento muito sem empatia e frio,0,Atendimento da equipe,viale_cataratas,2025-04-22 00:00:00+00:00
+Piscina estava parte em manutenção.,0,Áreas comuns,viale_cataratas,2025-01-08 20:12:11+00:00
+Bom custo benefício.,1,Experiência,viale_cataratas,2024-07-28 07:26:42+00:00
+Quartos confortáveis,1,Quarto,viale_cataratas,2024-07-28 07:26:42+00:00
+buffet de café da manhã maravilhoso,1,Café da manhã,viale_cataratas,2024-07-28 07:26:42+00:00
+As opções do bar/restaurante são limitadas,0,Restaurante/Bar,viale_cataratas,2024-07-28 07:26:42+00:00
+As opções do bar/restaurante são caras,0,Restaurante/Bar,viale_cataratas,2024-07-28 07:26:42+00:00
+o quarto sao muito escuros,0,Quarto,viale_cataratas,2024-07-17 00:00:00+00:00
+"Tranquilidade. Maravilhoso,tranquilo.",1,Experiência,viale_cataratas,2025-05-19 00:00:00+00:00
+a limpeza é boa,1,Quarto,viale_cataratas,2024-01-02 00:00:00+00:00
+a cama é confortável,1,Quarto,viale_cataratas,2024-01-02 00:00:00+00:00
+os funcionários são atenciosos,1,Atendimento da equipe,viale_cataratas,2024-01-02 00:00:00+00:00
+no geral o hotel é bem razoável cobrando um preço justo pelo o que oferece,1,Experiência,viale_cataratas,2024-01-02 00:00:00+00:00
+Hotel com custo benefício bom.,1,Experiência,viale_cataratas,2024-03-28 00:00:00+00:00
+"café da manhã bom, destaque para tapioca",1,Café da manhã,viale_cataratas,2024-03-28 00:00:00+00:00
+Equipe do restaurante muito atenciosa e cordial,1,Restaurante/Bar,viale_cataratas,2025-05-14 00:00:00+00:00
+Equipe do restaurante muito atenciosa e cordial,1,Atendimento da equipe,viale_cataratas,2025-05-14 00:00:00+00:00
+Quarto confortável,1,Quarto,viale_cataratas,2025-05-14 00:00:00+00:00
+"talvez uma mudanças nas cores, porque é tudo branco, se torna meio frio",0,Quarto,viale_cataratas,2025-05-14 00:00:00+00:00
+Café da manhã muito bom,1,Café da manhã,viale_cataratas,2025-05-14 00:00:00+00:00
+"O mesmo vale para o jantar (incluso somente na tarifa com meia pensão), muito prático para quem não quer se deslocar para jantar",1,Restaurante/Bar,viale_cataratas,2025-05-14 00:00:00+00:00
+Quartos amplos,1,Quarto,viale_cataratas,2025-05-27 00:00:00+00:00
+tarifa de bom custo x beneficio,1,Experiência,viale_cataratas,2025-05-27 00:00:00+00:00
+"o recepcionista teve empatia e realizou nosso checkin para o quarto, pois o mesmo super atencioso",1,Atendimento da equipe,viale_cataratas,2024-04-24 00:00:00+00:00
+"Os funcionários sem excessão são muito educados, atenciosos e prestativos.",1,Atendimento da equipe,viale_cataratas,2025-04-06 00:00:00+00:00
+"O café da manhã é fantástico, completíssimo.",1,Café da manhã,viale_cataratas,2025-04-06 00:00:00+00:00
+Muito desorganizado,0,Café da manhã,viale_cataratas,2025-01-24 00:00:00+00:00
+Piscina podia ser maior,0,Áreas comuns,viale_cataratas,2025-01-20 00:00:00+00:00
+as camas do quarto também,0,Quarto,viale_cataratas,2025-01-20 00:00:00+00:00
+Preço justo,1,Experiência,viale_cataratas,2025-01-20 00:00:00+00:00
+ambiente,1,Áreas comuns,viale_cataratas,2024-10-04 00:00:00+00:00
+limpeza,1,Quarto,viale_cataratas,2024-10-04 00:00:00+00:00
+cama confortável,1,Quarto,viale_cataratas,2024-10-01 00:00:00+00:00
+Limpeza ok,1,Quarto,viale_cataratas,2024-10-01 00:00:00+00:00
+Café da manhã é muito bom,1,Café da manhã,viale_cataratas,2024-10-01 00:00:00+00:00
+com bastante variedade,1,Café da manhã,viale_cataratas,2024-10-01 00:00:00+00:00
+Jantar também bem gostoso,1,Restaurante/Bar,viale_cataratas,2024-10-01 00:00:00+00:00
+com boa variedade,1,Restaurante/Bar,viale_cataratas,2024-10-01 00:00:00+00:00
+Excelente custo/benefício de hospedagem e local mu.,1,Experiência,viale_cataratas,2024-07-07 00:00:00+00:00
+"Atendimento excelente,destacando a pessoa do Sr Edivaldo,do restaurante, o qual nos deu toda atenção e nos ajudou com dicas de trajetos e compras em geral.",1,Atendimento da equipe,viale_cataratas,2024-07-07 00:00:00+00:00
+Café da manhã excelente e com muitas variedades disponíveis.,1,Café da manhã,viale_cataratas,2024-07-07 00:00:00+00:00
+Equipe simpática e hotel custo benéfico ótimo!,1,Atendimento da equipe,viale_cataratas,2024-05-04 00:00:00+00:00
+Equipe muito simpática e atenciosa.,1,Atendimento da equipe,viale_cataratas,2024-05-04 00:00:00+00:00
+Tivemos problema com o quarto com ar condicionado e foi resolvido rápido.,1,Atendimento da equipe,viale_cataratas,2024-05-04 00:00:00+00:00
+O estacionamento é gratuito e tem carregador de carro elétrico usamos sem cobrança.,1,Áreas comuns,viale_cataratas,2024-05-04 00:00:00+00:00
+Equipe simpática e hotel custo benéfico ótimo!,1,Experiência,viale_cataratas,2024-05-04 00:00:00+00:00
+Funcionários extremamente atenciosos e simpáticos,1,Atendimento da equipe,viale_cataratas,2024-04-16 00:00:00+00:00
+Atenderam todas as nossas necessidades,1,Atendimento da equipe,viale_cataratas,2024-04-16 00:00:00+00:00
+A área da piscina que poderia ser melhorada estava com muitas folhas e flores caídas de uma árvore,0,Áreas comuns,viale_cataratas,2024-04-16 00:00:00+00:00
+E infelizmente a piscina não é aquecida o que não nos permitiu aproveitar mais já que o tempo estava nublado e  água bem gelada,0,Áreas comuns,viale_cataratas,2024-04-16 00:00:00+00:00
+"sempre foi muito bem atendido desde recepção, cafe da manha, limpeza dos quartos enfim todos os funcionarios sempre atenciosos a atender qualquer solicitação",1,Atendimento da equipe,viale_cataratas,2024-07-30 00:00:00+00:00
+"Tivemos que trocar de quarto, pq o aquecedor deu problema.",0,Quarto,viale_cataratas,2024-07-19 00:00:00+00:00
+confortável,1,Quarto,viale_cataratas,2024-08-16 00:00:00+00:00
+Ótimo custo benefício,1,Experiência,viale_cataratas,2024-08-13 00:00:00+00:00
+café da manhã com uma tapioca maravilhosa preparada na hora,1,Café da manhã,viale_cataratas,2024-08-13 00:00:00+00:00
+precisamos estender o horário de saída e foram super solícitos,1,Atendimento da equipe,viale_cataratas,2024-08-13 00:00:00+00:00
+Pedi a troca do quarto. Nos realocaram.,1,Atendimento da equipe,viale_cataratas,2024-01-03 00:00:00+00:00
+"Parece estar chutando o cliente embora. E além do mais, minha conta estava errada. Como só estava eu e minha filha tinha 3 jantares na minha conta, além de refrigerante e cerveja que eu não havia consumido. Porém, informei, e paguei apenas o que foi do meu consumo. Pelo valor que eu paguei na estadia esperava bem mais deste hotel.",0,Experiência,viale_cataratas,2024-01-03 00:00:00+00:00
+Quarto pequeno para 2 camas de casal,0,Quarto,viale_cataratas,2024-05-18 00:00:00+00:00
+Café da manhã farto,1,Café da manhã,viale_cataratas,2024-05-18 00:00:00+00:00
+Funcionários simpáticos,1,Atendimento da equipe,viale_cataratas,2024-05-18 00:00:00+00:00
+Local limpo,1,Quarto,viale_cataratas,2024-05-18 00:00:00+00:00
+Bom lugar pra relaxar,1,Experiência,viale_cataratas,2025-04-12 23:36:40+00:00
+"Funcionários super atenciosos, bem educados e prestativos.",1,Atendimento da equipe,viale_cataratas,2024-07-09 01:59:54+00:00
+quartos confortáveis,1,Quarto,viale_cataratas,2025-01-12 00:00:00+00:00
+limpeza impecável,1,Quarto,viale_cataratas,2025-01-12 00:00:00+00:00
+gastronomia deliciosa,1,Restaurante/Bar,viale_cataratas,2025-01-12 00:00:00+00:00
+tem uma piscina maravilhosa,1,Áreas comuns,viale_cataratas,2025-01-12 00:00:00+00:00
+confortável,1,Quarto,viale_cataratas,2024-04-21 12:11:00+00:00
+A piscina muito boa.,1,Áreas comuns,viale_cataratas,2024-04-21 12:11:00+00:00
+Só poderia ser aquecida para ser usada em dias nublados como foi meu caso. Fiquei 4 dias no hotel e não pude aproveitar a piscina em nenhum dia pois estava nublado e água extremamente gelada.,0,Áreas comuns,viale_cataratas,2024-04-21 12:11:00+00:00
+"Comida também , excelente",1,Restaurante/Bar,viale_cataratas,2024-12-27 00:00:00+00:00
+"funcionários educados, especialmente o rapaz que levou nossas bagagens até o quarto.",1,Atendimento da equipe,viale_cataratas,2024-12-27 00:00:00+00:00
+Relação custo beneficio ruim.,0,Experiência,viale_cataratas,2024-12-04 00:00:00+00:00
+"funcionários mal educados , sem vontade de atender o cliente , muito ruim .",0,Atendimento da equipe,viale_cataratas,2024-12-04 00:00:00+00:00
+"Relação custo beneficio ruim , não gostam de atender os pedidos ,",0,Experiência,viale_cataratas,2024-12-04 00:00:00+00:00
+"na reserva pedi um quarto com cama grande , me deram um com duas camas menores",0,Quarto,viale_cataratas,2024-12-04 00:00:00+00:00
+Não há tratamento acústico no hotel. Quaisquer ruídos ou conversas próximas é possível ouvir dentro do quarto.,0,Quarto,viale_cataratas,2024-03-21 18:54:04+00:00
+"Barulho de beeps dos elevadores a cada uso são altos e desnecessários, considerando que é possível ouvi-los até dentro dos quartos mais distantes.",0,Áreas comuns,viale_cataratas,2024-03-21 18:54:04+00:00
+a única coisa que não gostei é o preço abusivos das bebidas,0,Restaurante/Bar,viale_cataratas,2024-02-17 17:15:20+00:00
+queria entender pq os hotéis cobram tão caro pelas bebidas,0,Restaurante/Bar,viale_cataratas,2024-02-17 17:15:20+00:00
+Academia péssima abandonada,0,Áreas comuns,viale_cataratas,2024-01-30 13:34:34+00:00
+"Quartos espartanos, oferecem pouco conforto.",0,Quarto,viale_cataratas,2025-01-04 00:00:00+00:00
+decoração sofrível.,0,Quarto,viale_cataratas,2025-01-04 00:00:00+00:00
+"Atendimento em nada cortês, não prestativo.",0,Atendimento da equipe,viale_cataratas,2025-01-04 00:00:00+00:00
+"ambientes, atendimento e café da manhã incríveis",1,Áreas comuns,viale_cataratas,2024-12-29 00:00:00+00:00
+"manutenção/limpeza da copa baby, pois passou a impressão de que apenas tiravam o lixo uma vez ao dia",0,Áreas comuns,viale_cataratas,2024-12-29 00:00:00+00:00
+Quarto com tamanho bom,1,Quarto,viale_cataratas,2024-05-05 00:00:00+00:00
+pó nos cantos do quarto,0,Quarto,viale_cataratas,2024-05-05 00:00:00+00:00
+Atendimento excelente muito cordial e simpático,1,Atendimento da equipe,viale_cataratas,2024-02-13 00:00:00+00:00
+tudo bem limpo e organizado,1,Quarto,viale_cataratas,2024-02-13 00:00:00+00:00
+cuidado de salva vidas na piscina muito bom,1,Áreas comuns,viale_cataratas,2024-02-13 00:00:00+00:00
+"Atendimento nota 10, todos muito gentis",1,Atendimento da equipe,viale_cataratas,2024-02-04 00:00:00+00:00
+elas se divertir muito na piscina e recreação,1,Áreas comuns,viale_cataratas,2024-02-04 00:00:00+00:00
+"Limpeza impecável, trocam toalhas todos os dias, nada de cheiro de mofo ou poeira ( perfeito para pessoas  alérgicas)",1,Quarto,viale_cataratas,2024-02-04 00:00:00+00:00
+precisamos trocar de quarto por conta de mal funcionamerto do ar condicionado,0,Quarto,viale_cataratas,2024-01-19 00:00:00+00:00
+a sauna estar com problemas,0,Áreas comuns,viale_cataratas,2024-01-19 00:00:00+00:00
+A piscina é boa,1,Áreas comuns,viale_cataratas,2024-01-19 00:00:00+00:00
+A limpeza é muito bem feita,1,Quarto,viale_cataratas,2024-01-19 00:00:00+00:00
+"Atendimento dos garçons nota 10, principalmente o Mathias",1,Atendimento da equipe,viale_cataratas,2024-01-19 00:00:00+00:00
+a tia Thayna  e a Tia Amanda são realmente as melhores de todo o planeta!!!,1,Atendimento da equipe,viale_cataratas,2024-01-11 00:00:00+00:00
+Obrigado por todo o carinho que vocês me deram!,1,Atendimento da equipe,viale_cataratas,2024-01-11 00:00:00+00:00
+conforto,1,Quarto,viale_cataratas,2025-07-14 11:45:09+00:00
+Barulho com as crianças correndo no corredor o dia todo.,0,Quarto,viale_cataratas,2025-07-14 11:45:09+00:00
+A noite gritaria no quarto.,0,Quarto,viale_cataratas,2025-07-14 11:45:09+00:00
+Além de tocarem a campainha do nada. Só para escutarem o som da campainha.,0,Quarto,viale_cataratas,2025-07-14 11:45:09+00:00
+A campainha parecia que estava dentro do nosso quarto.,0,Quarto,viale_cataratas,2025-07-14 11:45:09+00:00
+A academia é bem fraquinha para o porte do hotel. Equipamentos quebrados e deu a sensação de abandono.,0,Áreas comuns,viale_cataratas,2025-07-07 01:13:03+00:00
+jantar e café da manhã com opções legais,1,Restaurante/Bar,viale_cataratas,2025-07-02 13:12:50+00:00
+Sobremesas muito bem preparadas,1,Restaurante/Bar,viale_cataratas,2025-07-02 13:12:50+00:00
+Experiência incrível!,1,Experiência,viale_cataratas,2025-07-02 13:12:50+00:00
+cozinha maravilhosa,1,Restaurante/Bar,viale_cataratas,2025-07-02 13:12:50+00:00
+"Fiquei com a opção de estadia café da manhã e jantar, valeu muito à pena!",1,Experiência,viale_cataratas,2025-07-02 13:12:50+00:00
+Precisamos fazer check out latter e o hotel foi super compreensivo,1,Atendimento da equipe,viale_cataratas,2025-07-02 13:12:50+00:00
+quartos grandes no padrão americano,1,Quarto,viale_cataratas,2025-06-29 16:31:38+00:00
+um lugar agradável,1,Experiência,viale_cataratas,2025-06-29 16:31:38+00:00
+a recepção é bem prestativa.,1,Atendimento da equipe,viale_cataratas,2025-06-24 16:32:53+00:00
+"Porém, a limpeza dos quartos deixou a desejar o chão estava melecado quando ficamos descalsos e nossas meias ficaram pretas da sujidade do chão.",0,Quarto,viale_cataratas,2025-06-24 16:32:53+00:00
+E as cortinas cheiravam a mofo.,0,Quarto,viale_cataratas,2025-06-24 16:32:53+00:00
+Muito confortável,1,Quarto,viale_cataratas,2025-07-10 11:11:27+00:00
+"Mas recomendo, pois é muito bonito, moderno, limpo, muito bem localizado, com ótima comida!",1,Experiência,viale_cataratas,2025-06-16 22:17:55+00:00
+"ATendimento excelente, muita variedade.",1,Café da manhã,viale_cataratas,2025-06-16 22:17:55+00:00
+"O quarto é bem grande, muito limpo e cheiroso.",1,Quarto,viale_cataratas,2025-06-16 22:17:55+00:00
+"O quarto é bem grande, muito limpo e cheiroso.",1,Quarto,viale_cataratas,2025-06-16 22:17:55+00:00
+"O pessoal da recepção muito solícitos e prestativos, fizeram uma pesquisa para mim, de melhores restaurantes para jantarmos.",1,Atendimento da equipe,viale_cataratas,2025-06-16 22:17:55+00:00
+"De manhã, as 6:00 tinha muito barulho no corredor, pelos funcionários arrastando coisas e muita conversas, o que atrapalhou o sono.",0,Quarto,viale_cataratas,2025-06-16 22:17:55+00:00
+O café da manhã é bem servido com muitas opções,1,Café da manhã,viale_cataratas,2025-06-13 21:11:03+00:00
+o restaurante é bem montado e amplo,1,Restaurante/Bar,viale_cataratas,2025-06-13 21:11:03+00:00
+os colaboradores estão bem treinados,1,Atendimento da equipe,viale_cataratas,2025-06-13 21:11:03+00:00
+como ponto a ser melhorado seria a troca dos colchões e opções de travesseiros mais altos e duros,0,Quarto,viale_cataratas,2025-06-13 21:11:03+00:00
+A recepção muito atenciosa.,1,Atendimento da equipe,viale_cataratas,2025-04-10 00:00:00+00:00
+café completo,1,Café da manhã,viale_cataratas,2025-06-14 00:00:00+00:00
+jantar delicioso,1,Restaurante/Bar,viale_cataratas,2025-06-14 00:00:00+00:00
+"Maravilhoso. Excelente hotel, tudo maravilhoso",1,Experiência,viale_cataratas,2025-05-13 00:00:00+00:00
+"Manutenção, o secador estava estragado, o porta papel higiênico estava estragado",0,Quarto,viale_cataratas,2024-02-14 00:00:00+00:00
+Trocaram o secador mas estava mal fixado na parede caia a cada uso,0,Quarto,viale_cataratas,2024-02-14 00:00:00+00:00
+O café da manhã era mais bonito que bom,0,Café da manhã,viale_cataratas,2024-02-14 00:00:00+00:00
+"Pães e bolos secos, tipo linha de produção",0,Café da manhã,viale_cataratas,2024-02-14 00:00:00+00:00
+Salada de fruta muito ruim,0,Café da manhã,viale_cataratas,2024-02-14 00:00:00+00:00
+O piso dos corredores são de carpet o que deixa o hotel muito quente considerando que estamos em foz que já é muito calor,0,Áreas comuns,viale_cataratas,2024-02-14 00:00:00+00:00
+Ótimo custo benefício!!!,1,Experiência,viale_cataratas,2025-05-07 13:28:45+00:00
+Melhor custo beneficio em IGU.,1,Experiência,viale_cataratas,2024-05-01 00:00:00+00:00
+Estacionamento gratuito,1,Áreas comuns,viale_cataratas,2024-05-01 00:00:00+00:00
+cama confortável,1,Quarto,viale_cataratas,2024-05-01 00:00:00+00:00
+ar condicionado esfria muito.,1,Quarto,viale_cataratas,2024-05-01 00:00:00+00:00
+Café da manhã com excelente variedade,1,Café da manhã,viale_cataratas,2024-05-01 00:00:00+00:00
+"Funcionários solícitos, educados e simpáticos.",1,Atendimento da equipe,viale_cataratas,2024-05-01 00:00:00+00:00
+O quarto é confortável,1,Quarto,viale_cataratas,2024-02-26 00:00:00+00:00
+o atendimento na recepção deixou um pouco a desejar,0,Atendimento da equipe,viale_cataratas,2024-02-26 00:00:00+00:00
+piscina,1,Áreas comuns,viale_cataratas,2025-01-18 01:01:57+00:00
+chek-in rápido,1,Atendimento da equipe,viale_cataratas,2024-03-18 00:00:00+00:00
+Um dos melhores custo x benefício que já vivenciei em termos de hospedagem.,1,Experiência,viale_cataratas,2024-03-11 00:00:00+00:00
+lugar altamente agradável tudo aconchegante,1,Experiência,viale_cataratas,2024-11-23 22:01:43+00:00
+"Reservando com antecedência,  consegue-se um preço bom.",1,Experiência,viale_cataratas,2024-01-26 00:00:00+00:00
+"Excelente,  confortável",1,Quarto,viale_cataratas,2024-01-26 00:00:00+00:00
+"a limpeza do quarto deixou a desejar, pois percebi que não estava tão bem cuidada quanto esperado.",0,Quarto,viale_cataratas,2024-11-07 13:56:30+00:00
+"o hotel está passando por reforma, barulho todos os dias pela manhã, não conseguindo dormir até mais tarde (férias) depois das 10:00 o barulho parava.",0,Experiência,viale_cataratas,2024-11-07 13:56:30+00:00
+"o custo da diária é bem alto para os serviços e infraestrutura oferecidos, o que não condiz com a qualidade do que se espera por esse valor.",0,Experiência,viale_cataratas,2024-11-07 13:56:30+00:00
+Funcionário gentis,1,Atendimento da equipe,viale_cataratas,2024-10-28 12:25:44+00:00
+"Limpeza, conforto, qualidade dos quartos ruins, tive que trocar de quarto porque fiquei no último quarto do hotel com um cheiro horrível de mofo e me colocaram em um quarto mais perto bem antigo, não tinha sido reformado e a limpeza deixava a desejar",0,Quarto,viale_cataratas,2024-10-28 12:25:44+00:00
+"Limpeza, conforto, qualidade dos quartos ruins, tive que trocar de quarto porque fiquei no último quarto do hotel com um cheiro horrível de mofo e me colocaram em um quarto mais perto bem antigo, não tinha sido reformado e a limpeza deixava a desejar",0,Quarto,viale_cataratas,2024-10-28 12:25:44+00:00
+CAFÉ da manhã com muita variedade,1,Café da manhã,viale_cataratas,2025-01-31 00:00:00+00:00
+custo benefício nessas refeições não é dos melhores,0,Experiência,viale_cataratas,2024-10-20 13:34:01+00:00
+cama super confortável,1,Quarto,viale_cataratas,2024-10-20 13:34:01+00:00
+Café super variado,1,Café da manhã,viale_cataratas,2024-09-03 00:00:00+00:00
+funcionários educados,1,Atendimento da equipe,viale_cataratas,2024-09-03 00:00:00+00:00
+iluminação interna caindo as luminárias,0,Áreas comuns,viale_cataratas,2024-09-27 12:57:19+00:00
+Bom custo-benefício.,1,Experiência,viale_cataratas,2024-09-27 12:57:19+00:00
+Quarto com tamanho bom,1,Quarto,viale_cataratas,2024-09-27 12:57:19+00:00
+cama super king e confortável,1,Quarto,viale_cataratas,2024-09-27 12:57:19+00:00
+"piscina infantil aquecida, jogando água para a piscina maior",1,Áreas comuns,viale_cataratas,2024-09-27 12:57:19+00:00
+pessoal da recepção muito cordial,1,Atendimento da equipe,viale_cataratas,2024-09-27 12:57:19+00:00
+"piscina, como ladrilhos faltando e encardidos",0,Áreas comuns,viale_cataratas,2024-09-27 12:57:19+00:00
+Room SERVICE,1,Atendimento da equipe,viale_cataratas,2025-03-25 00:00:00+00:00
+O check in foi bem rápido.,1,Atendimento da equipe,viale_cataratas,2025-03-25 00:00:00+00:00
+O atendimento muito atencioso.,1,Atendimento da equipe,viale_cataratas,2025-03-25 00:00:00+00:00
+Duas camas de casal com três travesseiros para cada cama.,1,Quarto,viale_cataratas,2025-03-25 00:00:00+00:00
+Bancadas grandes.,1,Quarto,viale_cataratas,2025-03-25 00:00:00+00:00
+frigobar abastecido,1,Quarto,viale_cataratas,2025-03-25 00:00:00+00:00
+ar condicionado split,1,Quarto,viale_cataratas,2025-03-25 00:00:00+00:00
+"O hotel tem duas piscinas, uma para adulto e outra para crianças.",1,Áreas comuns,viale_cataratas,2025-03-25 00:00:00+00:00
+Academia,1,Áreas comuns,viale_cataratas,2025-03-25 00:00:00+00:00
+Spa,1,Áreas comuns,viale_cataratas,2025-03-25 00:00:00+00:00
+O estacionamento é coberto e fechado.,1,Áreas comuns,viale_cataratas,2025-03-25 00:00:00+00:00
+"restaurante e serve almoço e jantar, ambos com comida variada",1,Restaurante/Bar,viale_cataratas,2025-03-25 00:00:00+00:00
+"restaurante e serve almoço e jantar, ambos com comida variada e deliciosa.",1,Restaurante/Bar,viale_cataratas,2025-03-25 00:00:00+00:00
+"Não importa quantos dias ficará em Foz do Iguaçu, este é um excelente hotel.",1,Experiência,viale_cataratas,2025-03-25 00:00:00+00:00
+o quarto é confortável,1,Quarto,viale_cataratas,2024-04-15 22:35:03+00:00
+A academia bem abandonada,0,Áreas comuns,viale_cataratas,2024-04-15 22:35:03+00:00
+A sauna tb,0,Áreas comuns,viale_cataratas,2024-04-15 22:35:03+00:00
+Academia e sauna sem investimento,0,Áreas comuns,viale_cataratas,2024-04-15 22:35:03+00:00
+Academia e sauna sem investimento,0,Áreas comuns,viale_cataratas,2024-04-15 22:35:03+00:00
+"A experiência do check in com esse indivíduo foi péssima, uma pessoa mal humorada, em nenhum momento fez questão de ser educado ou hospitaleiro, fazendo com que a primeira impressão fosse desagradável.",0,Atendimento da equipe,viale_cataratas,2024-04-23 00:00:00+00:00
+"A experiência do check in com esse indivíduo foi péssima, uma pessoa mal humorada, em nenhum momento fez questão de ser educado ou hospitaleiro, fazendo com que a primeira impressão fosse desagradável.",0,Atendimento da equipe,viale_cataratas,2024-04-23 00:00:00+00:00
+estrutura perfeita para momentos de descanso e diversão,1,Experiência,viale_cataratas,2025-04-02 00:00:00+00:00
+Jantar muito caro,0,Restaurante/Bar,viale_cataratas,2024-05-18 00:00:00+00:00
+limpeza,1,Quarto,viale_cataratas,2024-08-17 00:00:00+00:00
+cama confortável,1,Quarto,viale_cataratas,2024-08-17 00:00:00+00:00
+ar condicionado com problemas,0,Quarto,viale_cataratas,2024-08-17 00:00:00+00:00
+"A minha filha tentou usar a a academia de ginastica, porém não conseguiu pois estava com cheiro de mofo constante.",0,Quarto,viale_cataratas,2024-01-17 00:00:00+00:00
+A piscina era menor do que a foto mostrava,0,Áreas comuns,viale_cataratas,2024-01-17 00:00:00+00:00
+as roupas de cama estavam sempre limpas,1,Quarto,viale_cataratas,2024-01-17 00:00:00+00:00
+"Achei que poderiam oferecer mais variedades de pratos, lanches.",0,Restaurante/Bar,viale_cataratas,2024-02-02 19:34:39+00:00
+"O serviço de lanches na piscina tem poucas opções...sugiro por exemplo porção de pasteis, achei pouca variedade de comida e petiscos.",0,Restaurante/Bar,viale_cataratas,2024-02-02 19:34:39+00:00
+As cadeiras da piscina estão muito antigas e com  ferrugem...podendo causar ferimentos ao manusear.,0,Áreas comuns,viale_cataratas,2024-02-02 19:34:39+00:00
+"Tudo é bom, atendeu as expectativas.",1,Experiência,viale_cataratas,2024-01-02 11:18:52+00:00
+"O buffet poderia ser melhor, não em variedade, mas em qualidade.",0,Café da manhã,viale_cataratas,2024-01-02 11:18:52+00:00
+Bom custo benefício.,1,Experiência,viale_cataratas,2024-05-30 00:00:00+00:00
+"O ponto forte pra mim foi o café da manhã, e a tapioca que é maravilhosa.",1,Café da manhã,viale_cataratas,2024-05-30 00:00:00+00:00
+A cama é confortável.,1,Quarto,viale_cataratas,2024-05-30 00:00:00+00:00
+"O essence SPA, serviço encontrado no hotel, me surpreendeu!",1,Áreas comuns,viale_cataratas,2025-05-27 00:00:00+00:00
+a melhor experiência  e a melhor massagem!,1,Áreas comuns,viale_cataratas,2025-05-27 00:00:00+00:00
+"A profissional Gabriela, com toda simpatia e profissionalismo me recebeu muito bem",1,Atendimento da equipe,viale_cataratas,2025-05-27 00:00:00+00:00
+Fomos no feriado ainda assim caro p oq ofereceu,0,Experiência,viale_cataratas,2025-04-29 00:00:00+00:00
+adoramos a área da piscina,1,Áreas comuns,viale_cataratas,2024-10-14 00:00:00+00:00
+Muito ruim a infraestrutura,0,Áreas comuns,viale_cataratas,2024-10-05 00:00:00+00:00
+a cozinha são ruins,0,Restaurante/Bar,viale_cataratas,2024-10-05 00:00:00+00:00
+o almoço e o jantar são ruins,0,Restaurante/Bar,viale_cataratas,2024-10-05 00:00:00+00:00
+A localização e a limpeza são boas.,1,Quarto,viale_cataratas,2024-10-05 00:00:00+00:00
+O quarto limpo é agradável.,1,Quarto,viale_cataratas,2024-01-05 00:00:00+00:00
+Café da manhã e jantar com muita variedade e deliciosos!,1,Café da manhã,viale_cataratas,2024-01-07 00:00:00+00:00
+Quartos limpos e confortáveis.,1,Quarto,viale_cataratas,2024-01-07 00:00:00+00:00
+Quartos limpos e confortáveis.,1,Quarto,viale_cataratas,2024-01-07 00:00:00+00:00
+os quartos de um tamanho muito bom,1,Quarto,viale_cataratas,2024-01-07 00:00:00+00:00
+Funcionários todos muito educados e prestativos,1,Atendimento da equipe,viale_cataratas,2024-01-07 00:00:00+00:00
+comida (café da manhã e jantar) maravilhosos,1,Café da manhã,viale_cataratas,2024-01-07 00:00:00+00:00
+Piscina muito boa,1,Áreas comuns,viale_cataratas,2024-01-07 00:00:00+00:00
+bem organizado e limpos,1,Quarto,viale_cataratas,2024-01-07 00:00:00+00:00
+limpo,1,Quarto,viale_cataratas,2024-05-21 18:55:04+00:00
+funcionários atenciosos,1,Atendimento da equipe,viale_cataratas,2024-08-26 11:38:57+00:00
+Os quartos não são confortáveis,0,Quarto,viale_cataratas,2024-08-26 11:38:57+00:00
+A lanchonete do hotel muito demorada,0,Restaurante/Bar,viale_cataratas,2024-08-26 11:38:57+00:00
+os preços são caros,0,Restaurante/Bar,viale_cataratas,2024-08-26 11:38:57+00:00
+Café da manhã gostoso.,1,Café da manhã,viale_cataratas,2024-05-21 11:38:44+00:00
+Piscina ótima também.,1,Áreas comuns,viale_cataratas,2024-05-21 11:38:44+00:00
+Bom custo-benefício.,1,Experiência,viale_cataratas,2024-10-28 00:00:00+00:00
+"Hotel muito barulhento, ficamos no térreo, de madrugada por mais de uma noite ouvia-se barulho do quarto de cima, arrasto de móveis, incomodou bastante, além de pessoas correndo no corredor.",0,Quarto,viale_cataratas,2024-10-28 00:00:00+00:00
+Café da manhã com poucas opções para pessoas com restrição alimentar.,0,Café da manhã,viale_cataratas,2024-10-28 00:00:00+00:00
+Não tinha vaga,0,Áreas comuns,viale_cataratas,2024-05-14 01:30:54+00:00
+Café da manhã como sempre maravilhoso.,1,Café da manhã,viale_cataratas,2024-12-30 20:09:07+00:00
+Piscina ótima,1,Áreas comuns,viale_cataratas,2024-12-30 20:09:07+00:00
+"Limpeza , atendimento .. superrrr recomendo 🤍.",1,Quarto,viale_cataratas,2024-12-30 20:09:07+00:00
+"Limpeza , atendimento .. superrrr recomendo 🤍.",1,Atendimento da equipe,viale_cataratas,2024-12-30 20:09:07+00:00
+Bom preço.,1,Experiência,viale_cataratas,2024-11-14 00:00:00+00:00
+Funcionários atenciosos.,1,Atendimento da equipe,viale_cataratas,2024-11-14 00:00:00+00:00
+Quartos super confortáveis.,1,Quarto,viale_cataratas,2024-11-14 00:00:00+00:00
+Destaque para o spa.,1,Áreas comuns,viale_cataratas,2025-05-01 00:00:00+00:00
+Quero deixar um destaque para o spa!,1,Áreas comuns,viale_cataratas,2025-05-01 00:00:00+00:00
+fizemos uma massagem relaxante logo no dia da nossa chegada e foi maravilhoso!,1,Áreas comuns,viale_cataratas,2025-05-01 00:00:00+00:00
+Estava limpo.,1,Quarto,viale_cataratas,2024-07-11 00:00:00+00:00
+A recepção não é simpática nem no check in,0,Atendimento da equipe,viale_cataratas,2024-07-11 00:00:00+00:00
+A recepção não é simpática nem no check out,0,Atendimento da equipe,viale_cataratas,2024-07-11 00:00:00+00:00
+No mais é um bom hotel para pequenas estadias e relação de custo.,1,Experiência,viale_cataratas,2024-07-11 00:00:00+00:00
+tem recreação,1,Áreas comuns,viale_cataratas,2025-01-01 00:00:00+00:00
+comida bem boa,1,Restaurante/Bar,viale_cataratas,2025-01-01 00:00:00+00:00
+"docinhos, bebidas",1,Restaurante/Bar,viale_cataratas,2025-01-01 00:00:00+00:00
+decoração,1,Áreas comuns,viale_cataratas,2025-01-01 00:00:00+00:00
+equipe sensacional,1,Atendimento da equipe,viale_cataratas,2025-01-01 00:00:00+00:00
+a piscina é agradável,1,Áreas comuns,viale_cataratas,2025-01-01 00:00:00+00:00
+estacionamento coberto,1,Áreas comuns,viale_cataratas,2025-01-01 00:00:00+00:00
+Lugar bom para descansar.,1,Experiência,viale_cataratas,2024-10-19 00:00:00+00:00
+"excelente atendimento, dependências limpas, funcionários educados",1,Atendimento da equipe,viale_cataratas,2024-10-19 00:00:00+00:00
+restaurante muito bom,1,Restaurante/Bar,viale_cataratas,2024-10-19 00:00:00+00:00
+Café da manhã super gostoso,1,Café da manhã,viale_cataratas,2024-10-19 00:00:00+00:00
+Limpo e aconchegante!!!,1,Quarto,viale_cataratas,2024-10-13 00:00:00+00:00
+Nos sentimos acolhidos e com certeza iremos retornar muitas vezes aqui!!!,1,Experiência,viale_cataratas,2024-10-13 00:00:00+00:00
+A equipe muito atenciosa!!!,1,Atendimento da equipe,viale_cataratas,2024-10-13 00:00:00+00:00
+hotel super limpo,1,Quarto,viale_cataratas,2024-10-10 00:00:00+00:00
+camas maravilhosas,1,Quarto,viale_cataratas,2024-10-10 00:00:00+00:00
+café da manhã perfeito,1,Café da manhã,viale_cataratas,2024-10-10 00:00:00+00:00
+quartos extremamente bons e limpos,1,Quarto,viale_cataratas,2024-10-10 00:00:00+00:00
+atendentes todos bem prestativos e educados,1,Atendimento da equipe,viale_cataratas,2024-10-10 00:00:00+00:00
+Atendimento no balcão...,0,Atendimento da equipe,viale_cataratas,2024-07-04 17:03:54+00:00
+"Motoristas bilíngue, espanhol e inglês, temos corredores exclusivos na Argentina.",1,Atendimento da equipe,viale_cataratas,2024-09-04 00:00:00+00:00
+"Excelente custo-benefício, ótima localização.",1,Experiência,viale_cataratas,2024-07-24 00:00:00+00:00
+"Apenas deixo uma recomendação para a cozinha do hotel, para proporcionar um cardápio de jantar mais palatável às crianças.",0,Restaurante/Bar,viale_cataratas,2024-07-24 00:00:00+00:00
+Quartos antigos,0,Quarto,viale_cataratas,2024-08-05 00:00:00+00:00
+o café inicia as 6:30 e a tapioca começa a funcionar as 7:00,0,Café da manhã,viale_cataratas,2024-08-05 00:00:00+00:00
+"no segundo dia, sendo que existia tapioca de presunto e queijo ou banana com chocolate, não tinham banana, nem na tapioca e nem no Buffet, pq o entregador só chega as 10 da manhã",0,Café da manhã,viale_cataratas,2024-08-05 00:00:00+00:00
+O hall de entrada era bem cheiroso,1,Áreas comuns,viale_cataratas,2024-08-05 00:00:00+00:00
+o quarto não [era cheiroso],0,Quarto,viale_cataratas,2024-08-05 00:00:00+00:00
+"ESTÃO DE PARABÉNS , ÓTIMO ATENDIMENTO DESDE A CHEGADA NO HOTEL",1,Atendimento da equipe,viale_cataratas,2024-08-01 00:00:00+00:00
+atendimento cordial,1,Atendimento da equipe,viale_cataratas,2024-07-18 00:00:00+00:00
+comidas saborosas e variadas,1,Restaurante/Bar,viale_cataratas,2024-07-18 00:00:00+00:00
+"Hotel excelente, atendimento cordial, comidas saborosas e variadas, destaque para a equipe de recreação, que além de divertir os filhos com brincadeiras saudáveis ainda permite aos pais momentos de descanso e relaxamento",1,Experiência,viale_cataratas,2024-07-18 00:00:00+00:00
+Valor do buffet jantar  muito alto pela qualidade da comida e o que oferece,0,Restaurante/Bar,viale_cataratas,2024-07-10 00:00:00+00:00
+"Atendimento humano, alegre, simpático dos funcionários.",1,Atendimento da equipe,viale_cataratas,2024-06-16 00:00:00+00:00
+Café da manhã impecável,1,Café da manhã,viale_cataratas,2024-06-16 00:00:00+00:00
+Limpeza dos quartos excelente.,1,Quarto,viale_cataratas,2024-06-16 00:00:00+00:00
+Área da piscina ampla e organizada,1,Áreas comuns,viale_cataratas,2024-06-16 00:00:00+00:00
+ótimo serviço de bar e opções de cardápio.,1,Restaurante/Bar,viale_cataratas,2024-06-16 00:00:00+00:00
+Excelente comida!,1,Restaurante/Bar,viale_cataratas,2024-05-07 00:00:00+00:00
+Vale cada centavo!,1,Experiência,viale_cataratas,2024-05-07 00:00:00+00:00
+Quartos amplos,1,Quarto,viale_cataratas,2024-05-07 00:00:00+00:00
+funcionários atenciosos e bem prestativos,1,Atendimento da equipe,viale_cataratas,2024-02-03 00:00:00+00:00
+Café da manhã sensacional,1,Café da manhã,viale_cataratas,2024-02-03 00:00:00+00:00
+"na sexta feira o som na piscina ficou até as 22:00, ouvíamos tudo, conversas no bar, clientes chegando. Muito barulho mesmo",0,Áreas comuns,viale_cataratas,2024-02-03 00:00:00+00:00
+"Agradeço a Simone, Paloma, Eliane, Claudio, Argentino e todo o resto de pessoal do café da manhã que se preocuparam em nos atender super bem em nossas necessidades especiais.",1,Café da manhã,viale_cataratas,2024-02-03 00:00:00+00:00
+Atenciosos e prestativos em tudo.,1,Atendimento da equipe,viale_cataratas,2024-02-03 00:00:00+00:00
+"Hotel bom, preço justo, ótima localização e infraestrutura, a limpeza do quarto é muito boa e tudo funciona.",1,Experiência,viale_cataratas,2024-02-03 00:00:00+00:00
+a limpeza do quarto é muito boa,1,Quarto,viale_cataratas,2024-02-03 00:00:00+00:00
+O pessoal do restaurante foram ótimos,1,Restaurante/Bar,viale_cataratas,2024-02-03 00:00:00+00:00
+O pessoal da recepção super prestativo tb.,1,Atendimento da equipe,viale_cataratas,2024-02-03 00:00:00+00:00
+Funcionário prestativo.,1,Atendimento da equipe,viale_cataratas,2024-01-20 00:00:00+00:00
+fomos atendidos na recepção pelo funcionário Marcos muito atencioso e prestativo,1,Atendimento da equipe,viale_cataratas,2024-01-20 00:00:00+00:00
+o quarto já estava com um clima agradável,1,Quarto,viale_cataratas,2024-01-20 00:00:00+00:00
+super indico o café da manhã com bastante variedade,1,Café da manhã,viale_cataratas,2024-01-20 00:00:00+00:00
+a tapioca ao qual foi nos recomendado adorei,1,Café da manhã,viale_cataratas,2024-01-20 00:00:00+00:00
+serviço primorozo,1,Atendimento da equipe,viale_cataratas,2024-01-21 00:00:00+00:00
+Hotel muito bem organizado,1,Áreas comuns,viale_cataratas,2024-01-21 00:00:00+00:00
+todos muito gentis!,1,Atendimento da equipe,viale_cataratas,2024-01-21 00:00:00+00:00
+Quarto bem distribuído,1,Quarto,viale_cataratas,2024-01-21 00:00:00+00:00
+Recreação muito legal!,1,Experiência,viale_cataratas,2024-01-21 00:00:00+00:00
+As crianças adoraram!,1,Experiência,viale_cataratas,2024-01-21 00:00:00+00:00
+Comida maravilhosa!,1,Restaurante/Bar,viale_cataratas,2024-01-21 00:00:00+00:00
+Uma variedade considerável!,1,Restaurante/Bar,viale_cataratas,2024-01-21 00:00:00+00:00
+Café da manhã delicioso!,1,Café da manhã,viale_cataratas,2024-01-21 00:00:00+00:00
+"Janaína, Eliane, Indianara, Amanda, Daniele e Matias foram impecáveis no quesito de atenção, atendimento e educação.",1,Atendimento da equipe,viale_cataratas,2024-01-15 00:00:00+00:00
+A única coisa que sentimos falta foi de tomadas na cabeceira da cama…,0,Quarto,viale_cataratas,2024-01-15 00:00:00+00:00
+"Café da manhã com opções para elas, o que faz toda a diferença para quem necessita desse atendimento diferenciado.",1,Restaurante/Bar,viale_cataratas,2024-01-14 00:00:00+00:00
+"Gostaria de destacar o atendimento da equipe de nutrição e cozinha. Fomos muito bem atendidos, visto que minha esposa e filha possuem restrição a glúten e lactose.",1,Atendimento da equipe,viale_cataratas,2024-01-14 00:00:00+00:00
+Ótima relação custo benefício,1,Experiência,viale_cataratas,2024-01-11 00:00:00+00:00
+Piscina boa,1,Áreas comuns,viale_cataratas,2024-01-11 00:00:00+00:00
+quartos limpos,1,Quarto,viale_cataratas,2024-01-11 00:00:00+00:00
+café da manhã excelente (destaque para a tapioca),1,Café da manhã,viale_cataratas,2024-01-11 00:00:00+00:00
+Profissionais sempre dispostos a entreter e atender os menores . São super atenciosos.,1,Atendimento da equipe,viale_cataratas,2024-01-11 00:00:00+00:00
+Equipe muito bem treinada em especial ao João Fidelix que deu um suoer atendimento diferenciado na região da piscina em um dia de muito movimento (01 de janeiro ),1,Atendimento da equipe,viale_cataratas,2024-01-03 00:00:00+00:00
+Equipe muito bem treinada em especial ao João Fidelix que deu um suoer atendimento diferenciado na região da piscina em um dia de muito movimento (01 de janeiro ),1,Áreas comuns,viale_cataratas,2024-01-03 00:00:00+00:00
+piscina muito boa,1,Áreas comuns,viale_cataratas,2024-01-03 00:00:00+00:00
+Otimo custo beneficio,1,Experiência,viale_cataratas,2024-01-02 00:00:00+00:00
+limpeza quartos impecáveis,1,Quarto,viale_cataratas,2024-01-02 00:00:00+00:00
+"Faço um elogio para o Diego que nos atendeu na recepção com muita presteza e edução, assim como os outros funcionários do hotel",1,Atendimento da equipe,viale_cataratas,2024-01-02 00:00:00+00:00
+Bom atendimento dos funcionários,1,Atendimento da equipe,viale_cataratas,2024-01-02 00:00:00+00:00
+ar condicionado ótimo,1,Quarto,viale_cataratas,2024-01-02 00:00:00+00:00
+cafe da manha muito bom,1,Café da manhã,viale_cataratas,2024-01-02 00:00:00+00:00
+Os quartos no térreo podem ser bem barulhentos pelos barulhos da recepção e restaurante.,0,Quarto,viale_cataratas,2024-06-02 16:01:28+00:00
+"Do valor do jantar de R$95,90 por pessoa sendo que o buffet não condiz nem um pouco com esse valor em comparação a qualquer outro restaurante de hotel em foz do Iguaçu.",0,Restaurante/Bar,viale_cataratas,2024-02-23 15:54:13+00:00
+Buffet muito simples.,0,Restaurante/Bar,viale_cataratas,2024-02-23 15:54:13+00:00
+Iluminação dos quartos insuficiente para leitura/ trabalho. Somente luz indiretas e amarelas.,0,Quarto,viale_cataratas,2024-02-23 15:54:13+00:00
+Excelente custo-benefício.,1,Experiência,viale_cataratas,2024-01-25 18:13:12+00:00
+"Localização, refeições e funcionários excelentes.",1,Restaurante/Bar,viale_cataratas,2024-01-25 18:13:12+00:00
+"Localização, refeições e funcionários excelentes.",1,Atendimento da equipe,viale_cataratas,2024-01-25 18:13:12+00:00
+piscina não é aquecida,0,Áreas comuns,viale_cataratas,2025-05-11 00:00:00+00:00
+cama gostosa,1,Quarto,viale_cataratas,2025-05-11 00:00:00+00:00
+camareiras atenciosas,1,Atendimento da equipe,viale_cataratas,2025-05-11 00:00:00+00:00
+estacionamento seguro,1,Áreas comuns,viale_cataratas,2025-05-11 00:00:00+00:00
+Excelente custo-beneficio.,1,Experiência,viale_cataratas,2024-02-27 22:52:45+00:00
+Cafe da amanhã excelente.,1,Café da manhã,viale_cataratas,2024-02-27 22:52:45+00:00
+tem lojas no Interior ao lado da recepção,1,Áreas comuns,viale_cataratas,2024-04-22 12:58:56+00:00
+"o quarto que fiquei com minha esposa foi um quarto duplo com tv, frigobar, ar condicionado",1,Quarto,viale_cataratas,2024-04-22 12:58:56+00:00
+"o quarto que fiquei com minha esposa foi um quarto duplo com tv, frigobar, ar condicionado",1,Quarto,viale_cataratas,2024-04-22 12:58:56+00:00
+tudo muito limpo e organizado,1,Quarto,viale_cataratas,2024-04-22 12:58:56+00:00
+a cada dia de passeio as camareiras arrumavam e deixavam o quarto organizado,1,Atendimento da equipe,viale_cataratas,2024-04-22 12:58:56+00:00
+"O Café da manhã é uma delícia,  muitas variedades de comidas e bebidas",1,Café da manhã,viale_cataratas,2024-04-22 12:58:56+00:00
+os elevadores funcionando normalmente,1,Áreas comuns,viale_cataratas,2024-04-22 12:58:56+00:00
+"enfim, o lugar é muito bom para família,  lazer,  lua de mel,  passeios, etc.",1,Experiência,viale_cataratas,2024-04-22 12:58:56+00:00
+O hotel tem um excelente custo benefício na opção meia pensão,1,Experiência,viale_cataratas,2024-07-07 00:53:47+00:00
+os funcionários são ótimos,1,Atendimento da equipe,viale_cataratas,2024-07-07 00:53:47+00:00
+As paredes dos quartos deixam passar fácil os barulhos externos,0,Quarto,viale_cataratas,2024-07-07 00:53:47+00:00
+Conseguia ouvir o elevador do quarto,0,Quarto,viale_cataratas,2024-07-07 00:53:47+00:00
+"parabéns ao pessoal do serviço, atendimento cortes",1,Atendimento da equipe,viale_cataratas,2024-10-21 13:08:45+00:00
+"ótimo café da manhã, muitas variedades",1,Café da manhã,viale_cataratas,2024-10-21 13:08:45+00:00
+Amplo estacionamento,1,Áreas comuns,viale_cataratas,2024-07-03 22:28:01+00:00
+valor das diárias muito bom.,1,Experiência,viale_cataratas,2024-07-03 22:28:01+00:00
+Confortável,1,Quarto,viale_cataratas,2024-04-12 12:25:23+00:00
+Experiência excelente!,1,Experiência,viale_cataratas,2024-03-04 17:31:13+00:00
+Funcionários educados e cordiais.,1,Atendimento da equipe,viale_cataratas,2024-03-04 17:31:13+00:00
+"Hotel de boa qualidade, bons quartos, boa prestação de serviços.",1,Experiência,viale_cataratas,2024-03-04 17:31:13+00:00
+A iluminação do quarto pode se melhor.,0,Quarto,viale_cataratas,2024-03-04 17:31:13+00:00
+o restaurante é bem montado e amplo.,1,Restaurante/Bar,viale_cataratas,2025-06-13 00:00:00+00:00
+Bom custo benefício na hospedagem.,1,Experiência,viale_cataratas,2025-06-13 00:00:00+00:00
+O café da manhã é bem servido com muitas opções,1,Café da manhã,viale_cataratas,2025-06-13 00:00:00+00:00
+os colaboradores estão bem treinados,1,Atendimento da equipe,viale_cataratas,2025-06-13 00:00:00+00:00
+como ponto a ser melhorado seria a troca dos colchões e opções de travesseiros mais altos e duros.,0,Quarto,viale_cataratas,2025-06-13 00:00:00+00:00
+camas excelentes,1,Quarto,viale_cataratas,2025-04-23 10:08:45+00:00
+"Excelente Hotel, infraestrutura sensacional, muito conforto",1,Experiência,viale_cataratas,2025-04-23 10:08:45+00:00
+muita cordialidade dos funcionários,1,Atendimento da equipe,viale_cataratas,2025-04-23 10:08:45+00:00
+"A equipe da recepção mostrou um serviço excepcional, foram cordiais e solícitos.",1,Atendimento da equipe,viale_cataratas,2025-05-28 00:00:00+00:00
+A equipe da limpeza dos quartos precisa de orientação pois a higiene dos banheiros deixa muito a desejar visto a presença de muito mofo nos rejuntes dos azulejos.,0,Atendimento da equipe,viale_cataratas,2025-05-28 00:00:00+00:00
+"A equipe responsável pelo atendimento no restaurante e no bar não era boa, pedidos demoravam a chegar pois a equipe estava confraternizando atrás do balcão.",0,Atendimento da equipe,viale_cataratas,2025-05-28 00:00:00+00:00
+"O café da manhã é bom, mas não espere encontrar variedade de frutas (apenas melancia, banana, mamão e melão).",0,Café da manhã,viale_cataratas,2025-05-28 00:00:00+00:00
+"Para um hotel a qualidade da internet era péssima, o wi-fi bastante instável, foi impossível realizar reunião on-line utilizando a rede do local.",0,Experiência,viale_cataratas,2025-05-28 00:00:00+00:00
+sendo reposto a toda hora,1,Café da manhã,viale_cataratas,2025-02-23 00:00:00+00:00
+Têm duas piscinas (adulto e infantil),1,Áreas comuns,viale_cataratas,2025-02-23 00:00:00+00:00
+academia,1,Áreas comuns,viale_cataratas,2025-02-23 00:00:00+00:00
+"sauna, spa",1,Áreas comuns,viale_cataratas,2025-02-23 00:00:00+00:00
+o salão é grande e o buffet bem distribuído evitando aglomeração,1,Café da manhã,viale_cataratas,2025-02-23 00:00:00+00:00
+ilha de tapioca doce e salgada sendo feita na hora,1,Café da manhã,viale_cataratas,2025-02-23 00:00:00+00:00
+Tudo realmente bem feito e gostoso,1,Café da manhã,viale_cataratas,2025-02-23 00:00:00+00:00
+estacionamento amplo,1,Áreas comuns,viale_cataratas,2024-12-27 20:38:39+00:00
+buffet repleto de opções,1,Restaurante/Bar,viale_cataratas,2024-12-27 20:38:39+00:00
+Boa estrutura e quarto confortável,1,Quarto,viale_cataratas,2025-01-21 17:48:50+00:00
+Gostaríamos de elogiar o serviço e os funcionários do hotel: maravilhosos.,1,Atendimento da equipe,viale_cataratas,2025-01-21 17:48:50+00:00
+café da manhã maravilhoso,1,Café da manhã,viale_cataratas,2024-01-15 17:10:39+00:00
+"Ao tentar entrar no estacionamento, não é possível porque a cancela, não abre aí tem sair do carro passar o cartão do quarto ou falar com alguém da recepção e nenhum consegue resolver, isso incomoda",0,Áreas comuns,viale_cataratas,2025-04-13 23:37:46+00:00
+"A estrutura geral do hotel é muito boa: tem piscinas, academia, duas saunas (seca e a vapor), além de um café da manhã bem servido e delicioso.",1,Áreas comuns,viale_cataratas,2025-04-08 00:14:56+00:00
+"A estrutura geral do hotel é muito boa: tem piscinas, academia, duas saunas (seca e a vapor), além de um café da manhã bem servido e delicioso.",1,Áreas comuns,viale_cataratas,2025-04-08 00:14:56+00:00
+"A estrutura geral do hotel é muito boa: tem piscinas, academia, duas saunas (seca e a vapor), além de um café da manhã bem servido e delicioso.",1,Áreas comuns,viale_cataratas,2025-04-08 00:14:56+00:00
+"O atendimento na recepção foi muito bom, com profissionais educados e prestativos.",1,Atendimento da equipe,viale_cataratas,2025-04-08 00:14:56+00:00
+Os quartos são confortáveis e limpos.,1,Quarto,viale_cataratas,2025-04-08 00:14:56+00:00
+Os quartos são confortáveis e limpos.,1,Quarto,viale_cataratas,2025-04-08 00:14:56+00:00
+"O almoço e jantar no hotel são pagos à parte e o valor é R$ 110 por refeição, o que achei bem alto para o que se propõe.",0,Restaurante/Bar,viale_cataratas,2025-04-08 00:14:56+00:00
+"No bar, o atendimento foi fraco. O garçom parecia distraído, sem disposição, e ouvi outros hóspedes comentando que na área da piscina o atendimento é ainda mais demorado, a ponto de muitos irem buscar seus próprios pedidos no balcão por conta da espera.",0,Restaurante/Bar,viale_cataratas,2025-04-08 00:14:56+00:00
+"Durante o café da manhã, perguntei a uma funcionária se ainda tinha queijo coalho e ela respondeu que tinha acabado. Poucos minutos depois ela apareceu repondo a bandeja com queijo coalho e tentou disfarçar quando me viu. Isso me deixou bastante desconfortável.",0,Café da manhã,viale_cataratas,2025-04-08 00:14:56+00:00
+"O frigobar tem preços absurdamente altos: Água 1,5L: R$ 18,00 Água 500ml: R$ 10,00 Salgadinho pequeno: R$ 25,00 Refrigerante: quase R$ 15,00 Sinceramente, nunca vi nada tão caro assim em um hotel. Parece mais caro que restaurante chique.",0,Quarto,viale_cataratas,2025-04-08 00:14:56+00:00
+a limpeza regular,0,Café da manhã,viale_cataratas,2025-03-18 11:42:22+00:00
+O espaço do café da manhã é insuficiente,0,Café da manhã,viale_cataratas,2025-03-18 11:42:22+00:00
+Acho que na cidade tem outras opções mais interessantes pelo mesmo preço,0,Experiência,viale_cataratas,2025-03-18 11:42:22+00:00
+O jantar estava ótimo,1,Restaurante/Bar,viale_cataratas,2025-01-01 13:23:09+00:00
+mesa de doces muito variada,1,Restaurante/Bar,viale_cataratas,2025-01-01 13:23:09+00:00
+"festa que foi incrível: banda maravilhosa, animada, música para todos os gostos",1,Experiência,viale_cataratas,2025-01-01 13:23:09+00:00
+o café da manhã é excelente e superou as expectativas quanto à ceia de Reveillon,1,Experiência,viale_cataratas,2025-01-01 13:23:09+00:00
+"Local agradável,  preço justo, excelente café da manhã.",1,Experiência,viale_cataratas,2024-11-08 12:14:40+00:00
+Estacionamento acessível.,1,Áreas comuns,viale_cataratas,2024-11-08 12:14:40+00:00
+Funcionários educados e solicitos.,1,Atendimento da equipe,viale_cataratas,2024-11-08 12:14:40+00:00
+"Só não é 5 estrela devido o funcionário da foto, fico impressionado de colocarem uma pessoa que não tem o mínimo de empatia pra ter o primeiro contato com os hóspedes.",0,Atendimento da equipe,viale_cataratas,2024-08-03 18:19:19+00:00
+O hotel é bom com boa alimentação e estrutura.,1,Experiência,viale_cataratas,2024-08-03 18:19:19+00:00
+Já no check in fomos atendidos de maneira indiferente.,0,Atendimento da equipe,viale_cataratas,2024-03-22 16:13:42+00:00
+O quarto é escuro. Vc não conseguirá ler a noite!,0,Quarto,viale_cataratas,2024-03-22 16:13:42+00:00
+"No café, suco de laranja com gosto de estragado.",0,Café da manhã,viale_cataratas,2024-03-22 16:13:42+00:00
+Bolo com pontinha de mofo!,0,Café da manhã,viale_cataratas,2024-03-22 16:13:42+00:00
+Almoço com macarrão tão salgado que tivemos que pedir para retornar.,0,Restaurante/Bar,viale_cataratas,2024-03-22 16:13:42+00:00
+Ao tentar utilizar o bar no checkout a cada pedido é preciso ir na recepção sabe Deus fazer o quê. Desisti .,0,Restaurante/Bar,viale_cataratas,2024-03-22 16:13:42+00:00
+"Sauna funcionando em um dia e no outro não. Tive que pedir pra ligar, aguardei 25 minutos antes que alguém fosse ligar (depois de eu ir cobrar novamente). E não conseguiram ou não sabiam como fazia para ligar. Pois não funcionou.",0,Áreas comuns,viale_cataratas,2024-02-20 10:38:21+00:00
+"Trocamos de quarto pelo fato do ar condicionado não funcionar, e no outro quase diferença alguma.",0,Quarto,viale_cataratas,2024-02-20 10:38:21+00:00
+Bom custo benefício para quem quer piscina sem ser resort.,1,Experiência,viale_cataratas,2024-02-14 22:39:04+00:00
+bom black out,1,Quarto,viale_cataratas,2024-02-14 22:39:04+00:00
+"na cabeceira, só havia 1 entrada usb... nossos telefones são com usb-c, então isso atrapalha um pouco",0,Quarto,viale_cataratas,2024-02-14 22:39:04+00:00
+"o ar condicionado não estava funcionando, mas a equipe resolveu nos reacomodando",0,Quarto,viale_cataratas,2024-02-14 22:39:04+00:00
+"A piscina tem bom tamanho, com atendimento de bar",1,Áreas comuns,viale_cataratas,2024-02-14 22:39:04+00:00
+"Um inconveniente foi a recreação na piscina, com dj e jogos no fim da tarde, com caixa de som voltada para os quartos, o que atrapalhou um pouco o descanso quando retornavamos no fim do dia",0,Áreas comuns,viale_cataratas,2024-02-14 22:39:04+00:00
+"Café da manhã com bastante variedade, frutas, cereais, ovo, bolos, doces e uma estação de tapiocas",1,Café da manhã,viale_cataratas,2024-02-14 22:39:04+00:00
+O atendimento da recepção precisa melhorar quando fui fazer o meu checkin passaram na minha frente da fila um casal sem nenhuma explicação,0,Atendimento da equipe,viale_cataratas,2024-01-02 23:04:32+00:00
+ao ser questionado o recepcionista disse para nós  “já vou atende-los” e não deu nenhuma explicação ao passar o casal na frente,0,Atendimento da equipe,viale_cataratas,2024-01-02 23:04:32+00:00
+a moça que estava na nossa frente questionou o porque e achou que houve uma certa discriminação conosco,0,Atendimento da equipe,viale_cataratas,2024-01-02 23:04:32+00:00
+"Os quartos precisam melhorar a iluminação, precisa ter uma iluminação central a noite fica muito escuro e a iluminação apenas da cabeceira não dá conta!",0,Quarto,viale_cataratas,2024-01-02 23:04:32+00:00
+"Com relação a academia, precisa 100% de manutenção, aparelhos quebrados, televisão não funciona",0,Áreas comuns,viale_cataratas,2024-01-02 23:04:32+00:00
+um dos motivos para a nossa escolha do hotel foi a academia e foi uma decepção,0,Áreas comuns,viale_cataratas,2024-01-02 23:04:32+00:00
+boa piscina,1,Áreas comuns,viale_cataratas,2024-01-02 23:04:32+00:00
+quartos grandes,1,Quarto,viale_cataratas,2024-01-02 23:04:32+00:00
+"sobretudo a troca dos colchões (claramente acima da vida útil das molas) por colchões mais novos, e consequentemente mais confortáveis.",0,Quarto,viale_cataratas,2025-02-13 00:00:00+00:00
+equipe atenciosa,1,Atendimento da equipe,viale_cataratas,2024-12-30 00:00:00+00:00
+ar condicionado com ruídos e refrigera pouco (necessita de manutenção urgente ),0,Quarto,viale_cataratas,2024-12-30 00:00:00+00:00
+não há isolamento acústico nos quartos,0,Quarto,viale_cataratas,2024-12-30 00:00:00+00:00
+Quartos mal cuidados.,0,Quarto,viale_cataratas,2025-05-08 00:00:00+00:00
+A cama boa,1,Quarto,viale_cataratas,2025-05-08 00:00:00+00:00
+Excelente recepção ao fazermos o check inn,1,Atendimento da equipe,viale_cataratas,2025-03-26 22:23:00+00:00
+Ambientes limpos e cheirosos.,1,Quarto,viale_cataratas,2025-03-26 22:23:00+00:00
+"Habitação aconchegante, silencioso e limpo.",1,Quarto,viale_cataratas,2025-03-26 22:23:00+00:00
+"Habitação aconchegante, silencioso e limpo.",1,Quarto,viale_cataratas,2025-03-26 22:23:00+00:00
+Café da manha com muita variedade e fresco.,1,Café da manhã,viale_cataratas,2025-03-26 22:23:00+00:00
+Funcionários educados e alegres.,1,Atendimento da equipe,viale_cataratas,2025-03-26 22:23:00+00:00
+Péssimo ar condicionado,0,Quarto,viale_cataratas,2025-02-05 22:06:13+00:00
+achamos o preço do buffet um pouco elevado,0,Restaurante/Bar,viale_cataratas,2025-01-08 12:41:06+00:00
+A questão das piscinas são boas porém não são climatizadas sendo bem frias,0,Áreas comuns,viale_cataratas,2025-01-08 12:41:06+00:00
+"Surpreendentemente, café da manhã delicioso .",1,Café da manhã,viale_cataratas,2024-11-03 21:48:03+00:00
+Jantar surpreendeu .,1,Restaurante/Bar,viale_cataratas,2024-11-03 21:48:03+00:00
+O jantar é saboroso e variado .,1,Restaurante/Bar,viale_cataratas,2024-11-03 21:48:03+00:00
+Quarto super limpo,1,Quarto,viale_cataratas,2024-06-07 14:12:16+00:00
+"Quarto super limpo, amplo",1,Quarto,viale_cataratas,2024-06-07 14:12:16+00:00
+"Quarto super limpo, amplo e bem iluminado",1,Quarto,viale_cataratas,2024-06-07 14:12:16+00:00
+"várias opções de doces e salgados, tem omelete e tapioca feita na hora",1,Café da manhã,viale_cataratas,2024-06-07 14:12:16+00:00
+Achei o café fraco,0,Café da manhã,viale_cataratas,2024-06-09 00:00:00+00:00
+não tinha muitas opções,0,Café da manhã,viale_cataratas,2024-06-09 00:00:00+00:00
+No geral o hotel é bonito,1,Experiência,viale_cataratas,2024-06-09 00:00:00+00:00
+cama confortável,1,Quarto,viale_cataratas,2024-06-09 00:00:00+00:00
+quarto grande,1,Quarto,viale_cataratas,2024-06-09 00:00:00+00:00
+Me parece que a limpeza e manutenção não se falam.,0,Quarto,viale_cataratas,2024-06-03 00:00:00+00:00
+Queriam me cobrar rolha para que eu terminasse uma garrafa de vinho da noite no bar vazio.,0,Restaurante/Bar,viale_cataratas,2024-06-03 00:00:00+00:00
+"me reservaram um quarto barulhento, onde haviam crianças berrando pelos corredores a todo momento.",0,Quarto,viale_cataratas,2024-06-03 00:00:00+00:00
+Não vale quanto cobra.,0,Experiência,viale_cataratas,2024-06-03 00:00:00+00:00
+Mal iluminado,0,Quarto,viale_cataratas,2024-04-16 21:29:37+00:00
+Ar condicionado potente,1,Quarto,viale_cataratas,2024-04-16 21:29:37+00:00
+Café da Manhã com poucas opções,0,Café da manhã,viale_cataratas,2024-04-16 21:29:37+00:00
+porém o que tinha era bem feito,1,Café da manhã,viale_cataratas,2024-04-16 21:29:37+00:00
+Piscina pequena,0,Áreas comuns,viale_cataratas,2024-04-16 21:29:37+00:00
+"O mensageiro, que não me lembro o nome, muito simpático e muito cordial em resolver um problema quanto a energia do quarto",1,Atendimento da equipe,viale_cataratas,2025-05-27 19:03:49+00:00
+"O mensageiro, que não me lembro o nome, muito simpático e muito cordial em resolver um problema quanto a energia do quarto",1,Atendimento da equipe,viale_cataratas,2025-05-27 19:03:49+00:00
+Quarto e banheiro espaçosos .,1,Quarto,viale_cataratas,2025-05-27 19:03:49+00:00
+Café da manhã maravilho com muita diversidade.,1,Café da manhã,viale_cataratas,2025-05-27 19:03:49+00:00
+Preço acessível,1,Experiência,viale_cataratas,2024-09-02 00:42:31+00:00
+café da manhã maravilhoso,1,Café da manhã,viale_cataratas,2024-09-02 00:42:31+00:00
+quartos limpos e organizados,1,Quarto,viale_cataratas,2024-09-02 00:42:31+00:00
+comida excelente ( principalmente a tapioca),1,Restaurante/Bar,viale_cataratas,2024-12-28 00:00:00+00:00
+café e refeições boa qualidade,1,Café da manhã,viale_cataratas,2025-03-12 20:27:52+00:00
+staff muito prestativo,1,Atendimento da equipe,viale_cataratas,2025-02-01 00:42:50+00:00
+Boa comida,1,Restaurante/Bar,viale_cataratas,2025-02-01 00:42:50+00:00
+Atendeu nossas expectativas,1,Experiência,viale_cataratas,2025-02-01 00:42:50+00:00
+Atendimento da piscina e café da manhã fantásticos.,1,Áreas comuns,viale_cataratas,2025-01-13 23:21:25+00:00
+Equipe cordial e atenciosa.,1,Atendimento da equipe,viale_cataratas,2025-01-13 23:21:25+00:00
+"Pontos a desenvolver: o serviço de quarto, acessórios do banheiro e iluminação do quarto.",0,Quarto,viale_cataratas,2025-01-13 23:21:25+00:00
+Bar da piscina um completo desastre!,0,Áreas comuns,viale_cataratas,2025-01-13 16:44:09+00:00
+Já no check in fomos muitíssimo bem atendidos,1,Atendimento da equipe,viale_cataratas,2024-09-09 12:48:19+00:00
+café da manhã espetacular com muitas variedades,1,Café da manhã,viale_cataratas,2024-09-09 12:48:19+00:00
+"Todos os funcionários são muito prestativos, atenciosos e sempre com um sorriso no rosto, nos sentimos em casa!",1,Atendimento da equipe,viale_cataratas,2024-08-05 14:29:46+00:00
+"O hotel é maravilhoso, ambiente limpo, cheiroso e organizado.",1,Experiência,viale_cataratas,2024-07-25 13:21:18+00:00
+Quartos limpos,1,Quarto,viale_cataratas,2024-07-25 13:21:18+00:00
+tamanho bom pra família,1,Quarto,viale_cataratas,2024-07-25 13:21:18+00:00
+Funcionários todos cordiais,1,Atendimento da equipe,viale_cataratas,2024-07-25 13:21:18+00:00
+Cafe da manhã excelente,1,Café da manhã,viale_cataratas,2024-07-25 13:21:18+00:00
+LIMPEZA,1,Quarto,viale_cataratas,2024-05-06 21:39:21+00:00
+Com piscina,1,Áreas comuns,viale_cataratas,2024-04-12 17:15:08+00:00

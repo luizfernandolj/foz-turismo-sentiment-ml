@@ -1,0 +1,503 @@
+description,sentiment,category,hotel_id,review_posted_at
+"Os funcionários são excelentes, a energia do mesmo é contagiante, amei tudo, recepção ( os meninos e a Sara)",1,Atendimento da equipe,foz_plaza,2025-03-25 15:57:20+00:00
+conforto,1,Quarto,foz_plaza,2025-03-25 15:57:20+00:00
+limpeza,1,Quarto,foz_plaza,2025-03-25 15:57:20+00:00
+piscina,1,Áreas comuns,foz_plaza,2025-03-25 15:57:20+00:00
+serviços de quarto,1,Atendimento da equipe,foz_plaza,2024-08-27 13:55:56+00:00
+O hotel conta com piscinas,1,Áreas comuns,foz_plaza,2024-08-27 13:55:56+00:00
+O hotel conta com ... academia,1,Áreas comuns,foz_plaza,2024-08-27 13:55:56+00:00
+O hotel conta com ... sauna e SPA de massagem,1,Áreas comuns,foz_plaza,2024-08-27 13:55:56+00:00
+quarto confortável,1,Quarto,foz_plaza,2025-07-21 00:00:00+00:00
+atendentes prestativos,1,Atendimento da equipe,foz_plaza,2025-07-21 00:00:00+00:00
+"a área Kids dele é muito boa, tem até monitora",1,Áreas comuns,foz_plaza,2025-07-13 00:00:00+00:00
+Todos os atendentes muito educados e cordiais!,1,Atendimento da equipe,foz_plaza,2025-07-13 00:00:00+00:00
+Profissionais super atenciosos,1,Atendimento da equipe,foz_plaza,2025-07-02 00:00:00+00:00
+"Excelente atendimento, limpeza, organização.",1,Atendimento da equipe,foz_plaza,2025-06-22 00:00:00+00:00
+quarto confortável,1,Quarto,foz_plaza,2025-06-21 00:00:00+00:00
+Atendimento Excelente,1,Atendimento da equipe,foz_plaza,2025-03-07 13:35:48+00:00
+Ótimo atendimento,1,Atendimento da equipe,foz_plaza,2024-05-18 01:07:30+00:00
+Limpo.,1,Quarto,foz_plaza,2024-02-16 12:53:56+00:00
+Esse povo que está reclamando de barulho de carro,1,Quarto,foz_plaza,2024-02-06 10:01:12+00:00
+Esse povo que está reclamando de ar condicionado,1,Quarto,foz_plaza,2024-02-06 10:01:12+00:00
+quarto grande e bem conservado,1,Quarto,foz_plaza,2024-02-02 21:12:24+00:00
+funcionários sempre gentis,1,Atendimento da equipe,foz_plaza,2024-02-02 21:12:24+00:00
+Só faltou academia que já está no projeto deles para este ano,0,Áreas comuns,foz_plaza,2024-01-19 13:21:33+00:00
+Área da piscina muito boa para relaxar.,1,Áreas comuns,foz_plaza,2024-01-06 11:18:41+00:00
+"O blackout não bloqueia a luz direito, o quarto fica claro.",0,Quarto,foz_plaza,2024-01-06 11:18:41+00:00
+O aparelho de ar condicionado é bem antigo e não gela adequadamente.,0,Quarto,foz_plaza,2024-01-06 11:18:41+00:00
+"Nossos travesseiros eram bem finos, acredito que por serem velhos, precisam ser trocados.",0,Quarto,foz_plaza,2024-01-06 11:18:41+00:00
+tudo limpo,1,Quarto,foz_plaza,2025-05-15 16:20:20+00:00
+área de lazer muito boa,1,Áreas comuns,foz_plaza,2025-05-15 16:20:20+00:00
+fomos muito bem recepcionados,1,Atendimento da equipe,foz_plaza,2025-05-15 16:20:20+00:00
+"Área externa, piscina bar, SPA maravilhoso!",1,Áreas comuns,foz_plaza,2025-04-12 09:09:44+00:00
+"Área externa, piscina bar, SPA maravilhoso!",1,Áreas comuns,foz_plaza,2025-04-12 09:09:44+00:00
+"Piscinas, redes, decoração moderna.",1,Áreas comuns,foz_plaza,2025-04-25 00:00:00+00:00
+Simples e antigos.,0,Quarto,foz_plaza,2025-04-25 00:00:00+00:00
+Ar condicionado não deveria ser limpo há anos.,0,Quarto,foz_plaza,2025-04-25 00:00:00+00:00
+a recepção pouco atenciosa,0,Atendimento da equipe,foz_plaza,2025-03-18 00:00:00+00:00
+Quartos não são limpos todos os dias,0,Quarto,foz_plaza,2025-03-18 00:00:00+00:00
+precisamos pedir 2x pra trocar as toalhas,0,Quarto,foz_plaza,2025-03-18 00:00:00+00:00
+A área da recepção é ampla e com sofás bem confortáveis;,1,Áreas comuns,foz_plaza,2025-03-17 00:00:00+00:00
+Funcionários educados e solícitos;,1,Atendimento da equipe,foz_plaza,2025-03-17 00:00:00+00:00
+Hotel limpo e cheiroso;,1,Quarto,foz_plaza,2025-03-17 00:00:00+00:00
+Hotel muito bonito e aconchegante;,1,Áreas comuns,foz_plaza,2025-03-17 00:00:00+00:00
+"Academia,  apesar de pequena, atende super bem e possui equipamentos de muita qualidade;",1,Áreas comuns,foz_plaza,2025-03-17 00:00:00+00:00
+"Área da piscina possui redes e bancos para descanso, além de ser bem bonita.",1,Áreas comuns,foz_plaza,2025-03-17 00:00:00+00:00
+conversei com três dos recepcionistas e são educados e hospitaleiros.,1,Atendimento da equipe,foz_plaza,2025-03-01 00:00:00+00:00
+Falta sempre toalhas do quarto e papel higiênico. Tive que pedir várias vezes.,0,Quarto,foz_plaza,2024-05-24 00:00:00+00:00
+"Área externa da piscina , as poltronas tiraram as almofadas porque choveu, parou de chover não colocaram de novo.",0,Áreas comuns,foz_plaza,2024-05-24 00:00:00+00:00
+"Jacuzzi suja, choveu não limparam.",0,Áreas comuns,foz_plaza,2024-05-24 00:00:00+00:00
+"Os funcionários do refeitório, café da manhã são bons.",1,Atendimento da equipe,foz_plaza,2024-05-24 00:00:00+00:00
+Da recepção mais ou menos.,0,Atendimento da equipe,foz_plaza,2024-05-24 00:00:00+00:00
+cama deliciosa,1,Quarto,foz_plaza,2024-03-29 00:00:00+00:00
+"Piscina, hidromassagem, bar na piscina, ping pong, sinuca. Tem tudo para entretenimento.",1,Áreas comuns,foz_plaza,2024-03-29 00:00:00+00:00
+"O ar condicionado, está muito sujo, perdi dois dias da minha viajem pois peguei uma alergia. O ar condicionado vc dava pra ver a sujeira, FAZ ANOS QUE NÃO LIMPAM.",0,Quarto,foz_plaza,2025-05-23 00:00:00+00:00
+"excelentíssimo atendimento dos funcionários da recepção Emillio, Levy, José, Cleidiane, Josi. Foram todos muito acolhedores",1,Atendimento da equipe,foz_plaza,2024-10-06 00:00:00+00:00
+superaram todas minhas expectativas,1,Atendimento da equipe,foz_plaza,2024-09-02 00:00:00+00:00
+todos são super empenhados e preocupados com seus clientes,1,Atendimento da equipe,foz_plaza,2024-09-02 00:00:00+00:00
+a Simone da recepção (acho que é esse o nome dela) me inspirou muito com sua simpatia,1,Atendimento da equipe,foz_plaza,2024-09-02 00:00:00+00:00
+"Quarto pequeno, porém sempre deixam bem limpo, e bem arejado.",1,Quarto,foz_plaza,2024-03-07 00:00:00+00:00
+"Área da piscina maravilhosa, não usamos porque nos dias que estavam aí, estava bem frio.",1,Áreas comuns,foz_plaza,2024-03-07 00:00:00+00:00
+"Amei o Hotel, funcionários super simpáticos e solícitos.",1,Atendimento da equipe,foz_plaza,2024-03-07 00:00:00+00:00
+tudo muito limpo e cheiroso.,1,Atendimento da equipe,foz_plaza,2024-03-07 00:00:00+00:00
+serviços de massagem também excelente,1,Áreas comuns,foz_plaza,2025-07-23 18:40:10+00:00
+"jacuzzi aquecida, pena as piscinas não serem, não tendo como utilizar em julho",0,Áreas comuns,foz_plaza,2025-07-23 18:40:10+00:00
+Os quartos são confortáveis,1,Quarto,foz_plaza,2025-02-23 00:00:00+00:00
+apartamento confortável.,1,Quarto,foz_plaza,2025-01-14 00:00:00+00:00
+"Quarto confortável, limpo e com camas confortáveis.",1,Quarto,foz_plaza,2025-01-06 00:00:00+00:00
+"Quarto confortável, limpo e com camas confortáveis.",1,Quarto,foz_plaza,2025-01-06 00:00:00+00:00
+"Hotel bem decorado com piscina, área baby e copa 24 horas para os hóspedes.",1,Áreas comuns,foz_plaza,2025-01-06 00:00:00+00:00
+"Hotel bem decorado com piscina, área baby e copa 24 horas para os hóspedes.",1,Áreas comuns,foz_plaza,2025-01-06 00:00:00+00:00
+estacionamento disponível,1,Áreas comuns,foz_plaza,2025-06-24 00:00:00+00:00
+quartos confortáveis,1,Quarto,foz_plaza,2025-06-24 00:00:00+00:00
+"Os colchões poderiam melhorar, pois apesar de enormes não são tão confortáveis",0,Quarto,foz_plaza,2025-06-24 00:00:00+00:00
+O primeiro quarto que nos deram estava cheio de insetos e tivemos que pedir para trocar.,0,Quarto,foz_plaza,2024-11-25 00:00:00+00:00
+durante a noite apareceu um barata cascuda enorme pra desespero da minha mulher.,0,Quarto,foz_plaza,2024-11-25 00:00:00+00:00
+Piscina e hidro confortável.,1,Áreas comuns,foz_plaza,2024-11-25 00:00:00+00:00
+resolução imediata do primeiro dia,1,Atendimento da equipe,foz_plaza,2024-05-23 00:00:00+00:00
+trocaram de quarto imediatamente,1,Atendimento da equipe,foz_plaza,2024-05-23 00:00:00+00:00
+estacionamento bom,1,Áreas comuns,foz_plaza,2024-05-23 00:00:00+00:00
+espaço das piscinas e bar da piscina excelentes,1,Áreas comuns,foz_plaza,2024-03-07 00:00:00+00:00
+espaço das piscinas e bar da piscina excelentes,1,Áreas comuns,foz_plaza,2024-03-07 00:00:00+00:00
+Funcionários extremamente educados e delicados.,1,Atendimento da equipe,foz_plaza,2024-01-28 00:00:00+00:00
+"Instalações todas reformadas, o hotel está em estado de novo, estrutura toda muito completa.",1,Áreas comuns,foz_plaza,2024-01-28 00:00:00+00:00
+Quarto grande,1,Quarto,foz_plaza,2024-01-28 00:00:00+00:00
+camas confortáveis,1,Quarto,foz_plaza,2024-01-28 00:00:00+00:00
+"O ESTACIONAMENTO É DO HOTEL, POREM PAGO, R$ 10,00 O DESCOBERTO E R$ 20,00 O COBERTO...POR DIA, minha única ressalva e chateação com relação a tudo, uma vez que nem no site e nem aqui na hotéis.com mencionava o custo extra.",0,Áreas comuns,foz_plaza,2024-01-28 00:00:00+00:00
+Gostaria de ressaltar o atendimento do Emílio na recepção que fez um atendimento de excelência,1,Atendimento da equipe,foz_plaza,2024-11-06 00:00:00+00:00
+do Dênis do restaurante que no meu aniversário fez uma surpresa com um bolinho,1,Atendimento da equipe,foz_plaza,2024-11-06 00:00:00+00:00
+Muito confortável e bonito.,1,Quarto,foz_plaza,2025-07-27 23:43:49+00:00
+"Só o atendimento na recepção que achei lento, pois se fazemos as reservas, enviamos documentos com antecedência, porque preencher novamente os mesmos dados?",0,Atendimento da equipe,foz_plaza,2025-07-27 23:43:49+00:00
+Isso deixou o atendimento demorado.,0,Atendimento da equipe,foz_plaza,2025-07-27 23:43:49+00:00
+Tão sujo que até o filtro do ar condicionado eu precisei limpar.,0,Quarto,foz_plaza,2025-03-21 18:50:48+00:00
+Quarto muito quente (ar condicionado não é grande o suficiente ) e barulhento demais.,0,Quarto,foz_plaza,2025-03-21 18:50:48+00:00
+os funcionários são cordiais e hospitaleiros,1,Atendimento da equipe,foz_plaza,2025-03-01 20:18:05+00:00
+Quarto grande,1,Quarto,foz_plaza,2025-02-28 20:31:23+00:00
+camas grandes e confortáveis,1,Quarto,foz_plaza,2025-02-28 20:31:23+00:00
+Piscina sempre limpa e com horário extendido (até as 22h) nos salvou nos dias quentes que passamos em foz,1,Áreas comuns,foz_plaza,2025-02-28 20:31:23+00:00
+atendimento dos funcionários foi exemplar,1,Atendimento da equipe,foz_plaza,2025-02-28 20:31:23+00:00
+O hotel deu pouca atenção a este caso somente comentando que a camareira esqueceu a porta aberta,0,Atendimento da equipe,foz_plaza,2025-01-24 03:25:27+00:00
+"Dias depois de fazer o check-out o hotel entrou em contato dizendo que eu não havia feito check-out e pago estacionamento, o que refutei, para que observassem no sistema de câmeras no referido horário em que fiz minha saída,  com comprovante de pagamento do Estacionamento em minhas mãos",0,Atendimento da equipe,foz_plaza,2025-01-24 03:25:27+00:00
+piscina,1,Áreas comuns,foz_plaza,2024-11-27 20:20:51+00:00
+academia simples mas aberta 24 h,1,Áreas comuns,foz_plaza,2024-11-26 12:14:16+00:00
+piscina e bar externos o que é ótimo para o calor de foz,1,Áreas comuns,foz_plaza,2024-11-26 12:14:16+00:00
+travesseiros de baixa qualidade,0,Quarto,foz_plaza,2024-11-26 12:14:16+00:00
+aparelhos de ar condicionado apesar de funcionar são antigos e precisam de modernização,0,Quarto,foz_plaza,2024-11-26 12:14:16+00:00
+piscina muito boa,1,Áreas comuns,foz_plaza,2025-08-01 23:09:31+00:00
+Foi bem rapidinho,1,Atendimento da equipe,foz_plaza,2025-08-02 00:00:00+00:00
+"Tem um Spa, fizemos uma massagem maravilhosa.",1,Áreas comuns,foz_plaza,2025-08-02 00:00:00+00:00
+Tem 2 Jacuzzis sempre limpas e quentes.,1,Áreas comuns,foz_plaza,2025-08-02 00:00:00+00:00
+tem piscina com espaço para as crianças,1,Áreas comuns,foz_plaza,2025-08-01 00:00:00+00:00
+Funcionários prestativos,1,Atendimento da equipe,foz_plaza,2025-08-06 13:00:33+00:00
+Recepção pouco cordial e pouco treinada,0,Atendimento da equipe,foz_plaza,2025-08-10 00:00:00+00:00
+academia fraca,0,Áreas comuns,foz_plaza,2025-08-10 00:00:00+00:00
+limpeza e arrumação do quarto bem ruins,0,Quarto,foz_plaza,2025-08-10 00:00:00+00:00
+"a limpeza era impecável, realizada diariamente no apartamento",1,Quarto,foz_plaza,2025-08-06 00:00:00+00:00
+a cama era dura para meu gosto,0,Quarto,foz_plaza,2025-08-17 16:09:20+00:00
+ar condicionado muito bom,1,Quarto,foz_plaza,2025-08-17 16:09:20+00:00
+frigobar bom TB,1,Quarto,foz_plaza,2025-08-17 16:09:20+00:00
+alguns pontos precisam de atenção (porta de banheiro e ar condicionado),0,Quarto,foz_plaza,2025-08-16 10:48:39+00:00
+As camas são confortáveis,1,Quarto,foz_plaza,2025-08-16 10:48:39+00:00
+Excelente atendimento e toda equipe é muito prestativa,1,Atendimento da equipe,foz_plaza,2025-08-15 23:59:43+00:00
+quarto amplo e aconchegante,1,Quarto,foz_plaza,2025-08-14 14:48:47+00:00
+colaboradores extremamente gentis e atenciosos,1,Atendimento da equipe,foz_plaza,2025-08-14 14:48:47+00:00
+"com excecao de uma que nos atendeu nos crepes hoje dia 14/08 as 08:20, sem o mínimo de simpatia e muito fria",0,Atendimento da equipe,foz_plaza,2025-08-14 14:48:47+00:00
+Em um dia faltou toalhas e lençol (ligamos na recepção e prontamente nos levaram),1,Atendimento da equipe,foz_plaza,2025-08-14 14:48:47+00:00
+"A recepcionista da tarde (com sotaque), não sei seu nome, mas sempre com sorriso e simpatia e sempre solícita as nossas necessidades",1,Atendimento da equipe,foz_plaza,2025-08-14 14:48:47+00:00
+"Desde a recepção até o checkout, todos muito atenciosos.",1,Atendimento da equipe,foz_plaza,2025-08-18 00:00:00+00:00
+A limpeza é impecável.,1,Quarto,foz_plaza,2025-08-18 00:00:00+00:00
+Os funcionários são todos atenciosos,1,Atendimento da equipe,foz_plaza,2025-08-22 13:16:07+00:00
+atendimento rápido e de qualidade,1,Atendimento da equipe,foz_plaza,2025-08-22 13:16:07+00:00
+O quarto extremamente limpo e cheiroso,1,Quarto,foz_plaza,2025-05-17 00:00:00+00:00
+pedi e eles fizeram surpresa p meu marido no niver dele ( decorando o quarto),1,Quarto,foz_plaza,2025-05-17 00:00:00+00:00
+Funcionários muito educados e atenciosos.,1,Atendimento da equipe,foz_plaza,2025-06-14 00:00:00+00:00
+Quarto arejado e muito limpo.,1,Quarto,foz_plaza,2025-06-14 00:00:00+00:00
+Fui muito bem atendida por todos os recepcionistas,1,Atendimento da equipe,foz_plaza,2025-04-28 00:00:00+00:00
+o quarto era muito limpo,1,Quarto,foz_plaza,2025-04-28 00:00:00+00:00
+a cama muito confortável e grande,1,Quarto,foz_plaza,2025-04-28 00:00:00+00:00
+colchão ótimo firme,1,Quarto,foz_plaza,2025-04-10 00:00:00+00:00
+Roupas de cama novas e de qualidade,1,Quarto,foz_plaza,2025-04-10 00:00:00+00:00
+"As piscinas não entramos porque não estava muito calor, mas curtimos a jacuzzi na área da piscina",1,Áreas comuns,foz_plaza,2025-04-10 00:00:00+00:00
+quartos amplos e limpos,1,Quarto,foz_plaza,2025-03-03 00:00:00+00:00
+quartos amplos e limpos,1,Quarto,foz_plaza,2025-03-03 00:00:00+00:00
+Atendimento ao chegar e ao sair!,1,Atendimento da equipe,foz_plaza,2025-01-29 00:00:00+00:00
+Atendimento ao chegar e ao sair!,1,Atendimento da equipe,foz_plaza,2025-01-29 00:00:00+00:00
+"Conforto, segurança.",1,Quarto,foz_plaza,2025-01-29 00:00:00+00:00
+Tudo organizado e quartos espaçosos!,1,Quarto,foz_plaza,2025-01-29 00:00:00+00:00
+Recepção com bastante simpatia e agilidade!,1,Atendimento da equipe,foz_plaza,2025-01-29 00:00:00+00:00
+atendimento de excelência,1,Atendimento da equipe,foz_plaza,2025-01-26 00:00:00+00:00
+Quartos limpos,1,Quarto,foz_plaza,2025-01-19 00:00:00+00:00
+funcionários (em geral) atenciosos,1,Atendimento da equipe,foz_plaza,2025-01-19 00:00:00+00:00
+Cama deliciosa firme e nova,1,Quarto,foz_plaza,2024-12-23 00:00:00+00:00
+quartos e banheiros grandes,1,Quarto,foz_plaza,2024-12-23 00:00:00+00:00
+atendimento de todos os funcionários excelente,1,Atendimento da equipe,foz_plaza,2024-12-08 00:00:00+00:00
+"destacamos ainda o Sr. Amarildo, Metre do restaurante que foi extremamente atencioso e cortês",1,Atendimento da equipe,foz_plaza,2024-12-08 00:00:00+00:00
+Agradecimento a Beatriz pelo atendimento MARAVILHOSO.,1,Atendimento da equipe,foz_plaza,2024-11-13 00:00:00+00:00
+funcionários educadíssimos,1,Atendimento da equipe,foz_plaza,2024-11-09 00:00:00+00:00
+Muito limpo,1,Quarto,foz_plaza,2024-11-08 00:00:00+00:00
+o atendimento 10!,1,Atendimento da equipe,foz_plaza,2024-11-08 00:00:00+00:00
+Queria ressaltar a recepcionista Beatriz que nos recepcionou muito bem,1,Atendimento da equipe,foz_plaza,2024-11-08 00:00:00+00:00
+Excelente atendimento a todos e principalmente a Beatriz.. Fui hospedado e fui muito bem atendido pela funcionária de lá a Beatriz excelente pessoa atenciosa e muito educada super indico e logo logo estarei de volta e espero que a funcionária excelente esteja novamente..parabéns toda equipe e principalmente a Beatriz..,1,Atendimento da equipe,foz_plaza,2024-11-07 00:00:00+00:00
+"Ótimo atendimento, fui muito bem recepcionado por todos no hotel , principalmente por Beatriz , ótimo profissional, muito atenciosa por sinal",1,Atendimento da equipe,foz_plaza,2024-11-08 00:00:00+00:00
+"agradeço a toda a equipe principalmente a Beatriz que tenho que ressaltar, me atendeu muito bem",1,Atendimento da equipe,foz_plaza,2024-11-08 00:00:00+00:00
+"fomos bem recebidos pelo Emílio , Eduardo e toda a galera do hotel nos trataram super bem",1,Atendimento da equipe,foz_plaza,2024-11-06 00:00:00+00:00
+educação dos funcionários,1,Atendimento da equipe,foz_plaza,2024-10-17 00:00:00+00:00
+atendimento excepcional,1,Atendimento da equipe,foz_plaza,2025-09-02 20:52:33+00:00
+"Mas, infelizmente o barulho da obra que estava acontecendo no hotel estava horrível.",0,Quarto,foz_plaza,2025-09-02 20:52:33+00:00
+"Possui piscinas, jacuzzi e serviço de spa com massagem.",1,Áreas comuns,foz_plaza,2024-10-04 00:00:00+00:00
+"Possui piscinas, jacuzzi e serviço de spa com massagem.",1,Áreas comuns,foz_plaza,2024-10-04 00:00:00+00:00
+"Aproveito para recomendar este hotel e dar os parabéns pelo excelente atendimento da Neide (massagista), e dos atendentes da recepção Emílio, Josi e José!",1,Atendimento da equipe,foz_plaza,2024-10-04 00:00:00+00:00
+"as recepcionista Simone, Cleidiane e os demais muito gentis",1,Atendimento da equipe,foz_plaza,2024-10-02 00:00:00+00:00
+camas ótimas,1,Quarto,foz_plaza,2024-10-02 00:00:00+00:00
+atendimento ótimo,1,Atendimento da equipe,foz_plaza,2024-07-25 00:00:00+00:00
+No restaurante fomos muito bem atendidos pelo Amarildo (muito gente boa),1,Atendimento da equipe,foz_plaza,2024-07-25 00:00:00+00:00
+bar  próximo à piscina com mesas aconchegantes,1,Áreas comuns,foz_plaza,2024-01-10 00:00:00+00:00
+3 piscinas com tamanhos distintos,1,Áreas comuns,foz_plaza,2024-01-10 00:00:00+00:00
+Quartos amplos e bem equipados,1,Quarto,foz_plaza,2024-01-10 00:00:00+00:00
+melhor controle das hidros,0,Áreas comuns,foz_plaza,2025-09-07 21:44:34+00:00
+"Equipe de recepção, café da manhã e do serviço de bar com muito bom atendimento.",1,Atendimento da equipe,foz_plaza,2025-09-05 00:00:00+00:00
+"roupa de cama não estava cheirosa, porém foram trocadas após pedirmos",0,Quarto,foz_plaza,2025-09-13 14:25:29+00:00
+Quartos sujos,0,Quarto,foz_plaza,2025-09-13 13:07:31+00:00
+roupa de cama com odor forte,0,Quarto,foz_plaza,2025-09-13 13:07:31+00:00
+Quarto sujo,0,Quarto,foz_plaza,2025-09-13 12:55:06+00:00
+roupa de cama com odir forte,0,Quarto,foz_plaza,2025-09-13 12:55:06+00:00
+funcionários pouco qualificados,0,Atendimento da equipe,foz_plaza,2025-09-13 12:55:06+00:00
+Desde o check in que precisamos aguardar (mesmo após 1h) para termos acesso ao quarto.,0,Atendimento da equipe,foz_plaza,2025-09-13 00:00:00+00:00
+"Quarto com limpeza ruim, sendo necessário solicitar serviço de quarto já de imediato.",0,Quarto,foz_plaza,2025-09-13 00:00:00+00:00
+Bem limpo.,1,Quarto,foz_plaza,2025-09-19 00:06:56+00:00
+"Pessoal educado, prestativo.",1,Atendimento da equipe,foz_plaza,2025-09-19 00:06:56+00:00
+"Usamos diversos serviços como o restaurante do hotel, o bar e a academia e ficamos satisfeitos com todos!",1,Áreas comuns,foz_plaza,2025-04-28 00:00:00+00:00
+Servico de room service também muito legal!,1,Atendimento da equipe,foz_plaza,2025-04-28 00:00:00+00:00
+Atendimento impecável! Colaboradores atenciosos,1,Atendimento da equipe,foz_plaza,2025-04-28 00:00:00+00:00
+a limpeza do quarto e do hotel 100%!!!,1,Quarto,foz_plaza,2025-04-28 00:00:00+00:00
+Quartos amplos,1,Quarto,foz_plaza,2025-09-21 20:26:16+00:00
+Reportei o problema duas vezes e ninguém foi resolver,0,Atendimento da equipe,foz_plaza,2025-09-21 20:26:16+00:00
+Hotel com um atendimento que impecável todos os funcionários educados simpáticos e solícitos a qualquer momento.,1,Atendimento da equipe,foz_plaza,2025-09-19 00:00:00+00:00
+"O hotel é maravilhoso, ambiente familiar, super limpo, café da manhã espetacular, os pratos a la carte são muito saborosos e com preço justo.",1,Quarto,foz_plaza,2025-09-22 00:00:00+00:00
+Os funcionários são simpáticos e acolhedores.,1,Atendimento da equipe,foz_plaza,2025-09-22 00:00:00+00:00
+Muito bom atendimento dos funcionários,1,Atendimento da equipe,foz_plaza,2025-06-06 01:10:27+00:00
+boa limpeza dos quartos,1,Quarto,foz_plaza,2025-06-06 01:10:27+00:00
+atendimento muito simpático,1,Atendimento da equipe,foz_plaza,2025-04-27 12:09:15+00:00
+Quarto muito confortável,1,Quarto,foz_plaza,2025-04-26 00:56:11+00:00
+colchão do lado esquerdo da cama péssimo,0,Quarto,foz_plaza,2025-04-22 15:26:08+00:00
+"O ar condicionado chovia pela máquina dentro do quarto, a noite inteira escorrendo e pingando água dentro do quarto, máquina antiga e faz muito barulho",0,Quarto,foz_plaza,2025-04-22 15:26:08+00:00
+os garçons eram muito simpáticos e prestativos,1,Atendimento da equipe,foz_plaza,2025-04-22 15:26:08+00:00
+quartos um pouco velhos mas confortáveis,1,Quarto,foz_plaza,2024-03-11 11:56:24+00:00
+Recepção ótima funcionários prestativos e simpáticos,1,Atendimento da equipe,foz_plaza,2024-02-04 11:27:52+00:00
+quarto grande com todas as amenidades,1,Quarto,foz_plaza,2024-02-04 11:27:52+00:00
+cama boa confortável,1,Quarto,foz_plaza,2024-02-04 11:27:52+00:00
+roupas de cama e toalhas novas e limpas e foram trocadas regularmente,1,Quarto,foz_plaza,2024-02-04 11:27:52+00:00
+estacionamento,1,Áreas comuns,foz_plaza,2024-12-15 12:44:08+00:00
+atendimento nos quartos ... é maravilhoso,1,Atendimento da equipe,foz_plaza,2024-08-16 22:34:03+00:00
+piscina é maravilhoso,1,Áreas comuns,foz_plaza,2024-08-16 22:34:03+00:00
+Limpo,1,Quarto,foz_plaza,2024-06-19 20:59:34+00:00
+3 ar condicionado estavam desligados num calor absurdo logo pela manhã,0,Quarto,foz_plaza,2024-03-22 23:53:12+00:00
+cama confortável,1,Quarto,foz_plaza,2024-02-22 19:56:02+00:00
+muito limpo,1,Quarto,foz_plaza,2024-02-22 19:56:02+00:00
+quartos sempre limpos,1,Quarto,foz_plaza,2024-06-15 19:13:47+00:00
+funcionários super atenciosos,1,Atendimento da equipe,foz_plaza,2024-06-15 19:13:47+00:00
+fomos muito bem recepcionados,1,Atendimento da equipe,foz_plaza,2024-06-15 19:13:47+00:00
+quarto confortável,1,Quarto,foz_plaza,2024-05-19 14:12:44+00:00
+limpo,1,Quarto,foz_plaza,2024-10-16 11:12:20+00:00
+"Bem recepcionado, atendido",1,Atendimento da equipe,foz_plaza,2024-09-12 13:35:34+00:00
+Atendimento 10,1,Atendimento da equipe,foz_plaza,2024-04-12 19:02:58+00:00
+piscinas excelentes,1,Áreas comuns,foz_plaza,2024-02-28 18:45:37+00:00
+Área com piscinas.,1,Áreas comuns,foz_plaza,2024-02-02 13:08:29+00:00
+o colchão bem duro (para quem gosta não será problema),0,Quarto,foz_plaza,2024-02-02 13:08:29+00:00
+"a maioria com a limpeza do quarto, e um problema crônico com a chave do quarto, me hospedei domingo e limparam o quarto na segunda e depois não limparam até quinta, quando reclamei com mais seriedade na recepção, aí limparam",0,Quarto,foz_plaza,2024-12-05 23:52:33+00:00
+O pessoal da recepção super solícitos,1,Atendimento da equipe,foz_plaza,2024-12-05 23:52:33+00:00
+Quarto amplo,1,Quarto,foz_plaza,2024-09-11 03:43:09+00:00
+cama grande e muito confortável,1,Quarto,foz_plaza,2024-09-11 03:43:09+00:00
+"Apontaram o elevador e disseram (praticamente): ""É por ali"".",0,Áreas comuns,foz_plaza,2024-08-20 17:01:49+00:00
+limpeza excelente,1,Quarto,foz_plaza,2024-08-21 22:03:38+00:00
+quarto confortável,1,Quarto,foz_plaza,2024-08-21 11:08:27+00:00
+"em mais de uma situação essa equipe foi grossa e impaciente, ao ponto de interromper conversa com cliente para falar na rádio interna, revirar o olho e responder dúvidas ou realizar explicações com cara ruim",0,Atendimento da equipe,foz_plaza,2024-03-19 18:37:23+00:00
+o frigobar não fecha direito,0,Quarto,foz_plaza,2024-03-19 18:37:23+00:00
+os travesseiros eram ruins,0,Quarto,foz_plaza,2024-03-19 18:37:23+00:00
+"Gavetas estavam sujas também e mesmo após o serviço de quarto passar, era perceptivel que não havia sido limpo propriamente, apenas recolhido o lixo e dobrado os lençois",0,Quarto,foz_plaza,2024-03-19 18:37:23+00:00
+o quarto tem uma cama grande,1,Quarto,foz_plaza,2024-03-19 18:37:23+00:00
+jacuzis e piscinas são limpas diariamente,1,Áreas comuns,foz_plaza,2024-03-19 18:37:23+00:00
+"treine mais a equipe da recepção e foque na contratação de mais camareiras, para que assim, elas tenham possibilidade de limpar de verdade os quartos",0,Atendimento da equipe,foz_plaza,2024-03-19 18:37:23+00:00
+"A vedação acústica do meu quarto era ruim,.estava para rua e o barulho de carros e motos era muito nítido.",0,Quarto,foz_plaza,2024-04-19 12:56:50+00:00
+Equipa simpática,1,Atendimento da equipe,foz_plaza,2024-06-15 13:59:54+00:00
+Piscina e bar,1,Áreas comuns,foz_plaza,2024-06-15 13:59:54+00:00
+Camas confortáveis.,1,Quarto,foz_plaza,2024-06-15 13:59:54+00:00
+os serviços de quarto funcionam super bem,1,Atendimento da equipe,foz_plaza,2024-06-22 00:00:00+00:00
+os quartos sempre muito limpos,1,Quarto,foz_plaza,2024-06-22 00:00:00+00:00
+funcionários muito educados,1,Atendimento da equipe,foz_plaza,2024-06-22 00:00:00+00:00
+"Hotel limpo, organizado.",1,Áreas comuns,foz_plaza,2024-10-14 12:00:36+00:00
+falta ventilador no elevador,0,Áreas comuns,foz_plaza,2024-01-01 21:04:19+00:00
+Camas confortáveis,1,Quarto,foz_plaza,2024-07-27 10:34:28+00:00
+tudo limpo e organizado,1,Quarto,foz_plaza,2024-07-27 10:34:28+00:00
+funcionários atenciosos,1,Atendimento da equipe,foz_plaza,2024-07-27 10:34:28+00:00
+Atendimento ótimo,1,Atendimento da equipe,foz_plaza,2024-04-13 23:49:58+00:00
+tratamento pela equipe muito bom,1,Atendimento da equipe,foz_plaza,2024-04-13 23:49:58+00:00
+"parabenizo aqui a recepcionista Simone, muito atenciosa, atendimento nota 100000!!!",1,Atendimento da equipe,foz_plaza,2024-03-18 23:38:44+00:00
+Quarto grande,1,Quarto,foz_plaza,2025-05-29 00:00:00+00:00
+cama espaçosa e macia.,1,Quarto,foz_plaza,2025-05-29 00:00:00+00:00
+Funcionários simpáticos.,1,Atendimento da equipe,foz_plaza,2025-05-29 00:00:00+00:00
+O espaço kids interno é bem equipado e agradou bastante e também o salão de jogos.,1,Áreas comuns,foz_plaza,2025-05-30 00:00:00+00:00
+Os funcionários foram extremamente receptivos e atenciosos durante toda a estadia.,1,Atendimento da equipe,foz_plaza,2025-05-30 00:00:00+00:00
+A cama era firme e confortável,1,Quarto,foz_plaza,2025-05-30 00:00:00+00:00
+Os travesseiros eram muito finos e moles,0,Quarto,foz_plaza,2025-05-30 00:00:00+00:00
+as toalhas poderiam ser maiores e mais macias.,0,Quarto,foz_plaza,2025-05-30 00:00:00+00:00
+"A iluminação do quarto era mal distribuída, o que dificultava criar um ambiente aconchegante à noite.",0,Quarto,foz_plaza,2025-05-30 00:00:00+00:00
+"reclamei que colocaram nos com um bebê de 1 ano no quarto virado pra geral, onde passava várias motos barulhentas a noite toda e tinha vários motores de ar condicionado embaixo da nossa janela, um barulho que parecia um ônibus ligado",0,Quarto,foz_plaza,2025-05-07 00:00:00+00:00
+"E ainda por cima tinha um refletor ligado a noite toda que clareava o quarto, reclamei e nada fizeram pra tentar resolver",0,Quarto,foz_plaza,2025-05-07 00:00:00+00:00
+Tivemos problemas com a garagem que não abria o portão,0,Áreas comuns,foz_plaza,2025-05-07 00:00:00+00:00
+Funcionários educados.,1,Atendimento da equipe,foz_plaza,2025-04-24 00:00:00+00:00
+Piscina limpa,1,Áreas comuns,foz_plaza,2025-03-18 00:00:00+00:00
+quartos arejados e cheirosos.,1,Quarto,foz_plaza,2025-03-18 00:00:00+00:00
+Lençóis e toalhas trocados todos os dias.,1,Quarto,foz_plaza,2025-03-18 00:00:00+00:00
+Obrigada a toda a equipe.,1,Atendimento da equipe,foz_plaza,2025-03-18 00:00:00+00:00
+"O hotel não deu nenhum esclarecimento satisfatório, disse apenas que a camareira não deve ter fechado a porta direito",0,Atendimento da equipe,foz_plaza,2025-01-21 00:00:00+00:00
+"Um dia após meu check-out entraram em contato comigo dizendo que eu saí do hotel sem fazer check-out e que eu não havia pago o estacionamento, refutei indicando o horário em que fiz o check-out no balcão e que consultassem suas câmeras e que fizessem seu serviço de acordo!",0,Atendimento da equipe,foz_plaza,2025-01-21 00:00:00+00:00
+Ar condicionado do quarto não resfria.,0,Quarto,foz_plaza,2024-11-28 00:00:00+00:00
+Cobra estacionamento.,0,Áreas comuns,foz_plaza,2024-11-28 00:00:00+00:00
+A área comum muito bonita e acolhedora.,1,Áreas comuns,foz_plaza,2024-11-28 00:00:00+00:00
+Elevadores não se comunicam portanto causa demora no uso para acessar os quartos.,0,Áreas comuns,foz_plaza,2024-11-28 00:00:00+00:00
+"Gostei muito do atendimento dos funcionários, desde de a portaria ao restaurante.",1,Atendimento da equipe,foz_plaza,2024-12-25 00:00:00+00:00
+sendo o melhor atendimento no bar da piscina.,1,Atendimento da equipe,foz_plaza,2024-12-25 00:00:00+00:00
+bar da piscina,1,Áreas comuns,foz_plaza,2024-12-25 00:00:00+00:00
+funcionários super educados,1,Atendimento da equipe,foz_plaza,2024-11-04 00:00:00+00:00
+O hotel conta com ... serviços de quarto,1,Atendimento da equipe,foz_plaza,2024-08-27 00:00:00+00:00
+O hotel conta com piscinas,1,Áreas comuns,foz_plaza,2024-08-27 00:00:00+00:00
+O hotel conta com ... academia,1,Áreas comuns,foz_plaza,2024-08-27 00:00:00+00:00
+O hotel conta com ... sauna e SPA de massagem,1,Áreas comuns,foz_plaza,2024-08-27 00:00:00+00:00
+atendimento de todos impecável,1,Atendimento da equipe,foz_plaza,2024-08-23 00:00:00+00:00
+O quarto é muito espaçoso,1,Quarto,foz_plaza,2024-08-23 00:00:00+00:00
+a cama de casal é enorme,1,Quarto,foz_plaza,2024-08-23 00:00:00+00:00
+"somente ficou a desejar o serviço de limpeza, um dia deixaram o quarto sem toalhas , outra vez sem papel  higiênico, mas problemas sempre resolvidos com rapidez",0,Atendimento da equipe,foz_plaza,2024-08-23 00:00:00+00:00
+Atendimento excelente e muito simpático da Iara da recepção do Hotel e demais funcionários.,1,Atendimento da equipe,foz_plaza,2025-07-05 03:27:02+00:00
+"Ao chegarmos ganhamos um upgrade de quarto, o qual era maior (uma cama de casal enorme e confortável e uma cama de solteiro), devia ter em torno de uns 20 metros, espaçoso com banheiro grande e moderno, o quarto era muito acolhedor.",1,Quarto,foz_plaza,2025-07-05 03:27:02+00:00
+uma cama de casal enorme e confortável e uma cama de solteiro,1,Quarto,foz_plaza,2025-07-05 03:27:02+00:00
+Limpeza nota dez e roupas de camas limpas e cheirosas.,1,Quarto,foz_plaza,2025-07-05 03:27:02+00:00
+Quarto espaçoso,1,Quarto,foz_plaza,2025-06-22 10:55:37+00:00
+"fui recebido com um atendimento excepcional de todos os funcionários, inclusive os do restaurante, que foram extremamente atenciosos e prestativos",1,Atendimento da equipe,foz_plaza,2025-06-12 22:35:40+00:00
+"O quarto é super confortável e aconchegante, proporcionando uma estadia de descanso",1,Quarto,foz_plaza,2025-06-12 22:35:40+00:00
+deixou MUITO a desejar em relação a limpeza do quarto 403,0,Quarto,foz_plaza,2024-07-21 00:00:00+00:00
+"A boa impressão começou com o Felipe do setor de reservas, que se mostrou bastante empenhado em ajudar e viabilizar a nossa hospedagem no Foz Plaza Hotel.",1,Atendimento da equipe,foz_plaza,2024-04-10 00:00:00+00:00
+"No mais, desde a reserva até o final da hospedagem, todos foram muito prestativos e corteses.",1,Atendimento da equipe,foz_plaza,2024-04-10 00:00:00+00:00
+ficamos muito satisfeitos com o conforto do quarto,1,Quarto,foz_plaza,2024-04-10 00:00:00+00:00
+a área das piscinas é muito agradável,1,Áreas comuns,foz_plaza,2024-04-10 00:00:00+00:00
+"atendimento do Levi, que fez nosso checkin, junto com o Jefferson, com muita educação e simpatia",1,Atendimento da equipe,foz_plaza,2024-01-24 00:00:00+00:00
+"Nosso apto era categoria Confort, muito espaçoso com uma cama de solteiro e uma king",1,Quarto,foz_plaza,2024-01-24 00:00:00+00:00
+"música da piscina, achei muito alta, no dia que fui estava tocando Eminem, achei cansativo",0,Áreas comuns,foz_plaza,2024-01-24 00:00:00+00:00
+Um atendimento impecável.,1,Atendimento da equipe,foz_plaza,2024-01-22 00:00:00+00:00
+Destaque para Elisa do restaurante  que foi extremamente gentil conosco.,1,Atendimento da equipe,foz_plaza,2024-01-22 00:00:00+00:00
+Parabéns pela limpeza e organização dos quartos.,1,Quarto,foz_plaza,2024-01-22 00:00:00+00:00
+O que é bom nesse hotel apenas: ar condicionado,1,Quarto,foz_plaza,2024-01-18 00:00:00+00:00
+O que é bom nesse hotel apenas: cama,1,Quarto,foz_plaza,2024-01-18 00:00:00+00:00
+Quarto sujo,0,Quarto,foz_plaza,2024-01-18 00:00:00+00:00
+O chão do quarto todo ensebado grudento,0,Quarto,foz_plaza,2024-01-18 00:00:00+00:00
+frigobar sujo com pedras de gelo,0,Quarto,foz_plaza,2024-01-18 00:00:00+00:00
+"O chão da piscina é muito sujo, não dá nem para ficar descalço",0,Áreas comuns,foz_plaza,2024-01-18 00:00:00+00:00
+quartos grades,1,Quarto,foz_plaza,2024-03-22 19:47:42+00:00
+cama e travesseiros excelentes,1,Quarto,foz_plaza,2024-03-22 19:47:42+00:00
+a cama muito grande,1,Quarto,foz_plaza,2025-02-11 00:00:00+00:00
+tudo muito limpo,1,Quarto,foz_plaza,2025-02-11 00:00:00+00:00
+esse complexo tem três piscinas duas Jacuzzi,1,Áreas comuns,foz_plaza,2025-02-11 00:00:00+00:00
+uma academia bem novinha,1,Áreas comuns,foz_plaza,2025-02-11 00:00:00+00:00
+uma experiência de massagem numa spa terapia vale muito a pena,1,Áreas comuns,foz_plaza,2025-02-11 00:00:00+00:00
+roupas de cama e banho limpas,1,Quarto,foz_plaza,2024-11-21 00:00:00+00:00
+funcionários receptivos,1,Atendimento da equipe,foz_plaza,2024-11-21 00:00:00+00:00
+melhorar academia,0,Áreas comuns,foz_plaza,2024-11-21 00:00:00+00:00
+Destaque para as instalações sempre limpas,1,Áreas comuns,foz_plaza,2024-11-22 00:00:00+00:00
+funcionários educados e atenciosos,1,Atendimento da equipe,foz_plaza,2024-11-22 00:00:00+00:00
+Atendimento de excelência.,1,Atendimento da equipe,foz_plaza,2024-11-14 00:00:00+00:00
+Agradecimento a Beatriz pelo atendimento Maravilhoso e profissional.,1,Atendimento da equipe,foz_plaza,2024-11-14 00:00:00+00:00
+limpeza diária,1,Quarto,foz_plaza,2024-11-14 00:00:00+00:00
+quartos com camas confortáveis,1,Quarto,foz_plaza,2024-11-14 00:00:00+00:00
+uma luz ambiente bem agradável,1,Quarto,foz_plaza,2024-11-14 00:00:00+00:00
+uma piscina enorme com ótimo cheiro e limpeza!,1,Áreas comuns,foz_plaza,2024-11-14 00:00:00+00:00
+aproveitei bastante a piscina,1,Áreas comuns,foz_plaza,2024-11-07 00:00:00+00:00
+"Um agradecimento à recepcionista Beatriz que me atendeu muito bem, educada",1,Atendimento da equipe,foz_plaza,2024-11-07 00:00:00+00:00
+"Queria também agradecer a Beatriz que nos recepcionou de forma agradavel, e foi extremamente gentil e prestativa",1,Atendimento da equipe,foz_plaza,2024-11-07 00:00:00+00:00
+flexível para ajustes de check in,1,Atendimento da equipe,foz_plaza,2024-04-27 00:00:00+00:00
+flexível para ajustes de check out,1,Atendimento da equipe,foz_plaza,2024-04-27 00:00:00+00:00
+academia muito bons,1,Áreas comuns,foz_plaza,2024-04-27 00:00:00+00:00
+Boas piscinas,1,Áreas comuns,foz_plaza,2024-04-27 00:00:00+00:00
+Aparelhos de ar condicionado estavam desligados em plena manhã num calor absurdo,0,Quarto,foz_plaza,2024-03-22 00:00:00+00:00
+Destaque para simpatia e atenção dos funcionários,1,Atendimento da equipe,foz_plaza,2024-03-22 00:00:00+00:00
+Quarto amplo e espaçoso,1,Quarto,foz_plaza,2024-03-22 00:00:00+00:00
+Cama confortável,1,Quarto,foz_plaza,2024-03-22 00:00:00+00:00
+ar condicionado excelentes,1,Quarto,foz_plaza,2024-03-22 00:00:00+00:00
+"Funcionários atenciosos, simpáticos, prestativos!",1,Atendimento da equipe,foz_plaza,2024-01-27 00:00:00+00:00
+Quarto amplo,1,Quarto,foz_plaza,2024-01-27 00:00:00+00:00
+confortável,1,Quarto,foz_plaza,2024-01-27 00:00:00+00:00
+silencioso,1,Quarto,foz_plaza,2024-01-27 00:00:00+00:00
+"cheiroso, roupas de cama e banho limpas e cheirosas!",1,Quarto,foz_plaza,2024-01-27 00:00:00+00:00
+"O staff é incrivelmente solícito, amigável e sorridente.",1,Atendimento da equipe,foz_plaza,2025-05-08 12:41:56+00:00
+"Ambiente de piscina excelente, contendo piscinas frias, duas jacuzzis, um bar, redes de descanso, espreguiçadeiras e bancos confortáveis.",1,Áreas comuns,foz_plaza,2025-05-08 12:41:56+00:00
+O quarto é de bom tamanho,1,Quarto,foz_plaza,2025-05-08 12:41:56+00:00
+as camas são confortáveis.,1,Quarto,foz_plaza,2025-05-08 12:41:56+00:00
+Área de piscinas e jacuzzi,1,Áreas comuns,foz_plaza,2025-01-06 19:12:12+00:00
+espaços amplios nas salas e quartos,1,Quarto,foz_plaza,2025-01-06 19:12:12+00:00
+"Empatia, gentileza e preocupação de todos os atendentes (recepção e restaurante) hotel em resolver um problema, em vez de buscar colocar a culpa em terceiros",1,Atendimento da equipe,foz_plaza,2025-01-06 19:12:12+00:00
+"Serviços, funcionários e ambiente nota dez!",1,Atendimento da equipe,foz_plaza,2025-05-16 01:11:51+00:00
+"O ar condicionado é velho e era muito difícil alterar sua configuração (subir/baixar temperatura, aumentar ou diminuir o fluxo de ar).",0,Quarto,foz_plaza,2025-03-14 08:03:25+00:00
+"O sensor da porta do elevador não funciona direito, tomei uma portada e vi outros hóspedes tomando portada.",0,Áreas comuns,foz_plaza,2025-03-14 08:03:25+00:00
+"Cheguei a ficar 10 minutos esperando o elevador, pois o mesmo elevador utilizado pelos hóspedes é utilizado pela equipe do hotel com aqueles carrinhos de serviço que são grandes.",0,Áreas comuns,foz_plaza,2025-03-14 08:03:25+00:00
+"Fui efetuar uma reclamação na recepção e o funcionário nem te olha na cara, se limitando a dizer que iria fazer uma anotação, sem se preocupar em resolver o problema.",0,Atendimento da equipe,foz_plaza,2025-03-14 08:03:25+00:00
+atendimento amador do check in,0,Atendimento da equipe,foz_plaza,2025-02-16 01:35:45+00:00
+"o ar condicionado do quarto deixou a desejar, estava muito calor e ele por si só não estava dando conta",0,Quarto,foz_plaza,2025-02-08 18:15:59+00:00
+os funcionarios sao educados,1,Atendimento da equipe,foz_plaza,2024-12-11 10:44:25+00:00
+as instacoes sao novas,1,Áreas comuns,foz_plaza,2024-12-11 10:44:25+00:00
+tudo muito bem limpo,1,Quarto,foz_plaza,2024-12-11 10:44:25+00:00
+Os colaboradores sempre muito solícitos.,1,Atendimento da equipe,foz_plaza,2024-12-26 19:41:36+00:00
+hotel bem limpinho e organizado,1,Quarto,foz_plaza,2024-10-23 12:49:34+00:00
+a única coisa que fiquei meia chateada foi com a recepção na hora do chekin,0,Atendimento da equipe,foz_plaza,2024-04-04 23:19:50+00:00
+Quartos amplos e bem equipados.,1,Quarto,foz_plaza,2024-01-09 18:07:24+00:00
+Funcionários atenciosos e prestativos.,1,Atendimento da equipe,foz_plaza,2024-01-09 18:07:24+00:00
+quarto grande e aconchegante,1,Quarto,foz_plaza,2025-05-05 00:00:00+00:00
+área das piscinas linda,1,Áreas comuns,foz_plaza,2025-05-05 00:00:00+00:00
+Funcionários muito simpáticos e prestativos,1,Atendimento da equipe,foz_plaza,2025-05-05 00:00:00+00:00
+"Deixo agradecimentos especial ao Sr Amarildo, David, Denise, Batista, Denis, Diego e tantos outros que foram mto amorosos conoscos.",1,Atendimento da equipe,foz_plaza,2025-04-10 00:00:00+00:00
+"Sinceramente, nunca me senti tão especial!",1,Atendimento da equipe,foz_plaza,2025-04-10 00:00:00+00:00
+Tres piscinas para diversão,1,Áreas comuns,foz_plaza,2025-04-08 00:00:00+00:00
+academia,1,Áreas comuns,foz_plaza,2025-04-08 00:00:00+00:00
+Tem estacionamento,1,Áreas comuns,foz_plaza,2025-04-08 00:00:00+00:00
+"Tive um probleminha com a Internet, mas prontamente foi resolvido.",1,Atendimento da equipe,foz_plaza,2025-03-24 00:00:00+00:00
+Ambientes limpos e organizados.,1,Áreas comuns,foz_plaza,2024-11-21 00:00:00+00:00
+"Atendimento ótimo. Hospedei me por apenas uma noite, mas o atendimento na recepção foi ótimo, principalmente da Simone, uma simpatia em pessoa e do Jeferson.",1,Atendimento da equipe,foz_plaza,2024-11-21 00:00:00+00:00
+"O único porém foi o ar condicionado que não estava dando conta do calor, 35 graus, precisou de algumas horas para refrescar ( o quarto ficava no final do corredor).",0,Quarto,foz_plaza,2024-11-21 00:00:00+00:00
+funcionários prestativos,1,Atendimento da equipe,foz_plaza,2024-11-21 00:00:00+00:00
+roupa de cama e toalhas limpas,1,Quarto,foz_plaza,2024-11-21 00:00:00+00:00
+melhorar academia,0,Áreas comuns,foz_plaza,2024-11-21 00:00:00+00:00
+o quarto era bem amplo,1,Quarto,foz_plaza,2024-11-16 00:00:00+00:00
+o quarto era bem amplo e limpo,1,Quarto,foz_plaza,2024-11-16 00:00:00+00:00
+As áreas comuns bem bonitas e organizdas,1,Áreas comuns,foz_plaza,2024-11-16 00:00:00+00:00
+"O atendimento foi ótimo o hotel maravilhoso todos os atendentes muitos prestativos e dispostos a sanar qualquer dúvida, em especial a recepcionista Ana Beatriz que nos tendeu maravilhosamente bem, uma pessoa muito carismática e disposta a dar dicas maravilhosas tanto do hotel como da cidade de Foz",1,Atendimento da equipe,foz_plaza,2024-11-01 00:00:00+00:00
+"Gostaria também de parabenizar a recepcionista Beatriz, que foi muito gentil, dando informações maravilhosas e também dicas de passeio, minha gratidão.",1,Atendimento da equipe,foz_plaza,2024-11-01 00:00:00+00:00
+piscinas,1,Áreas comuns,foz_plaza,2024-10-29 00:00:00+00:00
+"Parabéns, para todos da equipe!!!!",1,Atendimento da equipe,foz_plaza,2024-10-21 00:00:00+00:00
+Os recepcionistas Eduardo e Simone muito atenciosos e carinhosos.,1,Atendimento da equipe,foz_plaza,2024-06-27 00:00:00+00:00
+quartos espaçosos,1,Quarto,foz_plaza,2024-06-22 00:00:00+00:00
+bem decorados,1,Quarto,foz_plaza,2024-06-22 00:00:00+00:00
+uma piscina relaxante,1,Áreas comuns,foz_plaza,2024-06-22 00:00:00+00:00
+funcionários muito educados,1,Atendimento da equipe,foz_plaza,2024-04-25 00:00:00+00:00
+os funcionários são extremamente atenciosos,1,Atendimento da equipe,foz_plaza,2024-04-23 00:00:00+00:00
+o quarto é limpo,1,Quarto,foz_plaza,2024-04-23 00:00:00+00:00
+desde o serviço na piscina,0,Áreas comuns,foz_plaza,2024-01-31 00:00:00+00:00
+Funcionários do bar da piscina atenciosos e ágeis.,1,Atendimento da equipe,foz_plaza,2024-01-07 00:00:00+00:00
+Recepção uma simpatia.,1,Atendimento da equipe,foz_plaza,2024-01-07 00:00:00+00:00
+Quartos limpos e grandes.,1,Quarto,foz_plaza,2024-01-07 00:00:00+00:00
+Quartos limpos e grandes.,1,Quarto,foz_plaza,2024-01-07 00:00:00+00:00
+"Piscinas perfeitas, aquecidas e limpas.",1,Áreas comuns,foz_plaza,2024-01-07 00:00:00+00:00
+"Estacionamento coberto muito quente, sem nenhum tipo de ventilação.",0,Áreas comuns,foz_plaza,2024-01-07 00:00:00+00:00
+"Demais funcionários, da limpeza,  restaurante, muito atenciosos e solícitos.",1,Atendimento da equipe,foz_plaza,2024-02-07 01:42:28+00:00
+"Alguns Funcionários da recepção necessitam de um bom treinamento para atendimento aos hóspedes. Falta-lhes cortesia, bom senso e vontade.",0,Atendimento da equipe,foz_plaza,2024-02-07 01:42:28+00:00
+"Demais funcionários, da limpeza,  restaurante, muito atenciosos e solícitos.",1,Atendimento da equipe,foz_plaza,2024-02-07 01:42:28+00:00
+achamos a estrutura muito bonita,1,Áreas comuns,foz_plaza,2024-11-07 00:00:00+00:00
+parabéns a limpeza do hotel,1,Quarto,foz_plaza,2024-11-07 00:00:00+00:00
+"Agradeço também ao atendimento da Beatriz que nos recepcionou muito bem, nos indicou locais para visitar em Foz, sempre solicita e carismática",1,Atendimento da equipe,foz_plaza,2024-11-07 00:00:00+00:00
+funcionários educados,1,Atendimento da equipe,foz_plaza,2024-05-27 19:42:03+00:00
+lugar limpo,1,Quarto,foz_plaza,2024-05-27 19:42:03+00:00
+confortável,1,Quarto,foz_plaza,2024-05-27 19:42:03+00:00
+O ar condicionado é péssimo!! Hotel muito quente!!,0,Quarto,foz_plaza,2025-03-01 00:00:00+00:00
+"Eles não queriam trocar nosso quarto, só trocaram depois que dissemos que não iríamos aceitar passar mais uma noite sem conseguir dormir devido ao calor.",0,Quarto,foz_plaza,2025-03-01 00:00:00+00:00
+cama boa,1,Quarto,foz_plaza,2024-02-02 15:05:14+00:00
+desde o serviço na piscina,0,Áreas comuns,foz_plaza,2024-02-01 01:52:22+00:00
+os quartos confortáveis,1,Quarto,foz_plaza,2024-01-19 11:43:44+00:00
+as piscinas  são boas tbm,1,Áreas comuns,foz_plaza,2024-11-02 15:25:26+00:00
+"a limpeza das piscinas, tivemos que pedir pra limpar a piscina infantil onde estávamos, muitas folhas e bichos",0,Áreas comuns,foz_plaza,2024-11-02 15:25:26+00:00
+academia ótimas tbm,1,Áreas comuns,foz_plaza,2024-11-02 15:25:26+00:00
+ainda tem o spa Theras onde fiz uma massagem maravilhosa,1,Áreas comuns,foz_plaza,2024-11-02 15:25:26+00:00
+serviço de quarto,1,Atendimento da equipe,foz_plaza,2025-06-11 21:13:26+00:00
+ótimo atendimento,1,Atendimento da equipe,foz_plaza,2025-06-11 21:13:26+00:00
+O nosso quarto era muito confortável.,1,Quarto,foz_plaza,2025-06-05 21:15:34+00:00
+"A área da piscina era muito boa, com três piscinas e duas jacuzzis, e o jardim impecável.",1,Áreas comuns,foz_plaza,2025-06-05 21:15:34+00:00
+Tem uma boa academia,1,Áreas comuns,foz_plaza,2025-06-05 21:15:34+00:00
+Os funcionários são muito atenciosos.,1,Atendimento da equipe,foz_plaza,2025-06-05 21:15:34+00:00
+Limpeza,1,Quarto,foz_plaza,2024-06-28 23:28:17+00:00
+cordialidade dos funcionários,1,Atendimento da equipe,foz_plaza,2024-06-28 23:28:17+00:00
+garagem fechada e coberta ( mesmo sendo paga),1,Áreas comuns,foz_plaza,2024-06-28 23:28:17+00:00
+cama muito confortável,1,Quarto,foz_plaza,2024-06-28 23:28:17+00:00
+Quarto poderia ser mais iluminado.,0,Quarto,foz_plaza,2024-06-28 23:28:17+00:00
+funcionários educados e solícitos,1,Atendimento da equipe,foz_plaza,2025-03-16 18:10:30+00:00
+hotel sempre limpo e cheiroso,1,Quarto,foz_plaza,2025-03-16 18:10:30+00:00
+hotel bonito e aconchegante,1,Quarto,foz_plaza,2025-03-16 18:10:30+00:00
+Piscina e Jscuzzi sempre limpas.,1,Áreas comuns,foz_plaza,2024-12-09 13:14:23+00:00
+Equipe extremamente educada.,1,Atendimento da equipe,foz_plaza,2024-12-09 13:14:23+00:00
+o bar da piscina bem legal também!,1,Áreas comuns,foz_plaza,2024-11-14 14:49:35+00:00
+"Todos muito receptivos, desde a entrada ate a sua saída!",1,Atendimento da equipe,foz_plaza,2024-11-14 14:49:35+00:00
+Quarto limpo,1,Quarto,foz_plaza,2024-11-14 14:49:35+00:00
+grande,1,Quarto,foz_plaza,2024-11-14 14:49:35+00:00
+com um ótimo ar condicionado,1,Quarto,foz_plaza,2024-11-14 14:49:35+00:00
+"Piscinas excelentes, porém vi alguns bichos nela, poderiam limpar com uma frequencia maior",0,Áreas comuns,foz_plaza,2024-11-14 14:49:35+00:00
+"A área de lazer e do bar são muito lindas e aconchegantes, tudo muito bem cuidado.",1,Áreas comuns,foz_plaza,2024-10-08 20:40:50+00:00
+"Além de sala de jogos, serviço de spa entre outro.",1,Áreas comuns,foz_plaza,2024-10-08 20:40:50+00:00
+o corpo de funcionários é bem cortês,1,Atendimento da equipe,foz_plaza,2024-10-07 01:02:04+00:00
+quartos ventilados,1,Quarto,foz_plaza,2024-09-25 16:36:19+00:00
+ambientes limpos,1,Quarto,foz_plaza,2024-09-25 16:36:19+00:00
+funcionários bem atenciosos,1,Atendimento da equipe,foz_plaza,2024-09-25 16:36:19+00:00
+"linda área aberta com piscina, bar, balanços e bancos para sentar",1,Áreas comuns,foz_plaza,2024-09-25 16:36:19+00:00
+Fora o serviço de quarto / governança mexeu em itens pessoais,0,Atendimento da equipe,foz_plaza,2024-07-22 15:07:43+00:00
+"Do inicio ao fim houve descaso dos recepcionistas, mto mal educados, principalmente a moça. Daiana se não me engano, super mal educada",0,Atendimento da equipe,foz_plaza,2024-07-22 15:07:43+00:00
+Falta sempre toalhas do quarto e papel higiênico. Tive que pedir várias vezes.,0,Quarto,foz_plaza,2024-05-24 14:39:33+00:00
+"Está sujo e barulhento, pois está em reforma e não falaram nada.",0,Quarto,foz_plaza,2024-05-24 14:39:33+00:00
+"Área externa da piscina , as poltronas tiraram as almofadas porque choveu, parou de chover não colocaram de novo.",0,Áreas comuns,foz_plaza,2024-05-24 14:39:33+00:00
+"Jacuzzi suja, choveu não limparam.",0,Áreas comuns,foz_plaza,2024-05-24 14:39:33+00:00
+"Os funcionários do refeitório, café da manhã são bons.",1,Atendimento da equipe,foz_plaza,2024-05-24 14:39:33+00:00
+Da recepção mais ou menos.,0,Atendimento da equipe,foz_plaza,2024-05-24 14:39:33+00:00
+"o quarto era muito bom, com ar condicionado",1,Quarto,foz_plaza,2024-05-13 18:29:21+00:00
+na área da piscina ficam tocando música alta o dia inteiro e escuta tudo nos quartos,0,Áreas comuns,foz_plaza,2024-05-13 18:29:21+00:00
+"No checkin, os funcionários foram muito educados e simpáticos.",1,Atendimento da equipe,foz_plaza,2024-04-13 15:14:04+00:00
+O quarto era espaçoso e confortável,1,Quarto,foz_plaza,2024-04-13 15:14:04+00:00
+frigobar gelando muito bem,1,Quarto,foz_plaza,2024-04-13 15:14:04+00:00
+limpeza feita todos os dias,1,Quarto,foz_plaza,2024-04-13 15:14:04+00:00
+"A área da piscina muito agradável, com petiscos e drinks ótimos.",1,Áreas comuns,foz_plaza,2024-04-13 15:14:04+00:00
+"Muitas vagas de rua disponíveis, caso você não queira utilizar o estacionamento, que é cobrado a parte.",1,Áreas comuns,foz_plaza,2024-04-13 15:14:04+00:00
+quarto muito limpo,1,Quarto,foz_plaza,2024-04-02 00:40:21+00:00
+atendentes,1,Atendimento da equipe,foz_plaza,2024-04-02 00:40:21+00:00
+piscina funciona até mais tarde,1,Áreas comuns,foz_plaza,2024-04-02 00:40:21+00:00
+elevadores,1,Áreas comuns,foz_plaza,2024-04-02 00:40:21+00:00
+O serviço é excelente com funcionários muito prestativos.,1,Atendimento da equipe,foz_plaza,2024-01-17 22:10:10+00:00
+Possui 3 piscinas abertas incluindo uma para crianças além de duas hidromassagem também externa mas que não chegamos a utilizar.,1,Áreas comuns,foz_plaza,2024-01-17 22:10:10+00:00
+a piscina tem uma atmosfera boa.,1,Áreas comuns,foz_plaza,2024-01-11 00:22:37+00:00
+Em função do grande movimento teve dias em que a piscina estava meio turva,0,Áreas comuns,foz_plaza,2024-01-11 00:22:37+00:00
+funcionários bem preparados e solícitos,1,Atendimento da equipe,foz_plaza,2024-01-10 23:56:12+00:00
+Camas confortáveis,1,Quarto,foz_plaza,2024-04-27 00:00:00+00:00
+jacuzzi boa,1,Áreas comuns,foz_plaza,2024-04-27 00:00:00+00:00
+"Fizemos o check in, o recepcionista entregou os cartões e apenas apontou o elevador.",0,Atendimento da equipe,foz_plaza,2024-08-16 23:42:17+00:00
+E a fechadura ainda não estava funcionando bem.,0,Quarto,foz_plaza,2024-08-16 23:42:17+00:00
+Piscinas,1,Áreas comuns,foz_plaza,2024-04-06 20:06:47+00:00
+boa limpeza,1,Quarto,foz_plaza,2024-08-11 23:03:04+00:00
+O ar condicionado aparentemente é um pouco antigo,0,Quarto,foz_plaza,2024-08-11 23:03:04+00:00
+funcionários educados,1,Atendimento da equipe,foz_plaza,2024-08-11 23:03:04+00:00
+Mas cobra estacionamento separadamente,0,Áreas comuns,foz_plaza,2024-07-15 00:36:12+00:00
+tem piscinas,1,Áreas comuns,foz_plaza,2025-03-29 13:02:49+00:00
+piscina,1,Áreas comuns,foz_plaza,2025-01-27 19:24:07+00:00
+serviço de agência de turismo,1,Atendimento da equipe,foz_plaza,2025-01-27 19:24:07+00:00
+recepção do hotel,1,Atendimento da equipe,foz_plaza,2025-01-27 19:24:07+00:00
+Gratidão ótimo atendimento!,1,Atendimento da equipe,foz_plaza,2025-01-26 11:52:48+00:00
+funcionários cordiais,1,Atendimento da equipe,foz_plaza,2025-01-22 02:21:16+00:00
+Noite mal dormida por incompetência do ar condicionado.,0,Quarto,foz_plaza,2024-12-01 13:53:07+00:00
+só achei o ar-condicionado do quarto fraco,0,Quarto,foz_plaza,2024-10-18 13:01:06+00:00
+serviço de quarto,1,Atendimento da equipe,foz_plaza,2024-09-10 14:15:15+00:00
+"tudo muito limpo cheiroso, toalhas de banho roupas de cama",1,Quarto,foz_plaza,2024-09-10 14:15:15+00:00
+recepção nota 10 em atendimento e simpatia,1,Atendimento da equipe,foz_plaza,2024-09-10 14:15:15+00:00
+serviço de alta qualidade do checkin,1,Atendimento da equipe,foz_plaza,2024-01-28 23:49:14+00:00
+serviço de alta qualidade do checkout,1,Atendimento da equipe,foz_plaza,2024-01-28 23:49:14+00:00
+Quartos amplos e confortáveis,1,Quarto,foz_plaza,2024-01-28 23:49:14+00:00
+"o hotel tem estacionamento próprio, porém não tem menção de cobrança adicional, a surpresa vem na hora da reserva, particularmente não gosto de coisas assim",0,Áreas comuns,foz_plaza,2024-01-28 23:49:14+00:00
