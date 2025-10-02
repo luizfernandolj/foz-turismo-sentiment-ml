@@ -100,7 +100,6 @@ A quantificação é a tarefa de estimar a distribuição relativa das classes e
 | Aggregative   | Threshold Methods         | Median Sweep                         | Forman, 2008                     |
 | Aggregative   | Threshold Methods         | Probabilistic Adjusted Classify and Count | Bella et al., 2010                |
 | Aggregative   | Mixture Models            | Distribution y-Similarity             | Maletzke et al., 2019            |
-| Aggregative   | Mixture Models            | Synthetic Distribution y-Similarity   | Maletzke et al., 2021            |
 | Aggregative   | Mixture Models            | Hellinger Distance Minimization       | Gonzáles-Castro et al., 2013     |
 | Aggregative   | Mixture Models            | Sample Mean Matching                  | Hassan et al., 2013              |
 | Aggregative   | Mixture Models            | Sample Ordinal Distance               | Maletzke et al., 2019            |
