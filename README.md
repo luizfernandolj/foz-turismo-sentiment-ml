@@ -1,6 +1,6 @@
-## Como Rodar os Experimentos (detalhado)
+## Como Rodar os Experimentos
 
-Os experimentos utilizam o protocolo APP (Artificial Prevalence Protocol) para avaliar quantificadores sob diferentes distribuições de classe artificialmente geradas. O fluxo é o seguinte:
+Os experimentos utilizam o protocolo APP (Artificial Prevalence Protocol) para avaliar quantificadores sob diferentes distribuições de classe artificialmente geradas, utilizando os métodos da biblioteca de quantificação [mlquantify](https://github.com/luizfernandolj/mlquantify). O fluxo é o seguinte:
 
 - Separe os dados em conjunto de treinamento (L) e conjunto de teste (U), onde \( U \) permanece não rotulado para o quantificador.
 
